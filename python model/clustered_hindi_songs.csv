@@ -1,0 +1,1000 @@
+song_name,singer,singer_id,duration,language,released_date,danceability,acousticness,energy,liveness,loudness,speechiness,tempo,mode,key,Valence,time_signature,popularity,Stream,Cluster
+Raat Kali Ek Khwaab Mein Aayi,Kishore Kumar,/artist/kishore-kumar,05:00,Hindi,04-11-2014,0.7,0.016,0.72,0.562,-3.518,0.08,199.634,0.0,6.0,0.07,4.0,42.0,2650160.0,3
+Bole Re Papihara,Vani Jairam,/artist/vani-jayaram,03:34,Hindi,01-08-2021,0.78,0.38,0.87,0.3,-9.543,0.03,105.756,1.0,7.0,0.049,4.0,62.0,110282.0,2
+Pallu Latke,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,04:26,Hindi,03-02-2004,0.81,0.9,0.13,0.426,-7.714,0.048,184.126,0.0,11.0,0.0875,4.0,47.0,8853133.0,0
+Tere Chehre Mein Woh Jadoo Hai,Kishore Kumar,/artist/kishore-kumar,04:11,Hindi,10-04-2014,0.71,0.27,0.442,0.002,-3.031,0.02,127.996,1.0,8.0,0.03,4.0,83.0,9113225.0,2
+Mamiya Kairo Mama,Shailendra Singh,/artist/shailendra-singh,07:01,Hindi,02-06-2015,0.25,0.27,0.762,0.818,-9.867,0.095,185.212,0.0,1.0,0.051,4.0,95.0,7223613.0,3
+Maine Kaha Phoolon Se,Lata Mangeshkar,/artist/lata-mangeshkar,05:02,Hindi,04-01-2009,0.3,0.19,0.586,0.715,-9.959,0.091,140.284,1.0,8.0,0.0358,4.0,81.0,2521686.0,1
+Har Kisiko Nahin Milta Yahan Pyar,Manhar Udhas,/artist/manhar-udhas,05:06,Hindi,10-01-2004,0.31,0.331,0.925,0.78,-8.391,0.04,202.206,1.0,7.0,0.0419,4.0,69.0,9823912.0,4
+Kisko Qatil Main Kahoon,Jagjit Singh,/artist/jagjeet-singh-1,07:01,Hindi,07-05-2007,0.13,0.22,0.525,0.278,-12.772,0.017,172.329,0.0,10.0,0.006,4.0,55.0,9127856.0,4
+Jab Hum Jawan Honge,Lata Mangeshkar|Shabbir Kumar,/artist/lata-mangeshkar|/artist/shabbir-kumar,07:09,Hindi,08-03-2011,0.61,0.859,0.695,0.216,-10.146,0.04,199.936,0.0,9.0,0.013,4.0,39.0,9423232.0,0
+Ae Mere Zohra Jabeen,Manna Dey,/artist/manna-dey,03:55,Hindi,03-03-2011,0.95,0.012,0.791,0.928,-6.492,0.0726,108.033,1.0,6.0,0.042,4.0,97.0,4556667.0,2
+Humko Tumse Ho Gaya Hai Pyar,Kishore Kumar|Lata Mangeshkar|Mohammed Rafi|Mukesh,/artist/kishore-kumar|/artist/lata-mangeshkar|/artist/mohammad-rafi|/artist/mukesh,07:33,Hindi,09-02-2022,0.75,0.74,0.009,0.655,-4.432,0.008,163.983,1.0,7.0,0.047,4.0,97.0,4937954.0,0
+Abke Na Sawan Barse,Lata Mangeshkar,/artist/lata-mangeshkar,04:29,Hindi,11-04-2020,0.08,0.59,0.272,0.78,-11.544,0.099,177.894,0.0,11.0,0.0,4.0,54.0,6284096.0,1
+Guzre Hain Aaj Ishq Mein Ham,Mohammed Rafi,/artist/mohammad-rafi,03:51,Hindi,07-12-2009,0.07,0.78,0.607,0.154,-3.006,0.028,120.014,0.0,4.0,0.08,4.0,26.0,10142789.0,1
+Sun Sun Sun Didi,Asha Bhosle,/artist/asha-bhosle-1,03:42,Hindi,11-06-2020,0.94,0.735,0.506,0.561,-13.06,0.07,112.568,1.0,1.0,0.09,4.0,88.0,6225297.0,2
+Kabhi Kabhi Mere Dil Mein (Solo),Mukesh,/artist/mukesh,04:45,Hindi,06-10-2005,0.07,0.247,0.657,0.836,-12.183,0.08,116.044,1.0,7.0,0.039,4.0,57.0,5750162.0,1
+Tumse Milkar Na Jane,Lata Mangeshkar|Shabbir Kumar,/artist/lata-mangeshkar|/artist/shabbir-kumar,06:53,Hindi,01-12-2005,0.15,0.83,0.152,0.406,-2.118,0.0293,202.036,1.0,7.0,0.013,4.0,41.0,8377399.0,0
+Dum Dum Diga Diga,Mukesh,/artist/mukesh,03:21,Hindi,06-05-2002,0.32,0.1,0.977,0.157,-2.344,0.02,130.064,0.0,7.0,0.061,4.0,50.0,7686988.0,4
+Phoolon Ka Taron Ka (Part 1),Kishore Kumar,/artist/kishore-kumar,06:00,Hindi,10-05-2011,0.99,0.95,0.133,0.881,-8.692,0.0307,203.56,0.0,1.0,0.099,4.0,88.0,3111582.0,0
+Woh Humse Khafa Hain,Udit Narayan|Shreya Ghoshal,/artist/udit-narayan|/artist/shreya-ghoshal,05:13,Hindi,11-09-2021,0.38,0.69,0.493,0.298,-5.248,0.04,179.976,1.0,11.0,0.009,4.0,34.0,8625705.0,0
+Hamein Tumse Pyar Kitna,Parveen Sultana,/artist/parveen-sultana,04:53,Hindi,08-09-2002,0.74,0.749,0.065,0.278,-2.183,0.0608,149.167,0.0,4.0,0.06,4.0,40.0,3700023.0,1
+Jalte Hain Jiske Liye,Talat Mahmood,/artist/talat-mahmood,04:06,Hindi,09-12-2011,0.62,0.32,0.785,0.068,-4.484,0.047,192.24,0.0,2.0,0.035,4.0,47.0,9502965.0,3
+Jahan Mil Jayen Chaar Yaar,Amitabh Bachchan|Kishore Kumar,/artist/amitabh-bachchan|/artist/kishore-kumar,06:36,Hindi,07-04-2009,0.78,0.979,0.225,0.661,-3.932,0.089,174.032,1.0,0.0,0.06,4.0,87.0,6376964.0,1
+Tu Nahin To Zindagi Men Aur Kya,Chitra Singh,/artist/chitra-singh,05:24,Hindi,11-02-2018,0.19,0.366,0.753,0.663,-8.154,0.0963,153.582,0.0,8.0,0.0152,4.0,77.0,7815816.0,1
+Hum Tumhen Chahte Hain,Kanchan|Manhar Udhas|Anand,/artist/kanchan|/artist/manhar-udhas|/artist/anand,07:16,Hindi,08-07-2004,0.2,0.99,0.012,0.826,-5.415,0.0504,150.002,1.0,6.0,0.028,4.0,47.0,7170438.0,1
+Tera Saath Hai Kitna Pyara,Kishore Kumar|Sapna Awasthi,/artist/kishore-kumar|/artist/sapna-awasthi,05:36,Hindi,08-07-2007,0.17,0.9,0.476,0.787,-3.76,0.0961,139.631,0.0,5.0,0.049,4.0,56.0,5414621.0,1
+Meri Qismat Men Tu Nahin Shayad,Lata Mangeshkar|Suresh Wadkar,/artist/lata-mangeshkar|/artist/suresh-wadkar,07:16,Hindi,11-03-2020,0.91,0.59,0.875,0.547,-3.797,0.06,149.978,1.0,2.0,0.06,4.0,55.0,8784665.0,3
+Oonche Neeche Raste (Happy),Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,05:22,Hindi,05-04-2024,0.41,0.508,0.694,0.53,-9.663,0.063,104.716,1.0,1.0,0.0947,4.0,69.0,6074288.0,2
+Chhoti Si Kahani Se,Asha Bhosle,/artist/asha-bhosle-1,07:18,Hindi,11-09-2014,0.83,0.98,0.83,0.449,-8.099,0.093,139.841,1.0,7.0,0.01,4.0,63.0,6098907.0,1
+Mehboob Mere Mehboob Mere,Lata Mangeshkar|Mukesh,/artist/lata-mangeshkar|/artist/mukesh,05:06,Hindi,05-11-2016,0.98,0.17,0.979,0.711,-11.346,0.0933,199.886,1.0,1.0,0.05,4.0,69.0,5232028.0,3
+Wada Kar Le Sajna,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,04:47,Hindi,02-01-2014,0.92,0.998,0.982,0.616,-4.496,0.018,153.921,0.0,5.0,0.03,4.0,79.0,5605584.0,0
+Kahin Door Jab Din Dhal Jaye,Mukesh,/artist/mukesh,05:38,Hindi,05-11-2016,0.65,0.43,0.403,0.516,-13.288,0.05,122.057,0.0,0.0,0.09,4.0,39.0,872848.0,2
+Mere Bhole Balam,Kishore Kumar,/artist/kishore-kumar,03:14,Hindi,03-04-2019,0.62,0.67,0.175,0.514,-12.262,0.057,160.064,1.0,7.0,0.0705,4.0,73.0,5637027.0,0
+Mohabbat Bade Kaam Ki Cheez Hai,Kishore Kumar|Lata Mangeshkar|K J Yesudas,/artist/kishore-kumar|/artist/lata-mangeshkar|/artist/k-j-yesudas,04:39,Hindi,05-09-2022,0.41,0.77,0.075,0.247,-13.499,0.027,154.434,1.0,7.0,0.0,4.0,77.0,6332927.0,0
+Dil Wil Pyar Wyar,Lata Mangeshkar,/artist/lata-mangeshkar,05:09,Hindi,11-03-2009,0.19,0.299,0.527,0.039,-4.595,0.08,192.376,0.0,11.0,0.084,4.0,36.0,4225079.0,3
+Pyar Diwana Hota Hai,Kishore Kumar,/artist/kishore-kumar,04:45,Hindi,12-04-2011,0.75,0.512,0.714,0.109,-11.191,0.07,142.867,1.0,0.0,0.0861,4.0,92.0,6617896.0,3
+Chand Jaise Mukhde Pe,K J Yesudas,/artist/k-j-yesudas,04:07,Hindi,11-11-2000,0.76,0.46,0.728,0.433,-7.464,0.02,109.237,1.0,0.0,0.0217,4.0,63.0,4958933.0,2
+Yeh Galiyan Yeh Chaubara,Lata Mangeshkar,/artist/lata-mangeshkar,06:28,Hindi,01-01-2002,0.29,0.585,0.202,0.454,-4.114,0.08,178.782,0.0,6.0,0.08,4.0,63.0,8855415.0,1
+Teri Yaad Aa Rahi Hai,Amit Kumar,/artist/amit-kumar,05:35,Hindi,07-11-2009,0.54,0.49,0.579,0.811,-13.44,0.09,125.014,0.0,0.0,0.098,4.0,55.0,10226802.0,1
+Aaj Kal Yaad Kuch Aur Rehta Nahin,Mohammad Aziz,/artist/mohammad-aziz,06:26,Hindi,12-03-2015,0.68,0.029,0.21,0.638,-7.615,0.026,163.236,0.0,1.0,0.027,4.0,82.0,6553318.0,4
+Ek Baar Mooskura Do,Kishore Kumar|Asha Bhosle,/artist/kishore-kumar|/artist/asha-bhosle-1,04:39,Hindi,04-10-2008,0.17,0.92,0.853,0.276,-13.143,0.024,183.426,1.0,8.0,0.083,4.0,57.0,9348126.0,0
+Tumse Milke,Lata Mangeshkar,/artist/lata-mangeshkar,03:51,Hindi,02-03-2009,0.47,0.34,0.481,0.817,-13.535,0.03,189.194,0.0,10.0,0.09,4.0,64.0,6381604.0,4
+Ek Baat Kahoon Gar Mano Tum,Lata Mangeshkar,/artist/lata-mangeshkar,03:59,Hindi,07-01-2017,0.74,0.716,0.597,0.38,-5.393,0.09,174.012,1.0,7.0,0.099,4.0,39.0,4419048.0,3
+Tera Mera Saath Rahe,Lata Mangeshkar,/artist/lata-mangeshkar,05:45,Hindi,05-09-2021,0.48,0.15,0.745,0.129,-3.794,0.013,160.126,0.0,1.0,0.064,4.0,68.0,10649334.0,4
+Kitne Sapne Kitne Arman,Kishore Kumar,/artist/kishore-kumar,04:32,Hindi,02-06-2006,0.66,0.172,0.644,0.049,-9.296,0.0058,149.818,0.0,6.0,0.0441,4.0,51.0,10992849.0,2
+O Saathi Re (Male),Kishore Kumar,/artist/kishore-kumar,04:33,Hindi,08-02-2019,0.73,0.832,0.687,0.854,-4.951,0.0207,131.951,1.0,1.0,0.015,4.0,80.0,365118.0,2
+Aaj Se Pehle Aaj Se Jyada,K J Yesudas,/artist/k-j-yesudas,05:04,Hindi,09-01-2016,0.74,0.791,0.925,0.676,-8.625,0.0811,125.461,0.0,3.0,0.05,4.0,42.0,2764811.0,2
+Aao Twist Karen,Manna Dey,/artist/manna-dey,04:15,Hindi,08-04-2014,0.56,0.64,0.38,0.254,-7.202,0.0983,198.022,0.0,5.0,0.093,4.0,43.0,4245607.0,3
+Phoolon Ke Rang Se,Kishore Kumar,/artist/kishore-kumar,05:07,Hindi,04-12-2011,0.59,0.81,0.221,0.277,-12.518,0.03,120.076,1.0,7.0,0.02,4.0,75.0,3128917.0,2
+Bheegi Bheegi,James,/artist/james-1,05:45,Hindi,04-04-2010,0.89,0.27,0.087,0.474,-9.106,0.04,105.018,1.0,0.0,0.03,4.0,81.0,5377318.0,2
+Taarif Karoon Kya Uski,Mohammed Rafi,/artist/mohammad-rafi,05:26,Hindi,07-07-2007,0.23,0.19,0.083,0.823,-6.862,0.02,130.075,1.0,7.0,0.06,4.0,30.0,3835056.0,4
+Chori Chori Koi,Lata Mangeshkar,/artist/lata-mangeshkar,05:04,Hindi,04-09-2021,0.05,0.87,0.188,0.289,-6.717,0.091,187.992,0.0,10.0,0.04,4.0,55.0,10752476.0,1
+O Majhi Re Apna Kinara,Kishore Kumar,/artist/kishore-kumar,03:04,Hindi,08-11-2010,0.68,0.67,0.091,0.778,-6.367,0.06,206.016,1.0,11.0,0.0904,4.0,75.0,7130953.0,0
+Tamma Tamma Loge,Anuradha Paudwal|Bappi Lahiri,/artist/anuradha-paudwal-2|/artist/bappi-lahiri,07:54,Hindi,11-09-2019,0.51,0.88,0.041,0.652,-8.631,0.003,148.294,1.0,0.0,0.0466,4.0,26.0,921721.0,0
+Phoolon Ka Taron Ka (Part 2),Kishore Kumar,/artist/kishore-kumar,04:03,Hindi,02-04-2020,0.77,0.35,1.0,0.438,-12.697,0.0246,145.59,1.0,11.0,0.026,4.0,96.0,1248503.0,2
+Pyar Mujh Se Jo Kiya,Jagjit Singh,/artist/jagjeet-singh-1,04:30,Hindi,07-03-2003,0.76,0.264,0.094,0.182,-10.492,0.0968,160.0,1.0,0.0,0.0816,4.0,48.0,2484125.0,3
+Ae Watan Ae Watan (Fast),Mohammed Rafi,/artist/mohammad-rafi,03:35,Hindi,04-10-2018,0.04,0.706,0.217,0.006,-11.458,0.06,171.688,1.0,7.0,0.0428,4.0,34.0,7682464.0,1
+Jane Kya Tune Kahi,Geeta Dutt,/artist/geeta-dutt,04:09,Hindi,10-03-2019,0.68,0.51,0.326,0.717,-5.724,0.0726,157.996,1.0,1.0,0.005,4.0,94.0,11327777.0,3
+Tune O Rangeele,Lata Mangeshkar,/artist/lata-mangeshkar,03:33,Hindi,07-08-2000,0.78,0.09,0.658,0.74,-11.994,0.06,197.984,1.0,6.0,0.0553,4.0,46.0,9792195.0,3
+Chand Si Mehbooba Ho Meri,Mukesh,/artist/mukesh,03:57,Hindi,01-07-2016,0.16,0.897,0.268,0.122,-12.928,0.1,167.968,0.0,6.0,0.03,4.0,78.0,8322350.0,1
+Jane Woh Kaise Log The,Hemant Kumar,/artist/hemanta-mukherjee,04:19,Hindi,10-02-2015,0.46,0.515,0.249,0.876,-2.249,0.01,160.062,1.0,8.0,0.085,4.0,26.0,1649408.0,0
+Ab To Hai Tumse Har Khushi Apni,Lata Mangeshkar,/artist/lata-mangeshkar,04:45,Hindi,09-07-2017,0.58,0.94,0.494,0.586,-11.925,0.06,110.443,0.0,10.0,0.09,4.0,68.0,9881282.0,2
+Unse Mili Nazar Ke Mere Hosh Ud Gai,Lata Mangeshkar,/artist/lata-mangeshkar,04:05,Hindi,09-02-2024,0.6,0.26,0.19,0.164,-12.874,0.0106,130.09,1.0,8.0,0.0627,4.0,30.0,5338074.0,2
+O Sathi Chal,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,04:31,Hindi,09-07-2018,0.57,0.25,0.268,0.878,-7.864,0.0,182.462,1.0,7.0,0.0529,4.0,61.0,10927229.0,4
+Neele Neele Ambar Par (Male Version),Kishore Kumar|Kalyanji Anandji,/artist/kishore-kumar|/artist/kalyanji-anandji,05:20,Hindi,12-12-2021,0.65,0.05,0.215,0.212,-12.493,0.0274,167.99,0.0,1.0,0.02,4.0,38.0,9430275.0,4
+Megha Re Megha Re,Lata Mangeshkar|Suresh Wadkar,/artist/lata-mangeshkar|/artist/suresh-wadkar,06:28,Hindi,05-10-2012,0.1,0.6,0.761,0.598,-10.56,0.0862,171.093,1.0,1.0,0.01,4.0,81.0,8192885.0,1
+Jis Gali Mein Tera Ghar,Mukesh,/artist/mukesh,04:01,Hindi,12-01-2022,0.64,0.189,0.053,0.875,-4.381,0.062,179.894,1.0,8.0,0.0155,4.0,61.0,959299.0,3
+Parbat Se Kali Ghata Takraee,Asha Bhosle|Vinod Rathod,/artist/asha-bhosle-1|/artist/vinod-rathod,04:32,Hindi,04-02-2007,0.06,0.348,0.553,0.382,-7.331,0.0048,204.752,0.0,2.0,0.05,4.0,72.0,8427324.0,4
+Saajan Mera Us Paar Hai,Lata Mangeshkar,/artist/lata-mangeshkar,05:03,Hindi,11-07-2014,0.37,0.542,0.76,0.779,-9.462,0.0828,148.385,1.0,4.0,0.01,4.0,58.0,4927890.0,1
+Saagar Kinare,Lata Mangeshkar|Kishore Kumar,/artist/lata-mangeshkar|/artist/kishore-kumar,04:20,Hindi,02-01-2023,0.17,0.73,0.142,0.48,-13.762,0.086,128.977,0.0,1.0,0.035,4.0,65.0,9048086.0,1
+Kahan Se Aaye Badra,Haimanti Shukla|K J Yesudas,/artist/haimanti-shukla|/artist/k-j-yesudas,07:39,Hindi,02-11-2009,0.83,0.34,0.166,0.05,-3.24,0.0314,126.806,1.0,9.0,0.07,4.0,88.0,7864551.0,2
+Tu Kahan Ye Bata,Mohammed Rafi,/artist/mohammad-rafi,03:28,Hindi,06-03-2013,0.55,0.94,0.236,0.482,-3.88,0.09,127.029,1.0,0.0,0.039,4.0,90.0,10583889.0,1
+Tujhse Naraz Nahin Zindagi (Male),Anup Ghoshal,/artist/anup-ghoshal-1,05:41,Hindi,05-11-2005,0.02,0.179,0.88,0.785,-11.604,0.055,183.902,1.0,1.0,0.01,4.0,33.0,2484760.0,4
+Hothon Se Chhu Lo Tum,Jagjit Singh,/artist/jagjeet-singh-1,04:55,Hindi,12-09-2020,0.79,0.146,0.638,0.437,-8.734,0.0495,195.834,1.0,1.0,0.043,4.0,59.0,9181046.0,3
+Roop Suhana Lagta Hai,S. P. Balasubrahmanyam|K. S. Chithra,/artist/s-p-balasubrahamanyam|/artist/chitra,04:45,Hindi,08-09-2015,0.68,0.6,0.208,0.026,-10.69,0.01,189.896,1.0,7.0,0.03,4.0,79.0,5441032.0,0
+Raat Ke Hamsafar,Asha Bhosle|Mohammed Rafi,/artist/asha-bhosle-1|/artist/mohammad-rafi,05:35,Hindi,08-11-2008,0.5,0.25,0.087,0.831,-5.678,0.0147,173.968,1.0,8.0,0.0177,4.0,57.0,9155746.0,4
+Tum Bhi Chalo,Kishore Kumar,/artist/kishore-kumar,04:29,Hindi,11-06-2002,0.88,0.783,0.754,0.584,-5.261,0.035,190.986,0.0,2.0,0.05,4.0,25.0,3627643.0,0
+Dhoop Main Niklo Ghataon Mein Nahakar Dekho,Jagjit Singh,/artist/jagjeet-singh-1,05:06,Hindi,01-01-2010,0.42,0.68,0.749,0.577,-11.983,0.097,118.997,1.0,7.0,0.02,4.0,96.0,8907464.0,1
+Tu Kal Chala Jayega,Manhar Udhas|Mohammad Aziz,/artist/manhar-udhas|/artist/mohammad-aziz,06:07,Hindi,03-07-2009,0.2,0.436,0.17,0.063,-12.039,0.032,170.95,1.0,1.0,0.079,4.0,96.0,4271482.0,4
+Lekar Hum Diwana Dil,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,05:57,Hindi,06-05-2018,0.15,0.888,0.608,0.971,-2.677,0.0066,119.976,0.0,4.0,0.032,4.0,41.0,2623906.0,2
+Pardesiyon Se Na Ankhiyan Milana (Sad),Mohammed Rafi,/artist/mohammad-rafi,03:16,Hindi,04-05-2013,0.27,0.76,0.4,0.31,-10.296,0.0973,192.208,0.0,10.0,0.096,4.0,41.0,11257327.0,1
+Dillagi Ne Di Hawa,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,05:54,Hindi,07-04-2011,0.97,0.516,0.32,0.091,-6.077,0.01,125.999,1.0,0.0,0.0526,4.0,66.0,7100839.0,2
+Yaadon Ki Baaraat,Mohammed Rafi|Kishore Kumar,/artist/mohammad-rafi|/artist/kishore-kumar,03:23,Hindi,10-02-2014,0.72,0.19,0.13,0.568,-10.344,0.044,169.799,0.0,8.0,0.0366,4.0,100.0,9911103.0,3
+Jeevan Ke Din,Kishore Kumar,/artist/kishore-kumar,05:03,Hindi,03-01-2015,0.71,0.448,0.545,0.383,-9.657,0.026,144.053,1.0,5.0,0.0825,4.0,27.0,8348453.0,2
+Awaara Bhanwara,Hema Sardesai|Malaysia Vasudevan,/artist/hema-sardesai|/artist/malaysia-vasudevan,06:48,Hindi,11-02-2015,0.61,0.665,0.843,0.222,-10.345,0.0747,119.002,1.0,5.0,0.068,4.0,60.0,1737345.0,2
+Aapki Mehki Huyi Zulf Ko,Lata Mangeshkar|K J Yesudas,/artist/lata-mangeshkar|/artist/k-j-yesudas,03:11,Hindi,09-03-2011,0.5,0.622,0.614,0.816,-6.805,0.05,190.07,0.0,6.0,0.051,4.0,37.0,1143565.0,0
+Main Shair Badnaam,Kishore Kumar,/artist/kishore-kumar,05:21,Hindi,10-01-2021,0.93,0.66,0.491,0.462,-11.483,0.05,128.072,1.0,11.0,0.007,4.0,49.0,4964428.0,2
+Kabhi Kabhi Mere Dil Mein Dialogue,Amitabh Bachchan,/artist/amitabh-bachchan,01:03,Hindi,06-11-2004,0.36,0.13,0.821,0.461,-11.343,0.0959,158.554,0.0,8.0,0.0943,4.0,33.0,4112622.0,3
+Ab Tumhare Hawale Vatan Sathiyon,Mohammed Rafi,/artist/mohammad-rafi,06:06,Hindi,01-09-2002,0.41,0.381,0.529,0.362,-13.413,0.096,190.374,1.0,7.0,0.06,4.0,97.0,7302243.0,3
+Kya Se Kya Ho Gaya Bewafa,Mohammed Rafi,/artist/mohammad-rafi,03:16,Hindi,10-01-2016,0.98,0.99,0.367,0.625,-8.581,0.091,204.018,0.0,8.0,0.091,4.0,56.0,5112637.0,0
+Tera Naam Liya,Anuradha Paudwal|Manhar Udhas,/artist/anuradha-paudwal-2|/artist/manhar-udhas,05:57,Hindi,09-03-2021,0.3,0.985,0.957,0.093,-2.547,0.1,127.884,0.0,11.0,0.097,4.0,65.0,3044179.0,1
+Jalta Hai Badan,Lata Mangeshkar,/artist/lata-mangeshkar,04:28,Hindi,08-06-2012,0.7,0.79,0.844,0.349,-10.026,0.045,141.148,1.0,1.0,0.08,4.0,99.0,723083.0,2
+Ek Chatur Naar Karke Sringar,Kishore Kumar|Manna Dey|Mehmood,/artist/kishore-kumar|/artist/manna-dey|/artist/mehmood,06:21,Hindi,12-06-2010,0.82,0.696,0.914,0.055,-8.161,0.05,134.052,0.0,1.0,0.0284,4.0,53.0,554735.0,2
+Aaj Phir Jeene Ki Tamanna Hai,Lata Mangeshkar,/artist/lata-mangeshkar,03:58,Hindi,01-03-2003,0.04,0.796,0.512,0.981,-9.041,0.076,133.073,0.0,9.0,0.07,4.0,79.0,6880471.0,1
+Right Here Right Now,Abhishek Bachchan|Sunidhi Chauhan,/artist/abhishek-bachchan|/artist/sunidhi-chauhan,03:02,Hindi,09-04-2007,0.51,0.5,0.822,0.356,-13.231,0.0925,126.17,1.0,8.0,0.072,4.0,49.0,8235871.0,1
+Aazmale Aazmale,Shekhar Ravjiani,/artist/shekhar-ravjiani,04:54,Hindi,10-08-2021,0.56,0.04,0.32,0.867,-3.213,0.0362,178.012,1.0,8.0,0.082,4.0,89.0,8004549.0,4
+Aaj Purani Raahon Se,Mohammed Rafi,/artist/mohammad-rafi,04:51,Hindi,11-07-2006,0.56,0.646,0.355,0.906,-11.221,0.041,199.946,0.0,10.0,0.05,4.0,89.0,3605327.0,0
+Madhuban Khushboo Deta Hai (Male),K J Yesudas,/artist/k-j-yesudas,03:19,Hindi,10-12-2017,0.22,0.084,0.543,0.844,-2.464,0.03,197.662,1.0,3.0,0.0496,4.0,98.0,7334494.0,4
+Tu Jo Mere Sur Men Sur Milaye,Hemlata|K J Yesudas,/artist/hemlata|/artist/k-j-yesudas,05:07,Hindi,01-11-2016,0.36,0.719,0.925,0.463,-3.277,0.07,137.767,0.0,1.0,0.0656,4.0,44.0,7235356.0,1
+Hamen Tumse Pyar Kitna,Kishore Kumar,/artist/kishore-kumar,04:01,Hindi,09-09-2009,0.66,0.154,0.155,0.965,-12.614,0.0142,176.146,1.0,1.0,0.019,4.0,59.0,7591704.0,4
+Om Shanti Om (Meri Umar Ke Naujawano),Kishore Kumar,/artist/kishore-kumar,08:51,Hindi,06-01-2015,0.2,0.057,0.769,0.506,-5.806,0.04,144.034,0.0,1.0,0.0778,4.0,58.0,3663946.0,4
+Koi Hota Jisko Apna,Kishore Kumar,/artist/kishore-kumar,03:28,Hindi,01-06-2016,0.96,0.82,0.716,0.284,-13.749,0.01,127.839,1.0,8.0,0.0685,4.0,60.0,4634551.0,2
+Yeh Nain Dare Dare,Hemant Kumar,/artist/hemanta-mukherjee,04:04,Hindi,02-03-2012,0.75,0.189,0.237,0.631,-6.553,0.0978,122.308,1.0,1.0,0.09,4.0,55.0,8446696.0,3
+Tu Rutha Dil Tuta,Kishore Kumar,/artist/kishore-kumar,03:05,Hindi,03-03-2008,0.91,0.22,0.468,0.44,-7.639,0.071,185.794,1.0,2.0,0.01,4.0,52.0,7545319.0,3
+Yeh Mana Meri Jan Mohabbat,Balbir|Mohammed Rafi,/artist/balbir|/artist/mohammad-rafi,07:54,Hindi,07-07-2020,0.68,0.751,0.238,0.392,-2.399,0.08,152.391,1.0,1.0,0.032,4.0,90.0,7034098.0,1
+Gun Guna Rahe Hai Bhanvare,Asha Bhosle|Mohammed Rafi,/artist/asha-bhosle-1|/artist/mohammad-rafi,03:54,Hindi,11-10-2006,0.96,0.43,0.546,0.96,-7.056,0.0617,121.996,0.0,10.0,0.093,4.0,92.0,6890782.0,2
+Chand Si Mehbooba Ho Meri,Mukesh,/artist/mukesh,03:57,Hindi,08-09-2011,0.73,0.34,0.38,0.703,-2.344,0.06,116.735,1.0,8.0,0.0422,4.0,64.0,2344418.0,2
+Awaaz Di Hai,Asha Bhosle|Bhupinder Singh,/artist/asha-bhosle-1|/artist/bhupinder-singh,07:53,Hindi,05-06-2008,1.0,0.21,0.925,0.123,-7.109,0.05,152.07,1.0,1.0,0.02,4.0,97.0,10353066.0,3
+Sohni Meri Sohni,Anwar|Asha Bhosle,/artist/anwar|/artist/asha-bhosle-1,08:48,Hindi,11-05-2001,0.33,0.06,0.617,0.837,-7.202,0.0386,187.0,1.0,8.0,0.0342,4.0,84.0,718537.0,4
+Suniye Kahiye Kahiye,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,05:05,Hindi,05-03-2005,0.81,0.077,0.93,0.8,-13.129,0.064,209.788,1.0,8.0,0.04,4.0,59.0,9269971.0,3
+Teri Duniya Se Hoke Majboor Chala,Kishore Kumar,/artist/kishore-kumar,05:11,Hindi,05-12-2014,0.74,0.15,0.766,0.022,-11.328,0.0289,192.302,1.0,2.0,0.081,4.0,94.0,10728621.0,3
+Chil Chil Chilla Ke,Kishore Kumar,/artist/kishore-kumar,04:18,Hindi,08-09-2016,0.74,0.317,0.798,0.138,-4.252,0.0,190.096,1.0,1.0,0.036,4.0,31.0,5477457.0,3
+Jane Na Nazar Pehchane Jigar,Lata Mangeshkar|Mukesh,/artist/lata-mangeshkar|/artist/mukesh,03:57,Hindi,11-04-2003,0.88,0.04,0.524,0.749,-12.822,0.0068,171.282,0.0,11.0,0.04,4.0,63.0,808430.0,4
+Khush Rahe Tu Sada,Mohammed Rafi,/artist/mohammad-rafi,03:41,Hindi,01-06-2005,0.61,0.055,0.218,0.416,-7.806,0.06,178.28,0.0,8.0,0.09,4.0,48.0,5389558.0,3
+Bhanware Ne Khilaya Phool,Lata Mangeshkar|Suresh Wadkar,/artist/lata-mangeshkar|/artist/suresh-wadkar,07:49,Hindi,08-10-2023,0.76,0.52,0.095,0.39,-4.645,0.0244,162.131,0.0,4.0,0.07,4.0,30.0,8971802.0,0
+Kabhi Kabhi Mere Dil Mein (Duet),Lata Mangeshkar|Mukesh,/artist/lata-mangeshkar|/artist/mukesh,05:00,Hindi,08-11-2014,0.18,0.064,0.242,0.094,-3.675,0.068,114.924,1.0,9.0,0.07,4.0,39.0,7611930.0,1
+Dil Tera Kisne Toda,Mohammad Aziz,/artist/mohammad-aziz,03:37,Hindi,11-03-2005,0.69,0.765,0.881,0.634,-2.347,0.09,194.676,1.0,6.0,0.074,4.0,27.0,2844062.0,3
+Palkon Ke Peechhe Se,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,04:43,Hindi,11-05-2016,0.73,0.474,0.769,0.913,-4.103,0.05,155.918,0.0,4.0,0.072,4.0,82.0,6066867.0,2
+Ah Dil Kya Mahfil Hai,Kishore Kumar,/artist/kishore-kumar,02:44,Hindi,05-04-2004,0.4,0.55,0.362,0.974,-5.303,0.0188,159.959,1.0,6.0,0.03,4.0,79.0,4728017.0,0
+Main Solah Baras Ki,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,05:16,Hindi,08-07-2014,0.01,0.753,0.369,0.884,-7.538,0.0524,120.0,0.0,5.0,0.072,4.0,60.0,1892961.0,1
+Mere Paas Aao Mere Dosto,Amitabh Bachchan|Master Ravi|Children,/artist/amitabh-bachchan|/artist/master-ravi|/artist/children,05:23,Hindi,01-01-2010,0.24,0.306,0.899,0.274,-7.236,0.1,124.099,0.0,6.0,0.06,4.0,52.0,4857968.0,1
+Mere Naina Sawan Bhadon,Kishore Kumar,/artist/kishore-kumar,05:29,Hindi,10-05-2018,0.22,0.08,0.366,0.388,-8.146,0.006,210.104,0.0,1.0,0.08,4.0,60.0,6104584.0,4
+Tujhse Naraz Nahin Zindagi,Lata Mangeshkar|Gulzar,/artist/lata-mangeshkar|/artist/gulzar,03:41,Hindi,03-10-2023,0.62,0.54,0.295,0.663,-8.717,0.08,150.183,1.0,2.0,0.034,4.0,45.0,4589067.0,1
+Har Kisiko Nahin Milta Yahan Pyar,Manhar Udhas|Sadhna Sargam,/artist/manhar-udhas|/artist/sadhna-sargam-1,04:56,Hindi,07-10-2017,0.47,0.87,0.347,0.752,-3.526,0.0741,171.017,0.0,6.0,0.0319,4.0,94.0,9411695.0,1
+Wahan Kaun Hai Tera Musafir,S. D. Burman,/artist/sdburman,04:43,Hindi,09-01-2016,0.11,0.258,0.512,0.065,-13.81,0.068,171.122,1.0,1.0,0.0021,4.0,68.0,304802.0,4
+Na Koi Umang Hai,Lata Mangeshkar,/artist/lata-mangeshkar,04:21,Hindi,09-08-2016,0.81,0.833,0.692,0.743,-9.961,0.09,117.932,0.0,11.0,0.05,4.0,44.0,6509064.0,2
+Chale The Saath Milkar,Mohammed Rafi,/artist/mohammad-rafi,03:23,Hindi,03-11-2017,0.11,0.8,0.499,0.76,-8.083,0.0026,130.127,0.0,5.0,0.04,4.0,81.0,4164193.0,0
+Lakdi Ki Kathi,Gauri Bapat|Gurpreet Kaur|Vanita Mishra,/artist/gauri-bapat|/artist/gurpreet-kaur|/artist/vanita-mishra,04:02,Hindi,01-06-2006,0.53,0.26,0.278,0.262,-11.222,0.079,113.987,1.0,10.0,0.0171,4.0,96.0,4052445.0,1
+Main Jat Yamla Pagla Diwana,Mohammed Rafi,/artist/mohammad-rafi,04:38,Hindi,11-08-2000,0.97,0.27,0.555,0.016,-8.958,0.05,147.768,1.0,7.0,0.08,4.0,69.0,5464767.0,3
+Hum Aur Tum Tum Aur Hum,Lata Mangeshkar|Kishore Kumar,/artist/lata-mangeshkar|/artist/kishore-kumar,04:06,Hindi,12-02-2008,0.86,0.578,0.954,0.984,-10.843,0.0429,114.343,0.0,11.0,0.084,4.0,71.0,7092995.0,2
+Kaisa Tera Pyar,Amit Kumar|Lata Mangeshkar,/artist/amit-kumar|/artist/lata-mangeshkar,05:06,Hindi,08-08-2019,0.32,0.93,0.294,0.855,-7.412,0.0344,127.944,1.0,8.0,0.09,4.0,35.0,7241092.0,1
+Aur Is Dil Mein (Duet),Asha Bhosle|Suresh Wadkar,/artist/asha-bhosle-1|/artist/suresh-wadkar,06:00,Hindi,06-06-2002,0.88,0.69,0.597,0.553,-10.104,0.0784,183.038,0.0,8.0,0.011,4.0,44.0,1954854.0,3
+Chana Jor Garam,Kishore Kumar|Lata Mangeshkar|Mohammed Rafi|Nitin Mukesh,/artist/kishore-kumar|/artist/lata-mangeshkar|/artist/mohammad-rafi|/artist/nitin-mukesh,07:07,Hindi,08-12-2014,0.29,0.139,0.227,0.754,-6.789,0.0474,184.078,1.0,1.0,0.0923,4.0,57.0,305701.0,4
+Tu Hi Meri Shab Hai,K.K.,/artist/kk,06:29,Hindi,11-10-2014,0.03,0.64,0.043,0.409,-4.362,0.0788,117.64,0.0,10.0,0.0033,4.0,46.0,8823564.0,1
+Ho Dilbar Janiya,Mithun Chakraborty|PADMINI KOHLAPURE|Danny Denzongpa|Asrani|Bindu,/artist/mithun-chakraborty|/artist/padmini-kohlapure-1|/artist/danny-denzongpa|/artist/asrani|/artist/bindu,05:21,Hindi,03-01-2019,0.59,0.75,0.652,0.047,-11.925,0.058,198.26,0.0,10.0,0.064,4.0,95.0,1220451.0,3
+Khullam Khulla Pyar Karenge,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,05:16,Hindi,11-01-2001,0.06,0.428,0.727,0.754,-3.292,0.08,128.962,0.0,1.0,0.07,4.0,90.0,6460159.0,1
+Chalo Dildar Cholo,Lata Mangeshkar,/artist/lata-mangeshkar,03:47,Hindi,04-07-2017,0.23,0.48,0.171,0.651,-3.714,0.02,138.038,1.0,5.0,0.003,4.0,77.0,8484425.0,4
+Ab Ke Sawan Mein Jee Dare,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,04:21,Hindi,07-07-2021,0.33,0.44,0.301,0.449,-10.489,0.077,140.05,0.0,10.0,0.0307,4.0,57.0,5723808.0,1
+Aashiqui Mein Had Se,Sadhana Sargam|Vinod Rathod,/artist/sadhana-sargam-1|/artist/vinod-rathod,04:45,Hindi,09-03-2010,0.25,0.63,0.2,0.3,-3.11,0.05,181.944,0.0,1.0,0.05,4.0,61.0,5148413.0,0
+Yeh Duniyawale Poochhenge,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,05:04,Hindi,02-06-2011,0.97,0.58,0.614,0.782,-10.496,0.09,150.704,1.0,7.0,0.0659,4.0,29.0,9099365.0,3
+Tu Is Tarah Se Mere Zindagi Main,Mohammed Rafi,/artist/mohammad-rafi,06:34,Hindi,07-07-2010,0.61,0.04,0.418,0.659,-12.526,0.01,113.085,0.0,10.0,0.0742,4.0,70.0,9620529.0,2
+Aese To Na Dekho,Mohammed Rafi,/artist/mohammad-rafi,03:51,Hindi,06-02-2020,0.42,0.251,0.374,0.251,-9.636,0.0559,187.99,0.0,10.0,0.013,4.0,79.0,2272743.0,3
+Zindagi Milke Bitayenge,Kishore Kumar|R. D. Burman|Sapan Chakraborty|Bhupinder Singh,/artist/kishore-kumar|/artist/r-d-burman|/artist/sapan-chakraborty|/artist/bhupinder-singh,04:30,Hindi,10-04-2016,0.86,0.994,0.734,0.829,-12.371,0.028,120.038,1.0,11.0,0.0738,4.0,96.0,1831936.0,2
+Ab Ke Sajan Sawan Mein,Lata Mangeshkar,/artist/lata-mangeshkar,04:41,Hindi,06-03-2019,0.37,0.195,0.67,0.593,-3.644,0.02,124.959,1.0,11.0,0.03,4.0,85.0,5020130.0,4
+Parda Hata Do,Mohammed Rafi|Asha Bhosle,/artist/mohammad-rafi|/artist/asha-bhosle-1,04:41,Hindi,12-10-2007,0.75,0.5,0.547,0.865,-3.74,0.0514,146.073,0.0,4.0,0.05,4.0,28.0,7938190.0,2
+Khafa Hoon Khafa Hoon,Kishore Kumar,/artist/kishore-kumar,05:03,Hindi,11-03-2020,0.68,0.86,0.456,0.239,-11.772,0.093,183.985,1.0,8.0,0.0785,4.0,25.0,2213898.0,3
+Kasme Vaade Nibhayenge Hum - Part I,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,04:45,Hindi,01-08-2009,0.39,0.717,0.057,0.176,-11.292,0.04,191.478,0.0,7.0,0.089,4.0,51.0,8625677.0,0
+Parde Mein Rahne Do,Asha Bhosle,/artist/asha-bhosle-1,06:02,Hindi,01-09-2001,0.35,0.99,0.116,0.92,-8.059,0.059,121.927,1.0,6.0,0.03,4.0,36.0,3118273.0,1
+Naam Goom Jayega,Bhupinder Singh,/artist/bhupinder-singh,04:50,Hindi,06-11-2004,0.52,0.538,0.044,0.059,-6.626,0.06,121.003,0.0,10.0,0.07,4.0,91.0,4879744.0,1
+Tere Khushboo Mein Base Khat,Jagjit Singh,/artist/jagjeet-singh-1,01:25,Hindi,05-08-2013,0.44,0.74,0.046,0.633,-7.199,0.0237,210.044,1.0,5.0,0.003,4.0,78.0,7730831.0,0
+Jiske Sapne Humen Ros Aate Hai,Lata Mangeshkar|Mahendra Kapoor,/artist/lata-mangeshkar|/artist/mahendra-kapoor,05:05,Hindi,10-11-2002,0.23,0.41,0.563,0.108,-4.951,0.03,174.968,0.0,10.0,0.097,4.0,71.0,7339915.0,4
+Kuchh To Log Kahenge,Kishore Kumar,/artist/kishore-kumar,04:21,Hindi,07-02-2007,0.27,0.479,0.16,0.69,-12.512,0.0977,133.893,0.0,0.0,0.06,4.0,52.0,9940136.0,1
+Na Jane Kya Hua,Lata Mangeshkar,/artist/lata-mangeshkar,05:31,Hindi,04-01-2015,0.83,0.85,0.342,0.002,-12.961,0.085,130.007,0.0,4.0,0.05,4.0,98.0,427611.0,1
+De De Pyar De De (Female),Asha Bhosle,/artist/asha-bhosle-1,04:24,Hindi,06-04-2002,0.14,0.083,0.918,0.741,-11.693,0.019,190.974,0.0,5.0,0.02,4.0,31.0,5155403.0,4
+Musafir Hoon Yaron,Kishore Kumar,/artist/kishore-kumar,03:13,Hindi,07-03-2002,0.45,0.667,0.048,0.684,-2.138,0.0379,154.909,1.0,4.0,0.0108,4.0,94.0,11193312.0,0
+Mera Naam Raju,Mukesh,/artist/mukesh,03:19,Hindi,02-07-2011,0.29,0.13,0.469,0.295,-8.85,0.07,128.462,1.0,0.0,0.085,4.0,72.0,8758736.0,1
+Mere Mitwa Mere Meet Re,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,03:45,Hindi,10-05-2018,0.46,0.993,0.064,0.13,-12.762,0.054,204.61,0.0,7.0,0.02,4.0,41.0,2647762.0,0
+Justuju Jiski Thi,Asha Bhosle,/artist/asha-bhosle-1,04:47,Hindi,01-11-2010,0.15,0.65,0.62,0.136,-7.298,0.0959,176.042,1.0,9.0,0.07,4.0,64.0,4544266.0,1
+Chupke Se Dil Dede,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,03:28,Hindi,04-08-2010,0.95,0.566,0.675,0.341,-13.546,0.021,109.891,1.0,7.0,0.04,4.0,84.0,9908648.0,2
+Muskurata Hua,Kishore Kumar,/artist/kishore-kumar,06:52,Hindi,10-07-2019,0.49,0.833,0.164,0.425,-12.51,0.0048,123.941,1.0,7.0,0.0969,4.0,45.0,8579328.0,2
+O Haseena Zulfonwale Jane Jahan,Asha Bhosle|Mohammed Rafi,/artist/asha-bhosle-1|/artist/mohammad-rafi,06:56,Hindi,01-02-2019,0.65,0.91,0.486,0.249,-5.033,0.009,159.504,1.0,10.0,0.03,4.0,28.0,3668083.0,0
+Ek Din Sapne Mein Dekha Sapna,Amit Kumar|Kishore Kumar,/artist/amit-kumar|/artist/kishore-kumar,03:43,Hindi,03-07-2018,0.52,0.93,0.495,0.797,-7.097,0.013,175.382,1.0,1.0,0.0744,4.0,54.0,8705268.0,0
+Dil Cheez Kya Hai,Asha Bhosle,/artist/asha-bhosle-1,06:11,Hindi,08-08-2010,0.4,0.28,0.589,0.816,-3.551,0.09,128.109,1.0,8.0,0.0331,4.0,29.0,3699401.0,1
+Rangeela Re,Lata Mangeshkar,/artist/lata-mangeshkar,06:17,Hindi,03-09-2006,0.04,0.6,0.581,0.244,-3.507,0.0719,120.288,0.0,7.0,0.07,4.0,49.0,5406916.0,1
+Zindagi Mere Ghar Aana,Anuradha Paudwal|Bhupinder Singh,/artist/anuradha-paudwal-2|/artist/bhupinder-singh,06:17,Hindi,05-08-2019,0.47,0.1,0.653,0.992,-8.044,0.016,157.116,1.0,2.0,0.084,4.0,38.0,6759306.0,4
+Thande Thande Paani Se Nahana,Asha Bhosle|Mahendra Kapoor|Sushma Shrestha,/artist/asha-bhosle-1|/artist/mahendra-kapoor|/artist/sushma-shrestha,03:53,Hindi,11-04-2014,0.1,0.657,0.475,0.835,-4.436,0.022,190.232,1.0,7.0,0.09,4.0,37.0,9293058.0,0
+Ae Nargise Mastana,Mohammed Rafi,/artist/mohammad-rafi,04:00,Hindi,02-08-2020,0.2,0.24,0.446,0.035,-5.485,0.095,110.645,0.0,5.0,0.0862,4.0,47.0,6399778.0,1
+Meet Na Mila Re Man Ka,Kishore Kumar,/artist/kishore-kumar,04:21,Hindi,06-03-2017,0.09,0.544,0.879,0.574,-5.76,0.08,175.038,1.0,11.0,0.0756,4.0,79.0,9421379.0,1
+Jab Chali Thandi Hawa,Asha Bhosle,/artist/asha-bhosle-1,03:52,Hindi,08-06-2006,0.45,0.68,0.879,0.067,-11.941,0.01,170.012,1.0,1.0,0.02,4.0,57.0,10966967.0,0
+Roz Roz Dali Dali,Asha Bhosle,/artist/asha-bhosle-1,04:02,Hindi,10-03-2007,0.1,0.564,0.012,0.539,-8.263,0.05,196.108,0.0,7.0,0.0442,4.0,31.0,5412551.0,0
+Ladki Hai Ya Shola,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,04:00,Hindi,05-04-2010,0.88,0.87,0.95,0.41,-8.393,0.0335,112.9,1.0,2.0,0.0,4.0,27.0,7997756.0,2
+Mere Do Anmol Ratan,Kavita Krishnamurthy|Mohammad Aziz,/artist/kavita-subramaniam|/artist/mohammad-aziz,05:16,Hindi,08-11-2001,0.23,0.35,0.404,0.493,-7.841,0.0779,123.981,1.0,0.0,0.09,4.0,29.0,2002400.0,1
+Tune Abhi Dekha Nahin,Kishore Kumar,/artist/kishore-kumar,05:29,Hindi,07-10-2021,0.04,0.484,0.503,0.888,-12.429,0.07,180.985,1.0,7.0,0.04,4.0,58.0,10518616.0,4
+Saawan Ke Jhoolon Ne,Mohammad Aziz,/artist/mohammad-aziz,05:55,Hindi,09-07-2021,0.71,0.177,0.71,0.326,-6.271,0.0567,105.056,0.0,10.0,0.0122,4.0,100.0,1422932.0,2
+Are Jane Kaise Kab Kahan Iqrar,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,05:39,Hindi,09-03-2014,0.48,0.59,0.377,0.692,-7.021,0.0717,161.678,1.0,2.0,0.0223,4.0,51.0,10184341.0,1
+Taki Oh Taki,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,05:10,Hindi,08-03-2008,0.68,0.859,0.595,0.839,-7.988,0.024,124.959,1.0,6.0,0.05,4.0,48.0,6679936.0,2
+Jeena Nahi,Anuradha Paudwal|Amit Kumar,/artist/anuradha-paudwal-2|/artist/amit-kumar,07:57,Hindi,06-06-2005,0.28,0.132,0.328,0.523,-2.707,0.01,116.005,0.0,9.0,0.0064,4.0,79.0,1870767.0,4
+Janewalo Zara Mudke Dekho,Mohammed Rafi,/artist/mohammad-rafi,05:16,Hindi,07-04-2005,0.1,0.8,0.212,0.194,-5.158,0.03,187.58,1.0,7.0,0.03,4.0,44.0,1650505.0,0
+Aaj Rapat Jaayen To,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,06:49,Hindi,07-06-2021,0.06,0.672,0.19,0.571,-4.335,0.025,127.952,0.0,11.0,0.0154,4.0,63.0,6062486.0,1
+Intezaar,Anuradha Paudwal,/artist/anuradha-paudwal-2,07:51,Hindi,08-12-2015,0.47,0.92,0.666,0.848,-12.651,0.0791,163.817,0.0,1.0,0.059,4.0,44.0,2773064.0,1
+Roj Roj Aankhon Tale,Amit Kumar|Asha Bhosle|R. D. Burman,/artist/amit-kumar|/artist/asha-bhosle-1|/artist/r-d-burman,07:59,Hindi,12-04-2007,0.73,0.93,0.171,0.832,-6.036,0.09,148.128,1.0,1.0,0.06,4.0,87.0,522219.0,1
+Inhin Logon Ne,Lata Mangeshkar,/artist/lata-mangeshkar,03:41,Hindi,08-05-2001,0.71,0.73,0.671,0.621,-2.327,0.066,199.996,1.0,2.0,0.0151,4.0,42.0,2104663.0,0
+Chupke Chupke Chal Re Purbaiya,Lata Mangeshkar,/artist/lata-mangeshkar,05:04,Hindi,05-12-2005,0.56,0.69,0.539,0.048,-11.442,0.031,200.042,1.0,1.0,0.062,4.0,95.0,9632145.0,0
+Mere Mitwa Mere Meet Re,Mohammed Rafi,/artist/mohammad-rafi,03:44,Hindi,06-04-2013,0.83,0.522,0.174,0.555,-2.342,0.01,151.486,1.0,0.0,0.0206,4.0,47.0,3850440.0,2
+Woh Haseen Dard De Do,Asha Bhosle,/artist/asha-bhosle-1,04:03,Hindi,12-08-2015,0.7,0.07,0.823,0.904,-4.958,0.0422,206.08,1.0,2.0,0.04,4.0,50.0,6291281.0,3
+Roz Sham Aati Hai Magar Aesi,Lata Mangeshkar,/artist/lata-mangeshkar,03:11,Hindi,03-01-2022,0.12,0.02,0.839,0.254,-8.378,0.06,145.753,0.0,1.0,0.02,4.0,43.0,5294659.0,4
+Badi Sooni Sooni Hai Zindagi,Kishore Kumar,/artist/kishore-kumar,03:29,Hindi,06-12-2005,0.2,0.11,0.21,0.618,-4.512,0.0288,121.008,0.0,0.0,0.0076,4.0,67.0,2101820.0,4
+Bindiya Chamke Gi,Lata Mangeshkar,/artist/lata-mangeshkar,05:47,Hindi,06-01-2012,0.0,0.31,0.587,0.399,-7.174,0.07,135.072,0.0,5.0,0.03,4.0,82.0,3501245.0,1
+Bhooli Bisri Ek Kahani,Anuradha Paudwal,/artist/anuradha-paudwal-2,06:55,Hindi,04-12-2014,0.13,0.06,0.952,0.699,-6.943,0.0716,193.336,1.0,0.0,0.09,4.0,49.0,10404664.0,4
+Agar Tum Mil Jao,Udit Narayan,/artist/udit-narayan,06:01,Hindi,07-07-2004,0.83,0.18,0.402,0.123,-5.908,0.048,187.305,0.0,11.0,0.056,4.0,72.0,10242737.0,3
+Ek Haseen Sham Ko Dil Mera Kho Gaya,Mohammed Rafi,/artist/mohammad-rafi,03:47,Hindi,02-05-2022,0.86,0.78,0.827,0.156,-8.56,0.0158,182.648,1.0,8.0,0.049,4.0,98.0,2349351.0,0
+Maine Tere Liye,Mukesh,/artist/mukesh,04:08,Hindi,02-09-2015,0.8,0.602,0.791,0.927,-4.671,0.035,130.003,0.0,6.0,0.057,4.0,91.0,6531441.0,2
+Dil Ki Girah Khol Do,Lata Mangeshkar|Manna Dey,/artist/lata-mangeshkar|/artist/manna-dey,04:31,Hindi,11-12-2020,0.85,0.24,0.54,0.16,-12.044,0.027,121.975,0.0,9.0,0.014,4.0,45.0,6448465.0,2
+Haye Re Haye,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,04:29,Hindi,08-02-2022,0.85,0.816,0.882,0.494,-2.334,0.0344,205.696,1.0,7.0,0.04,4.0,91.0,7805433.0,0
+Tu Mujhe Suna,Nitin Mukesh|Suresh Wadkar,/artist/nitin-mukesh|/artist/suresh-wadkar,04:41,Hindi,11-05-2018,0.46,0.346,0.962,0.063,-12.517,0.07,187.244,0.0,11.0,0.04,4.0,85.0,6116365.0,3
+Ruk Jana O Janan,Kishore Kumar,/artist/kishore-kumar,03:41,Hindi,11-04-2013,0.08,0.49,0.164,0.009,-7.832,0.0956,124.987,0.0,1.0,0.0388,4.0,48.0,10270253.0,1
+Aye Zindagi Gale Lagaa Le,Suresh Wadkar|Ilaiyaraaja,/artist/suresh-wadkar|/artist/iiaiyaraaja,05:30,Hindi,06-04-2022,0.82,0.309,0.197,0.907,-2.236,0.1,194.024,1.0,8.0,0.04,4.0,90.0,4176754.0,3
+Hari Om Hari,Usha Uthup,/artist/usha-uthup,06:38,Hindi,01-03-2015,0.35,0.34,0.61,0.084,-7.733,0.06,178.422,0.0,0.0,0.075,4.0,59.0,2695857.0,3
+Jo Tumko Ho Pasand Wohi Baat Karenge,Mukesh,/artist/mukesh,04:41,Hindi,09-01-2002,0.76,0.25,0.792,0.175,-8.378,0.048,167.307,0.0,11.0,0.0551,4.0,78.0,9628504.0,3
+Ja Re Ja O Harjaee,Lata Mangeshkar,/artist/lata-mangeshkar,04:22,Hindi,01-11-2023,0.19,0.57,0.245,0.99,-12.929,0.09,159.948,1.0,5.0,0.029,4.0,49.0,4304058.0,1
+Nainon Men Sapna.,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,06:31,Hindi,11-12-2014,0.51,0.42,0.765,0.904,-12.482,0.04,158.865,0.0,2.0,0.06,4.0,70.0,4409540.0,4
+Jhanak Jhanak Tori Baje Payelia,Manna Dey,/artist/manna-dey,06:51,Hindi,06-12-2000,0.2,0.937,0.503,0.851,-9.5,0.0032,168.198,1.0,7.0,0.035,4.0,98.0,9497941.0,0
+Main Kahin Kavi Na Ban Jaoon,Mohammed Rafi,/artist/mohammad-rafi,04:49,Hindi,11-01-2002,0.91,0.65,0.278,0.752,-13.228,0.023,197.382,1.0,1.0,0.071,4.0,35.0,4828888.0,0
+Ek Roz Main Tadapkar,Kishore Kumar,/artist/kishore-kumar,06:04,Hindi,12-07-2001,0.79,0.343,0.1,0.769,-11.777,0.0552,150.061,0.0,2.0,0.09,4.0,86.0,8925722.0,2
+Janeman Tum Kamal Karte Ho,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,05:41,Hindi,12-01-2007,0.1,0.56,0.589,0.511,-9.484,0.0449,198.068,1.0,6.0,0.02,4.0,64.0,10541329.0,4
+De Daru,Kishore Kumar|Mahendra Kapoor|Manhar Udhas,/artist/kishore-kumar|/artist/mahendra-kapoor|/artist/manhar-udhas,06:43,Hindi,12-08-2018,0.51,0.31,0.517,0.057,-10.084,0.076,188.148,0.0,10.0,0.06,4.0,88.0,5251513.0,3
+Jahan Teri Yeh Nazar Hai,Kishore Kumar,/artist/kishore-kumar,05:26,Hindi,03-01-2016,0.0,0.03,0.927,0.844,-7.925,0.087,164.114,1.0,2.0,0.0115,4.0,63.0,8180116.0,4
+Diye Jalte Hai Phool Khilte Hai,Kishore Kumar,/artist/kishore-kumar,03:31,Hindi,11-01-2003,0.7,0.728,0.899,0.759,-2.833,0.0184,109.943,0.0,1.0,0.0679,4.0,58.0,10903614.0,2
+Chhoti Si Umar Men Lag Gaya Rog,Lata Mangeshkar,/artist/lata-mangeshkar,04:41,Hindi,02-01-2012,0.55,0.72,0.192,0.052,-9.55,0.0507,168.221,0.0,11.0,0.0705,4.0,42.0,4580535.0,0
+Tere Haathon Mein,Asha Bhosle|Mohammed Rafi,/artist/asha-bhosle-1|/artist/mohammad-rafi,05:59,Hindi,03-07-2001,0.08,0.952,0.76,0.915,-6.337,0.089,148.14,0.0,4.0,0.083,4.0,79.0,3805160.0,1
+Aasman Se Aaya Farishta,Mohammed Rafi,/artist/mohammad-rafi,05:17,Hindi,06-11-2021,0.46,0.38,0.379,0.552,-5.99,0.08,150.04,1.0,2.0,0.1,4.0,41.0,2455346.0,1
+Aaja Sham Hone Aayee,Lata Mangeshkar|S. P. Balasubrahmanyam,/artist/lata-mangeshkar|/artist/s-p-balasubrahamanyam,05:16,Hindi,09-10-2020,0.79,0.627,0.289,0.604,-7.968,0.08,141.153,1.0,9.0,0.0,4.0,32.0,1059493.0,1
+Tumse Achha Kaun Hai,Mohammed Rafi,/artist/mohammad-rafi,04:01,Hindi,08-01-2023,0.11,0.16,0.12,0.571,-6.581,0.036,189.906,1.0,7.0,0.05,4.0,45.0,320067.0,4
+Hungama Ho Gaya,Asha Bhosle,/artist/asha-bhosle-1,05:02,Hindi,02-03-2023,0.92,0.95,0.843,0.802,-2.612,0.048,193.996,1.0,11.0,0.1,4.0,41.0,5328424.0,0
+Baar Baar Dekho Hazar Baar Dekho,Mohammed Rafi,/artist/mohammad-rafi,04:51,Hindi,06-11-2009,0.49,0.95,0.773,0.629,-7.965,0.06,171.456,1.0,4.0,0.057,4.0,91.0,8187640.0,0
+Na Bole Tum Na Maine Kuchh Kaha,Amit Kumar|Asha Bhosle,/artist/amit-kumar|/artist/asha-bhosle-1,03:31,Hindi,07-07-2015,0.37,0.421,0.765,0.158,-7.977,0.099,126.038,1.0,9.0,0.0668,4.0,90.0,11215704.0,1
+Jadoo Bhari,Udit Narayan,/artist/udit-narayan,05:05,Hindi,08-02-2004,0.19,0.7,0.228,0.622,-10.849,0.0046,107.018,0.0,2.0,0.1,4.0,46.0,8960039.0,2
+Jhoot Bole Kauva Kate,Lata Mangeshkar|Shailender Singh,/artist/lata-mangeshkar|/artist/shailender-singh,04:15,Hindi,12-04-2006,0.88,0.41,0.097,0.981,-4.794,0.019,166.028,0.0,8.0,0.0408,4.0,71.0,5208695.0,0
+Woh Sham Kuchh Ajeeb Thi,Kishore Kumar,/artist/kishore-kumar,04:46,Hindi,07-08-2014,0.38,0.944,0.006,0.132,-9.016,0.049,140.146,0.0,11.0,0.0991,4.0,78.0,3555413.0,1
+Tu Kya Jane O Bewafa,Lata Mangeshkar,/artist/lata-mangeshkar,04:00,Hindi,04-01-2010,0.7,0.716,0.444,0.337,-9.128,0.0369,193.764,1.0,1.0,0.04,4.0,60.0,5392470.0,0
+Dilbar Jani Chali Hawa Mastani,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,04:41,Hindi,09-01-2016,0.99,0.522,0.849,0.017,-3.374,0.04,189.891,0.0,6.0,0.053,4.0,77.0,5122870.0,3
+Tere Jaisa Yaar Kahan,Kishore Kumar,/artist/kishore-kumar,04:38,Hindi,03-05-2010,0.82,0.15,0.843,0.585,-7.957,0.0924,137.046,1.0,0.0,0.0419,4.0,71.0,7289978.0,3
+Bambai Se Aaya Mera Dost,Bappi Lahiri,/artist/bappi-lahiri,04:45,Hindi,03-05-2012,0.06,0.63,0.047,0.614,-9.253,0.086,184.126,0.0,10.0,0.07,4.0,100.0,5946611.0,1
+Yeh Dosti Hum Nahin,Kishore Kumar|Manna Dey,/artist/kishore-kumar|/artist/manna-dey,05:21,Hindi,05-02-2022,0.64,0.46,0.287,0.711,-5.464,0.0515,119.992,1.0,7.0,0.06,4.0,48.0,11147864.0,2
+Rut Hai Milan Ki,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,05:39,Hindi,10-07-2003,0.29,0.586,0.253,0.59,-5.003,0.082,121.433,0.0,7.0,0.01,4.0,71.0,8533330.0,1
+Chahiye Thoda Pyar,Kishore Kumar,/artist/kishore-kumar,05:25,Hindi,12-06-2012,0.04,0.77,0.607,0.11,-6.092,0.0634,127.914,1.0,7.0,0.0423,4.0,46.0,8090981.0,1
+Jaane Kya Baat Hai,R. D. Burman|Lata Mangeshkar,/artist/r-d-burman|/artist/lata-mangeshkar,05:28,Hindi,07-02-2014,0.45,0.494,0.181,0.994,-13.566,0.0466,169.884,0.0,11.0,0.1,4.0,77.0,2702733.0,0
+Gum Hai Kisi Ke Pyar Mein,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,04:15,Hindi,10-03-2001,0.97,0.224,0.494,0.969,-5.404,0.01,155.974,1.0,4.0,0.0908,4.0,42.0,192957.0,2
+Dream Girl,Kishore Kumar,/artist/kishore-kumar,05:57,Hindi,09-04-2011,0.6,0.031,0.731,0.452,-10.466,0.0359,129.07,1.0,1.0,0.01,4.0,75.0,1961878.0,2
+Pyar Kabhi Kam Nahi Karna,Bappi Lahiri|Asha Bhosle,/artist/bappi-lahiri|/artist/asha-bhosle-1,07:17,Hindi,07-11-2007,0.2,0.895,0.154,0.926,-13.686,0.0813,190.524,1.0,8.0,0.014,4.0,73.0,308019.0,1
+Bada Dukh Dina O Ramji,Lata Mangeshkar,/artist/lata-mangeshkar,06:00,Hindi,10-05-2005,0.72,0.61,0.288,0.99,-2.596,0.0451,159.794,0.0,4.0,0.05,4.0,97.0,8359263.0,0
+Ek Ghar Banaunga,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,03:31,Hindi,02-06-2006,0.64,0.84,0.279,0.237,-4.62,0.0889,127.998,1.0,8.0,0.0731,4.0,28.0,6017389.0,1
+Dil Deewana,Lata Mangeshkar,/artist/lata-mangeshkar,05:54,Hindi,12-12-2003,0.74,0.924,0.348,0.873,-13.764,0.1,153.798,1.0,7.0,0.01,4.0,41.0,820850.0,1
+Aaja Teri Yaad Aayee,Anand Bakshi|Lata Mangeshkar|Mohammed Rafi,/artist/anand-bakshi|/artist/lata-mangeshkar|/artist/mohammad-rafi,05:43,Hindi,08-06-2008,0.69,0.075,0.465,0.551,-8.368,0.022,167.879,0.0,6.0,0.0645,4.0,84.0,7281621.0,4
+Jane Kaisa Hai Mera Diwana,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,04:48,Hindi,06-12-2018,0.84,0.81,0.76,0.768,-2.602,0.074,180.43,1.0,9.0,0.059,4.0,86.0,6311497.0,0
+Ya Ali,Zubeen Garg,/artist/jubin-guarg,04:55,Hindi,08-12-2020,0.71,0.64,0.16,0.337,-6.759,0.06,129.023,1.0,3.0,0.082,4.0,88.0,5785426.0,2
+Chhalke Teri Ankhon Se,Mohammed Rafi,/artist/mohammad-rafi,04:17,Hindi,01-08-2001,0.73,0.19,0.333,0.544,-4.897,0.0913,180.006,1.0,11.0,0.0368,4.0,32.0,974343.0,3
+Chura Liya Hai Tumne Jo Dil Ko,Asha Bhosle|Mohammed Rafi,/artist/asha-bhosle-1|/artist/mohammad-rafi,04:47,Hindi,10-06-2008,0.63,0.169,0.942,0.4,-3.385,0.049,148.033,1.0,8.0,0.0038,4.0,55.0,6053083.0,3
+Jimmy Jimmy Jimmy Aaja,Parvati Khan,/artist/parvati-khan,03:05,Hindi,05-05-2009,0.13,0.18,0.792,0.578,-2.269,0.072,200.108,1.0,5.0,0.1,4.0,85.0,8869102.0,4
+Kaun Hai Jo Sapnon Mein Aaya,Mohammed Rafi,/artist/mohammad-rafi,05:33,Hindi,09-03-2008,0.4,0.764,0.725,0.496,-3.75,0.0483,197.18,1.0,1.0,0.04,4.0,33.0,10834698.0,0
+Haye Haye Yeh Majboori,Lata Mangeshkar,/artist/lata-mangeshkar,04:16,Hindi,09-01-2017,0.61,0.89,0.863,0.948,-4.638,0.0984,189.878,1.0,7.0,0.0224,4.0,36.0,1572440.0,0
+Khamosh Sa Afsana,Lata Mangeshkar|Suresh Wadkar,/artist/lata-mangeshkar|/artist/suresh-wadkar,06:03,Hindi,02-06-2018,0.22,0.219,0.836,0.197,-5.905,0.0142,199.974,0.0,6.0,0.009,4.0,46.0,8386108.0,4
+O Meri Mehbooba Mehbooba Mehbooba,Mohammed Rafi,/artist/mohammad-rafi,06:27,Hindi,03-08-2002,0.19,0.068,0.54,0.66,-3.084,0.052,174.624,0.0,9.0,0.0048,4.0,60.0,8172205.0,4
+Rimjhim Gire Sawan,Kishore Kumar,/artist/kishore-kumar,03:56,Hindi,05-09-2018,0.79,0.251,0.287,0.11,-8.955,0.02,200.082,1.0,7.0,0.0322,4.0,56.0,2648471.0,3
+Dil Ke Arman Ansuon Men Bah Gaye,Salma Agha,/artist/salma-agha,04:24,Hindi,08-08-2000,1.0,0.478,0.478,0.867,-7.03,0.055,164.028,1.0,2.0,0.095,4.0,85.0,6843321.0,3
+Bhagi Re Bhagi Brij Bala,Mahendra Kapoor|Manhar Udhas|Asha Bhosle|Dilraj Kaur,/artist/mahendra-kapoor|/artist/manhar-udhas|/artist/asha-bhosle-1|/artist/dilraj-kaur,05:41,Hindi,12-02-2005,0.69,0.64,0.637,0.328,-11.433,0.022,188.072,1.0,2.0,0.01,4.0,37.0,8335765.0,0
+Aap Ke Haseen Rukh Pe,Mohammed Rafi,/artist/mohammad-rafi,05:39,Hindi,02-07-2021,0.97,0.46,0.611,0.099,-3.078,0.074,106.97,1.0,9.0,0.07,4.0,75.0,8045454.0,2
+Aaj Kahin Na Ja,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,04:31,Hindi,11-01-2007,0.04,0.183,0.895,0.567,-9.914,0.037,125.974,1.0,0.0,0.0831,4.0,85.0,9372297.0,4
+Mere Dil Mein Tu Hi Tu Hai,Chitra Singh|Jagjit Singh,/artist/chitra-singh|/artist/jagjeet-singh-1,05:32,Hindi,10-07-2008,0.66,0.365,0.939,0.351,-6.877,0.0633,107.082,0.0,10.0,0.0964,4.0,88.0,2345385.0,2
+Lagi Aaj Sawan Ki,Anupama Deshpande|Suresh Wadkar,/artist/anupama-deshpande|/artist/suresh-wadkar,03:36,Hindi,11-03-2006,0.82,0.94,0.916,0.135,-4.565,0.0277,159.77,1.0,9.0,0.0278,4.0,78.0,6763435.0,0
+Yaad Na Jaye Beete Dinon Ki,Mohammed Rafi,/artist/mohammad-rafi,04:14,Hindi,03-07-2020,0.56,0.157,0.205,0.71,-11.021,0.0,146.57,0.0,10.0,0.071,4.0,77.0,8877099.0,4
+Main Pal Do Pal Ka Shair Hoon,Mukesh,/artist/mukesh,03:24,Hindi,04-10-2019,0.34,0.27,0.277,0.541,-10.344,0.01,119.001,1.0,4.0,0.0407,4.0,83.0,10412251.0,4
+Hare Rama Hare Krishna,Asha Bhosle|Usha Uthup,/artist/asha-bhosle-1|/artist/usha-uthup,03:47,Hindi,05-12-2015,0.14,0.671,0.687,0.888,-9.662,0.06,163.908,1.0,9.0,0.06,4.0,40.0,3012991.0,1
+Yeh Mera Dil Yaar Ka Diwana,Asha Bhosle,/artist/asha-bhosle-1,04:13,Hindi,02-04-2013,0.05,0.99,0.335,0.918,-7.628,0.041,120.079,1.0,8.0,0.067,4.0,42.0,2665090.0,1
+Diwane Ka Naam To Poochho,Mohammed Rafi,/artist/mohammad-rafi,04:28,Hindi,12-05-2017,0.88,0.95,0.464,0.958,-10.141,0.03,133.429,1.0,7.0,0.0936,4.0,53.0,10056209.0,2
+Piya Bina Piya Bina,Lata Mangeshkar,/artist/lata-mangeshkar,04:13,Hindi,11-04-2022,0.52,0.784,0.976,0.264,-8.457,0.0335,125.008,1.0,11.0,0.0705,4.0,83.0,7067681.0,2
+Jabse Tumko Dekha,Asha Bhosle|Kishore Kumar|Usha Rege|Antara Chowdhury,/artist/asha-bhosle-1|/artist/kishore-kumar|/artist/usha-rege|/artist/antara-chowdhury,05:47,Hindi,06-11-2008,0.31,0.94,0.366,0.271,-7.221,0.0668,95.622,1.0,1.0,0.0134,4.0,99.0,9720250.0,1
+Tere Bin Ek Pal,Jaspinder Narula|Udit Narayan,/artist/jaspinder-narula|/artist/udit-narayan,05:48,Hindi,11-07-2004,0.62,0.57,0.002,0.625,-9.931,0.096,194.906,0.0,6.0,0.01,4.0,63.0,1092096.0,3
+Zindagi Har Kadam Ek Nai Jung Hai,Lata Mangeshkar|Shabbir Kumar,/artist/lata-mangeshkar|/artist/shabbir-kumar,05:19,Hindi,09-06-2020,0.64,0.302,0.063,0.627,-2.295,0.053,190.642,1.0,7.0,0.039,4.0,58.0,4105003.0,3
+Pyar Diwana Hota Hai,Kishore Kumar,/artist/kishore-kumar,04:44,Hindi,05-11-2011,0.91,0.306,0.621,0.92,-10.834,0.08,176.304,1.0,1.0,0.0725,4.0,95.0,8843446.0,3
+Hoga Tumse Pyara Kaun,Shailendra Singh,/artist/shailendra-singh,04:41,Hindi,10-12-2017,0.35,0.913,0.831,0.152,-12.032,0.01,112.022,0.0,5.0,0.002,4.0,45.0,1383662.0,2
+Mere Saamne Tu Din Raat Rahe,Mohammad Aziz|Sarika Kapoor,/artist/mohammad-aziz|/artist/sarika-kapoor,05:42,Hindi,01-03-2017,0.86,0.442,0.619,0.145,-13.811,0.0671,187.854,0.0,6.0,0.1,4.0,78.0,4410300.0,3
+Subhanallah Haseen Chehra,Mohammed Rafi,/artist/mohammad-rafi,03:28,Hindi,04-11-2008,0.84,0.753,0.17,0.054,-12.486,0.032,172.387,1.0,8.0,0.06,4.0,85.0,8406007.0,0
+Tumhari Nazar Kyon Khafa Ho Gayi,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,05:06,Hindi,03-11-2006,0.71,0.38,0.506,0.874,-7.491,0.0503,107.88,1.0,1.0,0.089,4.0,47.0,3995040.0,2
+Kabhi Yun Bhi Aa Meri Aankh Mein,Jagjit Singh,/artist/jagjeet-singh-1,07:26,Hindi,07-04-2017,0.39,0.432,0.593,0.604,-3.631,0.075,180.408,0.0,3.0,0.08,4.0,62.0,1722888.0,3
+Ek Dukhiyari Kahe,Lata Mangeshkar,/artist/lata-mangeshkar,06:02,Hindi,08-06-2013,0.52,0.3,0.022,0.513,-2.935,0.025,187.72,0.0,11.0,0.066,4.0,56.0,481861.0,4
+Pyar Ka Dard Hai,Kishore Kumar|Asha Bhosle,/artist/kishore-kumar|/artist/asha-bhosle-1,05:17,Hindi,06-07-2021,0.93,0.858,0.197,0.68,-7.443,0.09,124.162,0.0,6.0,0.09,4.0,53.0,9306365.0,1
+Chand Mera Dil Chandni Ho Tum,Mohammed Rafi,/artist/mohammad-rafi,02:57,Hindi,04-01-2005,0.96,0.16,0.308,0.862,-3.675,0.0251,128.797,0.0,7.0,0.1,4.0,75.0,8886057.0,2
+Na Jane Kyon Hota Hai,Lata Mangeshkar,/artist/lata-mangeshkar,03:12,Hindi,07-02-2022,0.18,0.64,0.014,0.758,-5.077,0.0,209.882,0.0,11.0,0.081,4.0,90.0,4317920.0,0
+Tum Bin Jaoon Kahan (Part 1),Mohammed Rafi,/artist/mohammad-rafi,03:28,Hindi,10-07-2023,0.12,0.301,0.083,0.874,-6.645,0.07,150.076,1.0,1.0,0.09,4.0,82.0,8202214.0,1
+Jawani Jan-E-Man,Asha Bhosle,/artist/asha-bhosle-1,05:37,Hindi,02-05-2006,0.03,0.58,0.043,0.465,-8.446,0.023,118.008,1.0,1.0,0.072,4.0,82.0,2448561.0,1
+Milti Hai Zindagi Men,Lata Mangeshkar,/artist/lata-mangeshkar,04:52,Hindi,11-01-2009,0.98,0.231,0.41,0.687,-13.959,0.0645,197.382,0.0,8.0,0.0023,4.0,27.0,4950323.0,3
+Chalo Ek Baar Phir Se,Mahendra Kapoor,/artist/mahendra-kapoor,04:39,Hindi,03-10-2021,0.09,0.497,0.391,0.518,-12.211,0.0487,112.05,0.0,5.0,0.02,4.0,36.0,9327270.0,1
+Hamen Tumse Pyar Kitna,Kishore Kumar,/artist/kishore-kumar,04:02,Hindi,10-04-2013,0.93,0.038,0.205,0.944,-2.354,0.0272,156.028,0.0,1.0,0.0497,4.0,94.0,4695402.0,2
+Beete Huye Lamhon Ki Kasak,Mahendra Kapoor,/artist/mahendra-kapoor,05:57,Hindi,07-03-2021,0.85,0.37,0.558,0.625,-3.638,0.0486,210.092,0.0,3.0,0.02,4.0,74.0,10097437.0,3
+Koi Jane Koi Na Jane,Udit Narayan|Anuradha Paudwal|Nusrat Fateh Ali Khan,/artist/udit-narayan|/artist/anuradha-paudwal-2|/artist/nusrat-fateh-ali-khan,05:37,Hindi,01-08-2019,0.16,0.317,0.7,0.616,-4.708,0.07,181.036,1.0,2.0,0.022,4.0,56.0,4681335.0,4
+Zaroorat Hai Zaroorat Hai,Kishore Kumar,/artist/kishore-kumar,04:32,Hindi,10-01-2008,0.18,0.311,0.259,0.79,-6.226,0.017,179.908,1.0,2.0,0.0631,4.0,56.0,5251025.0,4
+Mera Rang De Basanti Chola,Mukesh|Rajendra Mehta|Mahendra Kapoor,/artist/mukesh|/artist/rajendra-mehta|/artist/mahendra-kapoor,02:53,Hindi,06-02-2016,0.27,0.81,0.215,0.43,-5.96,0.0132,169.03,0.0,6.0,0.031,4.0,61.0,4875204.0,0
+Kiska Rasta Dekhe,Kishore Kumar,/artist/kishore-kumar,04:19,Hindi,09-03-2018,0.19,0.92,0.361,0.013,-3.296,0.1,166.077,1.0,2.0,0.01,4.0,100.0,7723196.0,1
+Mal De Gulal,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,04:35,Hindi,03-12-2006,0.2,0.01,0.406,0.828,-2.207,0.023,140.092,1.0,1.0,0.05,4.0,77.0,7141988.0,4
+Chanda Dekhe Chanda,Lata Mangeshkar|Kishore Kumar,/artist/lata-mangeshkar|/artist/kishore-kumar,07:01,Hindi,10-05-2022,0.69,0.89,0.69,0.761,-5.869,0.0525,127.085,1.0,1.0,0.04,4.0,74.0,34060.0,2
+Gori Tera Gaon Bada Pyara,K J Yesudas,/artist/k-j-yesudas,05:08,Hindi,01-08-2006,0.74,0.33,0.846,0.655,-8.332,0.0,138.178,0.0,11.0,0.032,4.0,38.0,1996490.0,2
+Aaja Aai Bahar,Lata Mangeshkar,/artist/lata-mangeshkar,05:35,Hindi,09-04-2015,0.85,0.63,0.01,0.143,-11.402,0.0639,174.555,1.0,4.0,0.094,4.0,54.0,9436153.0,3
+Inteha Ho Gai,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,08:59,Hindi,02-06-2022,0.55,0.278,0.453,0.0,-9.102,0.044,198.108,1.0,2.0,0.0559,4.0,91.0,617841.0,3
+Ye Ladka Hay Allah Kaisa Hai Diwana,Asha Bhosle|Mohammed Rafi,/artist/asha-bhosle-1|/artist/mohammad-rafi,05:30,Hindi,04-08-2003,0.47,0.94,0.927,0.741,-8.552,0.0,200.066,0.0,11.0,0.07,4.0,63.0,10707952.0,0
+Ab Chahe Maa Roothe Ya Baba,Lata Mangeshkar|Kishore Kumar,/artist/lata-mangeshkar|/artist/kishore-kumar,05:33,Hindi,12-12-2019,0.31,0.841,0.512,0.552,-4.794,0.0209,112.37,0.0,8.0,0.08,4.0,32.0,7974271.0,2
+Suno To Diwana Dil,Kamaal Khan,/artist/kamaal-khan,03:44,Hindi,07-07-2023,0.81,0.691,0.603,0.699,-4.343,0.02,165.07,1.0,1.0,0.064,4.0,96.0,9814748.0,0
+Mere Jeevan Saathi,S. P. Balasubrahmanyam|Anuradha Paudwal,/artist/s-p-balasubrahamanyam|/artist/anuradha-paudwal-2,04:59,Hindi,06-02-2013,0.91,0.994,0.891,0.325,-5.256,0.08,119.011,1.0,1.0,0.07,4.0,64.0,9003148.0,2
+Megha Re Megha Re,Lata Mangeshkar|Suresh Wadkar,/artist/lata-mangeshkar|/artist/suresh-wadkar,06:28,Hindi,06-07-2008,0.69,0.72,0.978,0.928,-12.237,0.09,169.554,1.0,7.0,0.0,4.0,35.0,11058089.0,3
+Kisi Pe Dil Agar Aa Jaye To,Asha Bhosle|Shailender Singh,/artist/asha-bhosle-1|/artist/shailender-singh,03:56,Hindi,06-02-2018,0.61,0.86,0.403,0.678,-9.79,0.055,124.887,0.0,8.0,0.05,4.0,49.0,6377106.0,2
+Jeena Hai To Hans Ke Jiyo-|||,Asha Bhosle|Amit Kumar|Rema Lahiri,/artist/asha-bhosle-1|/artist/amit-kumar|/artist/rema-lahiri,04:48,Hindi,05-10-2023,0.69,0.61,0.513,0.493,-3.934,0.0676,178.912,1.0,1.0,0.04,4.0,44.0,1406928.0,3
+Dil Mein Holi Jal Rahi Hai,Kishore Kumar,/artist/kishore-kumar,06:15,Hindi,06-01-2006,0.51,0.946,0.922,0.316,-6.557,0.02,120.055,1.0,11.0,0.04,4.0,68.0,6178194.0,2
+Silli Hawa Chhoo Gai,Lata Mangeshkar,/artist/lata-mangeshkar,05:36,Hindi,12-07-2008,0.81,0.397,0.106,0.852,-9.748,0.0222,209.938,0.0,4.0,0.0967,4.0,92.0,5169273.0,0
+Ankhiyon Ko Rahne De,Lata Mangeshkar,/artist/lata-mangeshkar,05:21,Hindi,07-03-2001,0.97,0.06,0.369,0.266,-11.756,0.0835,190.14,1.0,11.0,0.04,4.0,88.0,1240620.0,3
+Chahoonga Main Tujhe,Mohammed Rafi,/artist/mohammad-rafi,04:54,Hindi,05-09-2003,0.16,0.31,0.508,0.874,-3.35,0.08,192.112,0.0,10.0,0.099,4.0,33.0,11295838.0,4
+Atthara Baras Ki Tu Hone Ko,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,04:12,Hindi,07-01-2022,0.04,0.55,0.243,0.315,-2.033,0.06,190.096,0.0,9.0,0.04,4.0,47.0,1354147.0,1
+Husn Pahadon Ka,Lata Mangeshkar|Suresh Wadkar,/artist/lata-mangeshkar|/artist/suresh-wadkar,05:25,Hindi,06-02-2017,0.82,0.859,0.066,0.528,-11.271,0.0409,113.634,1.0,6.0,0.023,4.0,97.0,2315699.0,2
+Meri Bheegi Bheegi Si,Kishore Kumar,/artist/kishore-kumar,04:08,Hindi,11-05-2016,0.87,0.46,0.962,0.378,-12.055,0.095,125.974,1.0,10.0,0.0442,4.0,46.0,4207380.0,3
+Akele Hain To Kya Gam Hai,Udit Narayan|Alka Yagnik,/artist/udit-narayan|/artist/alka-yagnik,05:57,Hindi,11-02-2011,0.09,0.057,0.176,0.209,-9.065,0.0565,159.911,1.0,0.0,0.04,4.0,50.0,4684932.0,4
+Koi Sagar Dil Ko Bahlata Nahin,Mohammed Rafi,/artist/mohammad-rafi,03:36,Hindi,12-01-2018,0.56,0.16,0.958,0.162,-13.836,0.02,206.132,1.0,1.0,0.087,4.0,53.0,4426086.0,3
+Diwana Leke Aaya Hai,Kishore Kumar,/artist/kishore-kumar,04:39,Hindi,04-11-2004,0.74,0.718,0.699,0.163,-13.511,0.069,120.09,0.0,7.0,0.0771,4.0,56.0,3970814.0,2
+O Mere Dil Ke Chain,Kishore Kumar,/artist/kishore-kumar,04:34,Hindi,03-01-2011,0.14,0.55,0.666,0.318,-12.86,0.0,148.118,1.0,11.0,0.078,4.0,69.0,7230906.0,4
+Ik Rasta Hai Zindagi,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,05:17,Hindi,05-05-2018,0.35,0.17,0.01,0.173,-13.568,0.088,106.96,0.0,11.0,0.057,4.0,26.0,3463312.0,1
+Tere Husn Ki Kya Tarif Karun,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,04:41,Hindi,06-07-2006,0.29,0.47,0.615,0.375,-3.287,0.008,169.986,0.0,11.0,0.0804,4.0,51.0,420432.0,4
+Mujhe Tumse Mohabbat Hai,Shreya Ghoshal|Shaan,/artist/shreya-ghoshal|/artist/shaan,05:51,Hindi,12-06-2012,0.26,0.568,0.283,0.785,-2.72,0.0598,200.096,1.0,7.0,0.029,4.0,85.0,8005478.0,0
+Yeh Ankhen Dekh Kar,Lata Mangeshkar|Suresh Wadkar,/artist/lata-mangeshkar|/artist/suresh-wadkar,04:53,Hindi,08-05-2023,0.02,0.003,0.843,0.929,-5.833,0.029,144.026,0.0,1.0,0.03,4.0,58.0,3811763.0,4
+Aap Jinke Kareeb Hote Hain,Pankaj Udhas,/artist/pankaj-udhas,10:34,Hindi,12-08-2010,0.46,0.093,0.804,0.256,-2.085,0.06,187.206,1.0,1.0,0.045,4.0,85.0,8898912.0,3
+Hamne Dekhi Hai Un Ankhon Ki,Lata Mangeshkar,/artist/lata-mangeshkar,03:44,Hindi,08-04-2015,0.82,0.69,0.858,0.419,-7.521,0.02,180.458,1.0,1.0,0.073,4.0,90.0,8916171.0,0
+Tum Bhi Chalo Hum Bhi Chale (Duet),Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,03:32,Hindi,03-06-2002,0.04,0.84,0.692,0.033,-9.901,0.02,176.878,1.0,1.0,0.0427,4.0,69.0,185169.0,0
+Yaara O Yaara,Lata Mangeshkar|Suresh Wadkar,/artist/lata-mangeshkar|/artist/suresh-wadkar,04:58,Hindi,04-06-2003,0.25,0.977,0.945,0.979,-9.601,0.005,191.908,0.0,6.0,0.018,4.0,96.0,7293137.0,0
+Chahe Raho Door Chahe Raho Paas,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,03:31,Hindi,11-10-2005,0.08,0.632,0.936,0.421,-2.968,0.016,210.23,1.0,6.0,0.005,4.0,80.0,7166877.0,0
+Dil Deewana,S. P. Balasubrahmanyam,/artist/s-p-balasubrahamanyam,05:22,Hindi,07-12-2012,0.65,0.32,0.587,0.197,-9.971,0.0742,145.765,0.0,7.0,0.05,4.0,86.0,10281148.0,3
+Kai Baar Yun Bhi Dekha Hai,Mukesh,/artist/mukesh,03:22,Hindi,04-06-2008,0.93,0.76,0.596,0.818,-9.481,0.03,121.144,0.0,0.0,0.064,4.0,26.0,5958181.0,2
+Ding Dong O Baby Sing,Anuradha Paudwal|Manhar Udhas,/artist/anuradha-paudwal-2|/artist/manhar-udhas,05:36,Hindi,12-09-2005,0.69,0.27,0.079,0.58,-13.523,0.08,169.99,0.0,7.0,0.0435,4.0,69.0,10231703.0,3
+Sach Mere Yaar Hai,S. P. Balasubrahmanyam,/artist/s-p-balasubrahamanyam,06:52,Hindi,07-08-2004,0.96,0.531,0.247,0.571,-10.204,0.07,163.912,1.0,8.0,0.0471,4.0,66.0,5561127.0,3
+Laga Chunari Mein Daag,Manna Dey,/artist/manna-dey,06:27,Hindi,01-11-2017,0.25,0.87,0.275,0.922,-8.554,0.0344,168.678,1.0,7.0,0.03,4.0,89.0,549120.0,0
+Hawa Hawai,Kavita Krishnamurthy,/artist/kavita-subramaniam,07:02,Hindi,02-02-2006,0.19,0.263,0.025,0.396,-10.782,0.08,149.972,0.0,6.0,0.0102,4.0,83.0,4510243.0,1
+Apni To Jaise Taise - Dialogue,Kishore Kumar,/artist/kishore-kumar,05:25,Hindi,05-11-2001,0.52,0.646,0.717,0.193,-4.03,0.06,125.916,1.0,0.0,0.0617,4.0,25.0,6957895.0,2
+Main Na Bhoolunga,Lata Mangeshkar|Mukesh,/artist/lata-mangeshkar|/artist/mukesh,05:39,Hindi,08-12-2019,0.01,0.512,0.401,0.12,-11.219,0.054,201.936,0.0,10.0,0.004,4.0,94.0,64499.0,4
+My Name Is Lakhan,Mohammad Aziz|Anuradha Paudwal,/artist/mohammad-aziz|/artist/anuradha-paudwal-2,07:09,Hindi,12-02-2021,0.68,0.715,0.432,0.994,-7.164,0.05,139.932,0.0,6.0,0.063,4.0,51.0,1495327.0,2
+Main Chali Main Chali,Lata Mangeshkar|Asha Bhosle,/artist/lata-mangeshkar|/artist/asha-bhosle-1,05:08,Hindi,09-01-2011,0.01,0.4,0.525,0.984,-11.664,0.0306,134.115,1.0,9.0,0.003,4.0,88.0,972166.0,4
+Tum Aa Gaye Ho Noor Aa Gaya,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,04:13,Hindi,01-08-2018,0.47,0.62,0.746,0.405,-5.506,0.084,157.877,0.0,11.0,0.01,4.0,80.0,10433429.0,1
+Lag Ja Gale Se Phir,Lata Mangeshkar,/artist/lata-mangeshkar,04:18,Hindi,02-01-2003,0.68,0.63,0.938,0.148,-6.984,0.079,170.098,0.0,2.0,0.062,4.0,69.0,6356409.0,3
+Aajkal Tere Mere Pyar Ke Charche,Mohammed Rafi|Suman Kalyanpur,/artist/mohammad-rafi|/artist/suman-kalyanpur,05:09,Hindi,03-04-2001,0.19,0.97,0.549,0.779,-9.299,0.052,153.645,1.0,7.0,0.038,4.0,44.0,4490519.0,1
+Karte Hain Hum Pyar Mr India Se,Kavita Krishnamurthy,/artist/kavita-subramaniam,06:36,Hindi,11-10-2019,0.96,0.97,0.645,0.547,-10.841,0.0378,183.048,1.0,7.0,0.0722,4.0,58.0,6593266.0,0
+Tum Ko Hum Dilbar,Anuradha Paudwal|Amit Kumar,/artist/anuradha-paudwal-2|/artist/amit-kumar,06:43,Hindi,05-06-2009,0.17,0.19,0.743,0.563,-13.944,0.0033,185.202,0.0,10.0,0.098,4.0,74.0,9159885.0,4
+Shishe Ki Umar,Kishore Kumar,/artist/kishore-kumar,06:06,Hindi,06-04-2021,0.36,0.2,0.627,0.159,-9.539,0.06,175.108,0.0,7.0,0.0242,4.0,74.0,4432435.0,3
+Zindagi Pyar Ka Geet Hai - Kishore Kumar,Kishore Kumar,/artist/kishore-kumar,04:49,Hindi,11-06-2022,0.12,0.226,0.356,0.157,-10.847,0.02,143.989,1.0,1.0,0.089,4.0,97.0,526904.0,4
+Akele Akele Kahan Ja Rahe Ho,Mohammed Rafi,/artist/mohammad-rafi,04:45,Hindi,05-10-2010,0.56,0.25,0.278,0.238,-10.342,0.08,160.006,0.0,3.0,0.084,4.0,40.0,4421142.0,3
+Chingari Koi Bhadke,Kishore Kumar,/artist/kishore-kumar,05:20,Hindi,07-10-2001,0.81,0.707,0.922,0.701,-10.039,0.08,151.18,1.0,0.0,0.04,4.0,41.0,8891898.0,3
+John Jani  Janardhan,Mohammed Rafi,/artist/mohammad-rafi,05:46,Hindi,03-09-2008,0.15,0.88,0.952,0.198,-2.057,0.06,177.74,1.0,7.0,0.089,4.0,97.0,2526914.0,1
+Har Taraf Har Jagah Besumar Aadmi,Jagjit Singh|Lata Mangeshkar,/artist/jagjeet-singh-1|/artist/lata-mangeshkar,05:38,Hindi,12-01-2003,0.25,0.2,0.159,0.26,-8.41,0.068,103.54,0.0,1.0,0.099,4.0,40.0,8036305.0,1
+Dil Ke Tukde Tukde Karke,K J Yesudas,/artist/k-j-yesudas,04:00,Hindi,12-01-2010,0.51,0.663,0.533,0.256,-5.095,0.062,162.058,1.0,0.0,0.094,4.0,90.0,9767330.0,1
+Ab Jo Mile Hai To,Asha Bhosle,/artist/asha-bhosle-1,03:41,Hindi,07-06-2014,0.39,0.229,0.734,0.406,-4.627,0.08,189.786,0.0,8.0,0.0143,4.0,95.0,8704574.0,3
+Bol Baby Bol Rock N Roll,Kishore Kumar|S. Janaki|Javed Jaffrey,/artist/kishore-kumar|/artist/s-janaki|/artist/javed-jaffrey,06:05,Hindi,09-07-2015,0.65,0.997,0.864,0.831,-12.266,0.064,124.037,1.0,6.0,0.062,4.0,99.0,5225523.0,2
+Har Dil Jo Pyar Karega,Lata Mangeshkar|Mahendra Kapoor|Mukesh,/artist/lata-mangeshkar|/artist/mahendra-kapoor|/artist/mukesh,04:45,Hindi,09-11-2015,0.92,0.13,0.35,0.41,-4.627,0.063,143.072,0.0,5.0,0.09,4.0,42.0,4812177.0,3
+Yeh Sham Mastani,Kishore Kumar,/artist/kishore-kumar,05:04,Hindi,06-08-2015,0.87,0.05,0.785,0.43,-4.348,0.0808,162.604,0.0,10.0,0.07,4.0,96.0,10887648.0,3
+Thodi Si Zamin Thoda Aasman,Bhupinder Singh|Lata Mangeshkar,/artist/bhupinder-singh|/artist/lata-mangeshkar,05:33,Hindi,12-10-2022,0.43,0.03,0.776,0.236,-11.699,0.063,203.736,0.0,10.0,0.0126,4.0,46.0,1117779.0,3
+Aap Yahan Aaye Kisliye,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,06:52,Hindi,03-10-2004,0.65,0.327,0.105,0.745,-13.509,0.091,184.17,0.0,6.0,0.08,4.0,91.0,5277763.0,3
+Pyar Se Bhi Ziada Tujhe,Asha Bhosle|Mohammad Aziz,/artist/asha-bhosle-1|/artist/mohammad-aziz,05:16,Hindi,12-10-2010,0.29,0.057,0.848,0.762,-9.807,0.069,162.61,1.0,11.0,0.08,4.0,90.0,8572844.0,4
+Tere Mere Beech Mein,Lata Mangeshkar|S. P. Balasubrahmanyam,/artist/lata-mangeshkar|/artist/s-p-balasubrahamanyam,05:37,Hindi,05-09-2015,0.53,0.17,0.602,0.626,-3.452,0.03,129.993,0.0,1.0,0.0761,4.0,53.0,6419388.0,2
+Jab Hum Jawan Honge,Lata Mangeshkar|Shabbir Kumar,/artist/lata-mangeshkar|/artist/shabbir-kumar,07:09,Hindi,11-04-2020,0.77,0.439,0.337,0.051,-12.166,0.0004,194.169,1.0,1.0,0.0161,4.0,100.0,2055102.0,0
+Yeh Vaada Raha,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,06:49,Hindi,01-03-2002,0.66,0.348,0.424,0.474,-6.954,0.038,200.112,1.0,10.0,0.028,4.0,98.0,4905832.0,3
+Ye Dil Tum Bin Lagta Nahin,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,05:51,Hindi,10-08-2023,0.43,0.31,0.72,0.971,-4.136,0.095,143.04,0.0,5.0,0.0629,4.0,100.0,6234089.0,1
+Dhire Dhire Machal,Lata Mangeshkar,/artist/lata-mangeshkar,04:03,Hindi,09-02-2004,0.16,0.075,0.024,0.023,-9.356,0.03,152.05,1.0,0.0,0.0766,4.0,81.0,9237750.0,4
+Yeh Kahan Aa Gaye Hum,Lata Mangeshkar|Amitabh Bachchan,/artist/lata-mangeshkar|/artist/amitabh-bachchan,07:56,Hindi,10-02-2022,0.79,0.646,0.98,0.287,-7.975,0.059,158.056,0.0,8.0,0.03,4.0,88.0,10989225.0,3
+Tum Jo Mil Gaye Ho,Mohammed Rafi,/artist/mohammad-rafi,08:11,Hindi,08-10-2021,0.8,0.03,0.878,0.069,-9.282,0.04,209.998,1.0,8.0,0.03,4.0,81.0,853770.0,3
+Janu Meri Jaan,Asha Bhosle|Kishore Kumar|Mohammed Rafi|Usha Mangeshkar,/artist/asha-bhosle-1|/artist/kishore-kumar|/artist/mohammad-rafi|/artist/usha-mangeshkar-2,07:06,Hindi,03-01-2015,0.33,0.52,0.767,0.345,-3.178,0.03,126.003,0.0,11.0,0.05,4.0,85.0,7491881.0,2
+Ek Pyar Ka Naghma Hai,Lata Mangeshkar|Mukesh,/artist/lata-mangeshkar|/artist/mukesh,05:55,Hindi,04-05-2003,0.87,0.631,0.467,0.011,-4.868,0.05,126.001,1.0,8.0,0.09,4.0,67.0,4859813.0,2
+Dil Dhundta Hain,Bhupinder Singh,/artist/bhupinder-singh,06:41,Hindi,01-04-2005,0.52,0.093,0.337,0.234,-7.766,0.0781,106.892,1.0,5.0,0.0376,4.0,28.0,9430095.0,2
+Tere Liye Palkon Ki Jhalar,Lata Mangeshkar,/artist/lata-mangeshkar,05:31,Hindi,04-03-2011,0.62,0.912,0.983,0.633,-9.075,0.02,129.992,0.0,6.0,0.0978,4.0,30.0,5542660.0,2
+Lambi Judaai,Reshma,/artist/reshma,06:28,Hindi,02-01-2006,0.12,0.9,1.0,0.982,-2.155,0.0752,208.074,0.0,11.0,0.098,4.0,83.0,5834366.0,0
+Ruk Jana Nahin,Kishore Kumar,/artist/kishore-kumar,06:03,Hindi,03-11-2018,0.52,0.909,0.081,0.782,-11.111,0.0867,166.866,1.0,0.0,0.01,4.0,59.0,65621.0,1
+Babul Ki Duayen Leti Ja,Mohammed Rafi,/artist/mohammad-rafi,04:08,Hindi,12-04-2005,0.94,0.62,0.345,0.967,-12.782,0.038,170.824,1.0,2.0,0.09,4.0,51.0,4009341.0,0
+Husnwale Tera Jawab Nahin,Mohammed Rafi,/artist/mohammad-rafi,04:46,Hindi,06-12-2019,0.35,0.275,0.366,0.066,-8.565,0.005,155.756,1.0,1.0,0.09,4.0,60.0,654636.0,4
+Gulabi Ankhen,Mohammed Rafi,/artist/mohammad-rafi,03:20,Hindi,10-01-2004,0.2,0.93,0.343,0.67,-13.422,0.085,200.088,0.0,6.0,0.05,4.0,26.0,1942941.0,1
+Jogi Ji Dheere Dheere,Chandrani Mukherjee|Hemlata|Jaspal Singh|Sushil Kumar,/artist/chandrani-mukherjee|/artist/hemlata|/artist/jaspal-singh|/artist/sushil-kumar,08:11,Hindi,01-04-2016,0.23,0.859,0.419,0.307,-7.296,0.0861,191.998,0.0,6.0,0.0695,4.0,94.0,3538644.0,1
+Aap Jaisa Koi,Nazia Hassan|Feroz Khan,/artist/nazia-hassan|/artist/feroz-khan,04:09,Hindi,06-07-2020,0.05,0.19,0.473,0.657,-6.277,0.01,179.942,0.0,4.0,0.0062,4.0,46.0,9471102.0,4
+Tere Bina Zindagi Se,Alka Yagnik|Hariharan,/artist/alka-yagnik|/artist/hariharan,05:34,Hindi,11-08-2010,0.66,0.074,0.059,0.157,-8.8,0.047,190.034,1.0,1.0,0.014,4.0,27.0,8037408.0,3
+Piya Bawri Piya Bawri,Asha Bhosle|Ashok Kumar,/artist/asha-bhosle-1|/artist/ashok-kumar,03:55,Hindi,04-05-2021,0.52,0.29,0.706,0.469,-5.908,0.033,186.28,0.0,0.0,0.05,4.0,60.0,8079330.0,4
+Tum Meri Zindagi Mein Kuchh,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,03:17,Hindi,01-10-2005,0.66,0.6,0.956,0.403,-10.763,0.0918,189.28,1.0,1.0,0.0337,4.0,43.0,8119054.0,3
+Babul Ka Ghar,Kishore Kumar|Alka Yagnik,/artist/kishore-kumar|/artist/alka-yagnik,07:16,Hindi,01-01-2011,0.94,0.805,0.994,0.74,-7.943,0.09,168.534,1.0,1.0,0.08,4.0,46.0,6202356.0,3
+Paon Chhoo Lene Do Phoolon Ko,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,03:14,Hindi,05-11-2013,0.08,0.441,0.127,0.35,-2.376,0.08,185.992,1.0,2.0,0.03,4.0,60.0,883601.0,1
+Bedardi Balma Tujhko,Lata Mangeshkar,/artist/lata-mangeshkar,04:59,Hindi,12-10-2002,0.37,0.13,0.804,0.6,-12.491,0.0333,191.128,0.0,8.0,0.01,4.0,79.0,3750375.0,4
+Ek Akela Is Shaher Mein,Bhupinder Singh,/artist/bhupinder-singh,05:02,Hindi,05-05-2009,0.75,0.171,0.644,0.063,-4.234,0.0389,173.838,1.0,0.0,0.033,4.0,61.0,7192398.0,3
+Mujhe Kitna Pyar Hai Tumse,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,04:32,Hindi,01-01-2008,0.02,0.89,0.197,0.762,-8.63,0.0426,196.494,1.0,2.0,0.072,4.0,94.0,2351731.0,0
+Honthon Pe Jaan Chali Aayegi,Kishore Kumar,/artist/kishore-kumar,05:09,Hindi,10-07-2015,0.67,0.808,0.035,0.721,-11.476,0.03,111.11,1.0,1.0,0.0209,4.0,40.0,2542225.0,2
+Tumne Di Awaz,Shabbir Kumar,/artist/shabbir-kumar,05:01,Hindi,03-11-2013,0.31,0.15,0.026,0.452,-6.032,0.1,179.24,1.0,7.0,0.03,4.0,95.0,1846020.0,1
+Yari Hai Imaan Mera,Manna Dey,/artist/manna-dey,06:21,Hindi,07-08-2016,0.82,0.67,0.235,0.815,-8.894,0.063,208.108,0.0,4.0,0.03,4.0,100.0,809417.0,0
+Patjhad Saawan Basant Bahaar,Lata Mangeshkar|Suresh Wadkar,/artist/lata-mangeshkar|/artist/suresh-wadkar,05:30,Hindi,11-02-2009,0.13,0.06,0.095,0.942,-7.606,0.07,186.142,1.0,6.0,0.041,4.0,25.0,2282662.0,4
+Woh Kaghaz Ki Kashti,Jagjit Singh|Chitra Singh,/artist/jagjeet-singh-1|/artist/chitra-singh,06:30,Hindi,06-07-2009,0.92,0.586,0.96,0.964,-5.722,0.0018,113.022,1.0,1.0,0.0513,4.0,59.0,5541997.0,2
+Jaaneman Jaaneman,Kishore Kumar,/artist/kishore-kumar,05:46,Hindi,12-11-2008,0.8,0.75,0.575,0.46,-3.408,0.005,183.206,1.0,0.0,0.046,4.0,31.0,7542539.0,0
+Thoda Hai,Lata Mangeshkar|Kishore Kumar,/artist/lata-mangeshkar|/artist/kishore-kumar,07:18,Hindi,02-01-2022,0.78,0.885,0.553,0.136,-7.811,0.067,135.538,0.0,9.0,0.047,4.0,60.0,5356750.0,2
+Haye Re Haye Tera Ghunghta,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,06:41,Hindi,06-02-2013,0.54,0.697,0.793,0.469,-2.468,0.002,203.912,0.0,1.0,0.078,4.0,98.0,7368482.0,0
+Pahle Pahle Pyar Ki Mulaqaten,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,04:39,Hindi,07-03-2013,0.31,0.945,0.353,0.265,-11.517,0.071,133.946,0.0,1.0,0.02,4.0,79.0,92071.0,1
+Likhe Jo Khat Tujhe,Mohammed Rafi,/artist/mohammad-rafi,04:33,Hindi,12-10-2002,0.44,0.4,0.195,0.376,-10.077,0.05,126.992,0.0,9.0,0.0234,4.0,38.0,11323411.0,2
+Kya Hua Tera Vada,Mohammed Rafi|Sushma Shrestha,/artist/mohammad-rafi|/artist/sushma-shrestha,04:22,Hindi,10-06-2009,0.43,0.94,0.216,0.722,-8.166,0.0888,123.946,1.0,1.0,0.091,4.0,53.0,5052725.0,1
+Ehsan Tera Hoga Mujh Par,Mohammed Rafi,/artist/mohammad-rafi,03:28,Hindi,10-05-2005,0.86,0.48,0.921,0.192,-9.165,0.02,151.108,1.0,11.0,0.04,4.0,45.0,7896601.0,2
+Aa Chal Ke Tujhe,Kishore Kumar,/artist/kishore-kumar,04:04,Hindi,09-08-2021,0.42,0.284,0.894,0.602,-13.385,0.042,187.886,0.0,10.0,0.0335,4.0,62.0,254509.0,4
+Woh Jab Yaad Aaye,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,04:43,Hindi,02-02-2003,0.39,0.313,0.032,0.147,-10.474,0.0191,166.042,1.0,8.0,0.07,4.0,43.0,8045550.0,4
+Mera Karma Tu,Manhar Udhas|Suresh Wadkar|Mohammad Aziz,/artist/manhar-udhas|/artist/suresh-wadkar|/artist/mohammad-aziz,02:16,Hindi,03-09-2008,0.58,0.635,0.973,0.694,-2.773,0.049,205.982,0.0,11.0,0.015,4.0,26.0,5493849.0,0
+Main Hi Main Hoon,Suresh Wadkar,/artist/suresh-wadkar,04:54,Hindi,02-03-2010,0.82,0.946,0.245,0.915,-10.093,0.017,188.072,1.0,5.0,0.1,4.0,100.0,420148.0,0
+Samne Ye Kaun Aya,Kishore Kumar,/artist/kishore-kumar,04:12,Hindi,11-06-2001,0.19,0.98,0.939,0.155,-5.323,0.053,116.017,0.0,0.0,0.04,4.0,43.0,4030048.0,1
+Aaj Unse Pehli Mulaqat Hogi,Kishore Kumar,/artist/kishore-kumar,05:46,Hindi,04-08-2021,0.83,0.71,0.346,0.367,-5.75,0.022,193.628,1.0,2.0,0.02,4.0,70.0,1608624.0,0
+Pyar Hamen Kis Mod Pe,Kishore Kumar|R. D. Burman|Bhupinder Singh|Sapan Chakraborty|Gulshan Bawra,/artist/kishore-kumar|/artist/r-d-burman|/artist/bhupinder-singh|/artist/sapan-chakraborty|/artist/gulshan-bawra,06:33,Hindi,08-08-2013,0.63,0.255,0.862,0.5,-13.448,0.052,137.715,0.0,11.0,0.0608,4.0,59.0,7431784.0,2
+Neele Gagan Ke Tale,Mahendra Kapoor,/artist/mahendra-kapoor,03:33,Hindi,12-05-2017,0.84,0.24,0.051,0.302,-12.64,0.0261,184.126,1.0,9.0,0.0,4.0,98.0,9260669.0,3
+Koi Jab Tumhara Hriday Tod De,Mukesh,/artist/mukesh,03:33,Hindi,01-07-2018,0.59,0.061,0.637,0.461,-12.04,0.064,160.042,1.0,7.0,0.0433,4.0,37.0,2789880.0,3
+Mere Dil Ne Tadap Ke,Kishore Kumar,/artist/kishore-kumar,06:19,Hindi,04-01-2017,0.49,0.36,0.154,0.745,-10.473,0.0237,118.015,1.0,1.0,0.1,4.0,40.0,5586955.0,2
+Baghon Mein Bahar Hai,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,03:52,Hindi,07-10-2014,0.43,0.81,0.538,0.237,-13.84,0.03,187.298,0.0,0.0,0.0119,4.0,57.0,1997803.0,0
+Aaja Re O Mere,Lata Mangeshkar|Nitin Mukesh,/artist/lata-mangeshkar|/artist/nitin-mukesh,05:02,Hindi,02-12-2007,0.48,0.15,0.539,0.972,-9.797,0.03,198.33,1.0,5.0,0.0138,4.0,70.0,718142.0,4
+Mere Samnewali Khidki Mein,Kishore Kumar,/artist/kishore-kumar,02:52,Hindi,07-04-2010,0.02,0.99,0.414,0.805,-8.114,0.0318,186.802,1.0,1.0,0.08,4.0,97.0,9741065.0,0
+Mere Dost Kissa Ye Kya Ho Gaya,Mohammed Rafi,/artist/mohammad-rafi,04:52,Hindi,09-07-2014,0.02,0.02,0.798,0.902,-5.155,0.0381,181.934,0.0,6.0,0.02,4.0,83.0,7351676.0,4
+Dekha Na Haye Re,Kishore Kumar,/artist/kishore-kumar,04:13,Hindi,12-10-2016,0.41,0.1,0.036,0.543,-12.048,0.0,132.643,0.0,7.0,0.025,4.0,27.0,5401058.0,4
+Tumhe Apna Saathi Banane,Mithun Chakraborty|Padmini Kolhapure|Danny Denzongpa|Asrani|Bindu,/artist/mithun-chakraborty|/artist/padmini-kolhapure|/artist/danny-denzongpa|/artist/asrani|/artist/bindu,08:12,Hindi,01-02-2015,0.13,0.04,0.977,0.6,-13.876,0.0602,200.034,0.0,7.0,0.063,4.0,90.0,2334143.0,4
+Mausam Hai Ashiqana,Lata Mangeshkar,/artist/lata-mangeshkar,04:53,Hindi,10-07-2006,0.76,0.408,0.713,0.647,-10.562,0.024,190.004,0.0,4.0,0.0572,4.0,85.0,2258335.0,0
+Main Hoon Prem Rogi,Suresh Wadkar,/artist/suresh-wadkar,07:58,Hindi,07-11-2021,0.52,0.866,0.483,0.775,-13.663,0.09,180.392,0.0,6.0,0.01,4.0,90.0,2373691.0,1
+Tumse Bana Mera Jeevan,Mohammad Aziz|Anuradha Paudwal,/artist/mohammad-aziz|/artist/anuradha-paudwal-2,04:23,Hindi,09-06-2020,0.47,0.56,0.258,0.853,-4.923,0.0132,106.894,0.0,1.0,0.0268,4.0,97.0,5793045.0,2
+Chhodenge Na Hum Tera Saath,Anuradha Paudwal|Mohammad Aziz,/artist/anuradha-paudwal-2|/artist/mohammad-aziz,06:34,Hindi,07-01-2020,0.03,0.13,0.999,0.131,-7.406,0.0758,191.964,0.0,4.0,0.05,4.0,31.0,5613081.0,4
+Doston Se Pyar Kiya,Usha Uthup,/artist/usha-uthup,03:19,Hindi,04-02-2010,0.98,0.99,0.38,0.486,-7.944,0.0634,193.34,1.0,6.0,0.073,4.0,91.0,10662480.0,0
+Meri Galiyon Se Logon Ki Yari,Lata Mangeshkar|Mahendra Kapoor,/artist/lata-mangeshkar|/artist/mahendra-kapoor,06:13,Hindi,05-08-2004,0.46,0.421,0.214,0.253,-2.989,0.038,123.146,0.0,9.0,0.09,4.0,75.0,3812064.0,2
+Zindagi Ek Safar Hai Suhana (Male),Kishore Kumar,/artist/kishore-kumar,04:27,Hindi,07-03-2018,0.01,0.715,0.143,0.793,-10.158,0.05,139.945,0.0,1.0,0.04,4.0,68.0,9795122.0,1
+Nainon Mein Badra Chhaye,Lata Mangeshkar,/artist/lata-mangeshkar,03:33,Hindi,08-07-2015,0.85,0.83,0.213,0.371,-11.783,0.05,140.012,1.0,7.0,0.065,4.0,47.0,4598988.0,2
+Papa Kahte They,Udit Narayan,/artist/udit-narayan,03:59,Hindi,02-07-2011,0.98,0.063,0.923,0.046,-5.254,0.0,175.902,1.0,2.0,0.067,4.0,45.0,7067215.0,3
+Tum Se Badhkar,Alka Yagnik|Kishore Kumar,/artist/alka-yagnik|/artist/kishore-kumar,05:03,Hindi,01-05-2023,0.69,0.436,0.973,0.74,-12.718,0.041,190.106,0.0,1.0,0.0856,4.0,96.0,5976191.0,3
+Gumnaam Hai Koi Badnaam Hai Koi,Lata Mangeshkar,/artist/lata-mangeshkar,05:19,Hindi,08-01-2010,0.71,0.682,0.879,0.645,-8.966,0.1,166.75,0.0,5.0,0.0644,4.0,49.0,2467869.0,3
+Yeh Pyar Tha Ya Kuchh Aur Tha,Sudha Malhotra|Anwar Hussain,/artist/sudha-malhotra|/artist/anwar-hussain,07:11,Hindi,01-02-2003,0.07,0.91,0.332,0.948,-13.656,0.0273,181.65,1.0,2.0,0.058,4.0,73.0,2546731.0,0
+Kisi Patthar Ki Murat Se,Mahendra Kapoor,/artist/mahendra-kapoor,04:37,Hindi,02-01-2012,0.69,0.29,0.962,0.199,-10.342,0.05,178.104,0.0,0.0,0.0,4.0,29.0,2260133.0,3
+Suno Kaho Suna,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,04:21,Hindi,02-11-2000,0.96,0.333,0.627,0.051,-9.593,0.0529,129.996,0.0,5.0,0.0345,4.0,50.0,9652058.0,2
+Ek Hasina Thi Ek Diwana Tha,Asha Bhosle|Kishore Kumar|Rishi Kapoor,/artist/asha-bhosle-1|/artist/kishore-kumar|/artist/rishi-kapoor,07:54,Hindi,03-02-2019,0.1,0.489,0.009,0.515,-4.587,0.089,172.638,1.0,1.0,0.08,4.0,85.0,4410421.0,1
+Mere Naina Sawan Bhadon (Female),Lata Mangeshkar,/artist/lata-mangeshkar,11:03,Hindi,01-03-2002,0.05,0.346,0.808,0.279,-10.157,0.0,159.936,1.0,5.0,0.08,4.0,74.0,2563458.0,4
+Zindagi Aa Raha Hoon Main,Kishore Kumar,/artist/kishore-kumar,05:46,Hindi,02-05-2010,0.33,0.797,0.36,0.846,-10.307,0.1,183.092,0.0,4.0,0.098,4.0,92.0,3878519.0,1
+Aaj Bichhde Hain,Bhupinder Singh,/artist/bhupinder-singh,06:25,Hindi,09-11-2013,0.51,0.5,0.13,0.985,-13.719,0.055,172.33,0.0,5.0,0.063,4.0,80.0,9251091.0,0
+Ae Ri Pawan,Lata Mangeshkar,/artist/lata-mangeshkar,05:29,Hindi,11-02-2007,0.58,0.73,0.237,0.174,-6.996,0.04,144.044,1.0,0.0,0.01,4.0,94.0,2662446.0,2
+Chakke Men Chakka Chakke Pe Gaadi,Mohammed Rafi,/artist/mohammad-rafi,05:31,Hindi,06-11-2000,0.47,0.359,0.874,0.836,-12.441,0.015,192.278,1.0,1.0,0.0913,4.0,55.0,5893565.0,4
+Jeena Yahan Marna Yahan,Mukesh,/artist/mukesh,04:29,Hindi,06-06-2017,0.7,0.48,0.037,0.203,-9.984,0.006,109.919,1.0,4.0,0.0958,4.0,46.0,5671862.0,2
+Mast Baharon Ka Main Aashiq,Mohammed Rafi,/artist/mohammad-rafi,06:21,Hindi,02-10-2018,0.59,0.28,0.927,0.086,-7.859,0.0898,190.098,0.0,5.0,0.064,4.0,59.0,5884952.0,3
+Chhu Kar Mere Manko,Kishore Kumar,/artist/kishore-kumar,04:16,Hindi,09-08-2003,0.51,0.821,0.477,0.798,-9.477,0.0806,115.175,1.0,1.0,0.0598,4.0,58.0,6929227.0,1
+Chabi Kho Jaye,Lata Mangeshkar|Shailender Singh,/artist/lata-mangeshkar|/artist/shailender-singh,07:08,Hindi,04-04-2006,0.69,0.91,0.948,0.418,-7.073,0.07,120.031,0.0,0.0,0.04,4.0,25.0,1224433.0,2
+Mujhe Naulakha Mangawa De Re,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,10:56,Hindi,09-01-2013,0.23,0.558,0.183,0.682,-6.996,0.0684,171.958,1.0,1.0,0.092,4.0,48.0,6400433.0,1
+Aaya Mausam Dosti Ka,Lata Mangeshkar|Usha Mangeshkar|S. P. Balasubrahmanyam|Shailender Singh,/artist/lata-mangeshkar|/artist/usha-mangeshkar-2|/artist/s-p-balasubrahamanyam|/artist/shailender-singh,06:47,Hindi,06-12-2010,0.53,0.68,0.481,0.808,-12.731,0.0323,192.042,1.0,7.0,0.0178,4.0,69.0,2463399.0,0
+Jaaneman Jaaneman Tere Do Nain,Asha Bhosle|K J Yesudas,/artist/asha-bhosle-1|/artist/k-j-yesudas,05:11,Hindi,01-10-2017,0.61,0.023,0.144,0.312,-13.828,0.0559,129.966,0.0,11.0,0.04,4.0,83.0,431607.0,2
+Nindiya Se Jagi Bahar,Lata Mangeshkar,/artist/lata-mangeshkar,06:21,Hindi,07-09-2002,0.43,0.79,0.977,0.573,-5.312,0.0679,202.049,0.0,1.0,0.07,4.0,83.0,709744.0,0
+Puchho Na Yaar Kya Hua,Mohammed Rafi|Padmini Kolhapure|Rishi Kapoor|Asha Bhosle,/artist/mohammad-rafi|/artist/padmini-kolhapure|/artist/rishi-kapoor|/artist/asha-bhosle-1,06:08,Hindi,07-07-2016,0.33,0.86,0.161,0.722,-2.19,0.04,184.27,1.0,6.0,0.014,4.0,93.0,1866993.0,0
+Tirchi Topiwale (Part-1),Amit Kumar|Sapna Mukherjee,/artist/amit-kumar|/artist/sapna-mukherjee,06:32,Hindi,03-03-2011,0.22,0.095,0.657,0.23,-7.289,0.0224,119.999,0.0,11.0,0.0875,4.0,94.0,5345383.0,4
+Tumse Milkar Na Jane (Male Version),Shabbir Kumar,/artist/shabbir-kumar,04:03,Hindi,12-05-2022,0.14,0.32,0.544,0.095,-3.121,0.04,173.858,1.0,6.0,0.033,4.0,44.0,2407251.0,4
+Sau Saal Pahle,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,03:29,Hindi,12-09-2008,0.51,0.601,0.095,0.978,-6.564,0.095,186.068,1.0,2.0,0.0015,4.0,68.0,6811653.0,1
+Dard Se Mera Daaman Bharde Ya Allah,Lata Mangeshkar|Chorus,/artist/lata-mangeshkar|/artist/chorus,05:47,Hindi,09-06-2016,0.1,0.208,0.535,0.676,-7.588,0.032,170.102,0.0,1.0,0.054,4.0,74.0,5830724.0,4
+Woh Bhooli Dastan Lo Phir Yaad,Lata Mangeshkar,/artist/lata-mangeshkar,04:52,Hindi,11-06-2013,0.26,0.19,0.948,0.951,-12.37,0.0,199.996,1.0,11.0,0.03,4.0,93.0,6408105.0,4
+Rim Jhim Ke Geet,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,04:42,Hindi,08-07-2003,0.54,0.183,0.395,0.685,-11.78,0.012,186.866,1.0,7.0,0.1,4.0,41.0,9184030.0,4
+Meri Jaan Balle Balle,Asha Bhosle|Mohammed Rafi,/artist/asha-bhosle-1|/artist/mohammad-rafi,03:31,Hindi,07-09-2006,0.91,0.74,1.0,0.565,-12.332,0.063,145.158,1.0,7.0,0.0852,4.0,70.0,4181190.0,2
+Naino Mein Sapna,Amit Kumar|Shreya Ghoshal,/artist/amit-kumar|/artist/shreya-ghoshal,04:02,Hindi,01-08-2002,0.19,0.98,0.09,0.76,-2.043,0.02,129.938,0.0,6.0,0.045,4.0,64.0,3035343.0,1
+Kehna Na Tum Yeh Kisi Se,Salma Agha|Mohammad Aziz,/artist/salma-agha|/artist/mohammad-aziz,06:08,Hindi,07-04-2005,0.46,0.57,0.428,0.412,-4.45,0.015,194.168,1.0,2.0,0.0755,4.0,92.0,3372869.0,0
+Kahin Deep Jale Kahin Dil,Lata Mangeshkar,/artist/lata-mangeshkar,05:24,Hindi,01-07-2020,0.26,0.255,0.055,0.384,-6.194,0.0924,149.036,1.0,9.0,0.05,4.0,73.0,6424792.0,1
+Sajna Hai Mujhe Sajna Ke Liye,Asha Bhosle,/artist/asha-bhosle-1,05:04,Hindi,08-04-2020,0.17,0.3,0.099,0.135,-6.455,0.0488,146.328,0.0,10.0,0.006,4.0,34.0,1257225.0,4
+Aaja Piya Tohe Pyar Doon,Lata Mangeshkar,/artist/lata-mangeshkar,04:12,Hindi,06-06-2023,0.66,0.275,0.564,0.529,-3.066,0.08,185.9,0.0,6.0,0.0742,4.0,89.0,4968775.0,3
+Yeh Kaisi Mulaqat,Alka Yagnik|Kumar Sanu|Suman Ranganathan,/artist/alka-yagnik|/artist/kumar-sanu|/artist/suman-ranganathan,05:14,Hindi,01-03-2005,0.01,0.086,0.377,0.015,-4.082,0.001,111.914,0.0,1.0,0.07,4.0,82.0,4463953.0,4
+Aaj Mere Yaar Ki Shaadi Hai,Deven Verma|Mohammed Rafi|Ravi Shankar Sharma,/artist/deven-verma|/artist/mohammad-rafi|/artist/ravi,04:32,Hindi,12-02-2011,0.77,0.15,0.351,0.594,-10.03,0.05,182.949,1.0,8.0,0.054,4.0,53.0,4016995.0,3
+Chalo Dildar Chalo,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,03:37,Hindi,03-09-2005,0.88,0.79,0.858,0.207,-3.497,0.0251,125.022,1.0,11.0,0.0803,4.0,83.0,1391478.0,2
+Surmayee Ankhiyon Mein (Sad Version),K J Yesudas|Ilaiyaraaja,/artist/k-j-yesudas|/artist/iiaiyaraaja,01:17,Hindi,08-04-2015,0.11,0.659,0.152,0.268,-9.661,0.0,191.79,0.0,1.0,0.03,4.0,76.0,3973640.0,0
+Aap Yun Faaslon Se,Lata Mangeshkar,/artist/lata-mangeshkar,04:12,Hindi,06-04-2019,0.96,0.41,0.982,0.04,-7.836,0.0508,105.974,0.0,6.0,0.0268,4.0,50.0,7556252.0,2
+Pyar Zindagi Hai,Asha Bhosle|Lata Mangeshkar|Mahendra Kapoor,/artist/asha-bhosle-1|/artist/lata-mangeshkar|/artist/mahendra-kapoor,07:27,Hindi,05-02-2011,1.0,0.82,0.723,0.994,-8.156,0.0745,133.99,0.0,11.0,0.0138,4.0,42.0,4690341.0,2
+Jane Kahan Gaye Woh Din,Mukesh,/artist/mukesh,04:48,Hindi,12-04-2009,0.38,0.14,0.213,0.404,-5.794,0.082,179.876,0.0,2.0,0.0835,4.0,80.0,645411.0,3
+O Mere Raja,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,05:05,Hindi,08-04-2012,0.1,0.254,0.678,0.762,-13.951,0.0005,152.032,0.0,10.0,0.09,4.0,52.0,4719661.0,4
+Mausam Pyar Ka,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,05:44,Hindi,02-08-2017,0.32,0.88,0.856,0.741,-5.152,0.0146,203.122,0.0,11.0,0.05,4.0,68.0,1363818.0,0
+Shayad Meri Shaadi,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,06:39,Hindi,02-02-2020,0.22,0.83,0.054,0.889,-7.504,0.0412,188.184,0.0,9.0,0.0753,4.0,99.0,2028117.0,0
+Ek Bagiya Mein,Shankar Mahadevan|Srini|K. S. Chithra,/artist/shankar-mahadevan|/artist/srini|/artist/chitra,05:57,Hindi,08-10-2007,0.85,0.973,0.845,0.867,-11.063,0.0483,187.714,1.0,7.0,0.0013,4.0,35.0,3940515.0,0
+Jab Chhaye Mera Jadoo,Asha Bhosle,/artist/asha-bhosle-1,05:22,Hindi,01-08-2005,0.62,0.463,0.512,0.616,-5.243,0.06,123.017,1.0,9.0,0.0099,4.0,71.0,7399377.0,2
+Dekho Rootha Na Karo,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,03:06,Hindi,07-03-2014,0.97,0.09,0.704,0.688,-12.28,0.0266,209.31,1.0,11.0,0.0783,4.0,77.0,9880908.0,3
+Rang Barse Bheege Chunarwali,Amitabh Bachchan,/artist/amitabh-bachchan,06:06,Hindi,05-11-2021,0.67,0.803,0.612,0.207,-5.608,0.0639,109.983,0.0,4.0,0.025,4.0,52.0,547390.0,2
+Mere Naseeb Mein Ae Dost,Kishore Kumar,/artist/kishore-kumar,04:39,Hindi,08-12-2006,0.5,0.944,0.376,0.716,-6.477,0.09,159.27,1.0,6.0,0.0623,4.0,37.0,7668621.0,1
+Aapke Anurodh Pe,Kishore Kumar,/artist/kishore-kumar,05:02,Hindi,05-10-2003,0.54,0.614,0.362,0.53,-11.589,0.041,144.991,0.0,4.0,0.0221,4.0,27.0,8146327.0,2
+Anguli Mein Angoothi,Lata Mangeshkar|Mohammad Aziz,/artist/lata-mangeshkar|/artist/mohammad-aziz,05:02,Hindi,02-02-2017,0.48,0.213,0.161,0.323,-8.928,0.0525,169.646,1.0,2.0,0.005,4.0,59.0,5923366.0,4
+Aaja Aaja Main Hoon Pyar Tera,Asha Bhosle|Mohammed Rafi,/artist/asha-bhosle-1|/artist/mohammad-rafi,05:26,Hindi,03-09-2021,0.87,0.759,0.432,0.412,-5.541,0.0473,131.0,0.0,0.0,0.1,4.0,68.0,6846769.0,2
+Mitwa Bhool Na Jana,Mohammad Aziz,/artist/mohammad-aziz,08:03,Hindi,09-12-2007,0.09,0.78,0.282,0.236,-10.36,0.0982,143.448,1.0,7.0,0.04,4.0,100.0,228940.0,1
+Kehta Hai Joker Sara Zamana,Mukesh,/artist/mukesh,05:28,Hindi,09-05-2021,0.65,0.05,0.362,0.213,-4.077,0.0508,119.93,1.0,1.0,0.02,4.0,73.0,6662827.0,2
+Nahin Nahin Abhi Nahin,Kishore Kumar|Asha Bhosle,/artist/kishore-kumar|/artist/asha-bhosle-1,04:04,Hindi,05-02-2014,0.91,0.47,0.118,0.753,-6.192,0.0911,186.904,1.0,9.0,0.07,4.0,64.0,5498831.0,3
+Kai Din Se Mujhe,Hemlata|Shailender Singh,/artist/hemlata|/artist/shailender-singh,04:29,Hindi,11-04-2024,0.84,0.0,0.127,0.54,-10.3,0.08,200.028,0.0,6.0,0.0951,4.0,94.0,11372754.0,3
+Ek Tera Saath Humko,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,03:15,Hindi,09-09-2017,0.13,0.35,0.534,0.166,-13.918,0.014,129.929,1.0,11.0,0.01,4.0,42.0,8171365.0,4
+Kitna Pyara Wada Hai,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,05:15,Hindi,12-01-2012,0.47,0.266,0.827,0.778,-4.532,0.0638,185.996,1.0,0.0,0.088,4.0,32.0,10313606.0,3
+Sa Re Ke Sa Re,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,06:41,Hindi,06-02-2019,0.32,0.95,0.015,0.71,-4.113,0.0377,191.496,0.0,3.0,0.024,4.0,63.0,2514573.0,0
+Hai Duniya Usiki Zamana Usika,Mohammed Rafi,/artist/mohammad-rafi,04:52,Hindi,10-10-2022,0.29,0.108,0.785,0.886,-9.365,0.037,187.91,1.0,9.0,0.096,4.0,50.0,6397693.0,4
+Is Mod Se Jate Hain (Duet),Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,04:56,Hindi,04-04-2016,0.58,0.472,0.885,0.182,-11.273,0.044,190.096,0.0,4.0,0.05,4.0,42.0,1344465.0,3
+Apni To Jaise Taise,Kishore Kumar,/artist/kishore-kumar,08:04,Hindi,12-12-2020,0.24,0.54,0.513,0.224,-7.929,0.058,168.023,0.0,6.0,0.05,4.0,50.0,169520.0,1
+Aankhon Aankhon Mein Baat Hone Do,Kishore Kumar|Asha Bhosle,/artist/kishore-kumar|/artist/asha-bhosle-1,04:04,Hindi,09-04-2022,0.54,0.17,0.25,0.437,-7.136,0.0027,186.86,0.0,1.0,0.0,4.0,96.0,9266774.0,4
+Maine Tere Liye,Mukesh,/artist/mukesh,03:07,Hindi,03-05-2013,0.99,0.52,0.58,0.952,-11.787,0.04,140.0,0.0,9.0,0.084,4.0,86.0,5306689.0,2
+Tujhe Suraj Kahoon Ya Chanda,Manna Dey,/artist/manna-dey,04:28,Hindi,09-07-2005,0.16,0.99,0.53,0.5,-12.666,0.0,180.32,1.0,7.0,0.0038,4.0,94.0,7606489.0,0
+Raju Chal Raju,Kishore Kumar,/artist/kishore-kumar,06:27,Hindi,12-06-2009,0.05,0.392,0.846,0.13,-3.009,0.01,122.18,1.0,11.0,0.078,4.0,54.0,10993078.0,4
+Shama Hai Suhana Suhana,Kishore Kumar,/artist/kishore-kumar,03:26,Hindi,05-02-2012,0.79,0.56,0.607,0.056,-9.762,0.049,110.567,1.0,1.0,0.03,4.0,25.0,9363394.0,2
+Chhoo Lene Do Nazuk Honthon Ko,Mohammed Rafi,/artist/mohammad-rafi,03:19,Hindi,06-03-2007,0.83,0.797,0.517,0.162,-8.272,0.06,129.989,1.0,0.0,0.02,4.0,70.0,9478308.0,2
+Khali Hath Sham Aai Hai,Asha Bhosle,/artist/asha-bhosle-1,05:00,Hindi,09-12-2014,0.12,0.458,0.548,0.466,-9.83,0.0193,120.011,1.0,0.0,0.0065,4.0,50.0,875979.0,4
+Mera Jeevan Kora Kagaz,Kishore Kumar,/artist/kishore-kumar,03:35,Hindi,08-08-2003,0.89,0.41,0.239,0.172,-9.81,0.056,174.03,1.0,3.0,0.06,4.0,27.0,293228.0,3
+Itna To Yaad Hai Mujhe,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,06:15,Hindi,09-12-2020,0.01,0.776,0.773,0.317,-6.202,0.08,195.938,0.0,3.0,0.02,4.0,60.0,65854.0,1
+Lakhon Hain Nigahon Mein,Mohammed Rafi,/artist/mohammad-rafi,04:18,Hindi,05-12-2017,0.7,0.809,0.934,0.999,-10.026,0.03,164.174,1.0,7.0,0.001,4.0,84.0,3666905.0,0
+Kaho Kahan Chale,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,04:57,Hindi,03-07-2013,0.12,0.51,0.618,0.179,-12.542,0.009,197.888,1.0,1.0,0.09,4.0,52.0,8240671.0,4
+Hum Tumhein Itna Pyar Karenge,Mohammad Aziz|Anuradha Paudwal,/artist/mohammad-aziz|/artist/anuradha-paudwal-2,07:14,Hindi,08-04-2007,0.45,0.581,0.168,0.049,-5.258,0.08,119.972,0.0,0.0,0.02,4.0,58.0,1903927.0,1
+Zindagi Bhar Nahin Bhoolegi (Male),Mohammed Rafi,/artist/mohammad-rafi,02:23,Hindi,07-10-2018,0.79,0.883,0.338,0.299,-12.071,0.0124,112.865,0.0,1.0,0.042,4.0,91.0,2403055.0,2
+Aye Dil E Nadan,Lata Mangeshkar,/artist/lata-mangeshkar,05:39,Hindi,07-03-2015,0.4,0.549,0.923,0.21,-8.349,0.052,125.003,1.0,0.0,0.0,4.0,56.0,3059145.0,2
+Aaj Mausam Bada Beimaan Hai,Mohammed Rafi,/artist/mohammad-rafi,06:14,Hindi,01-11-2010,0.79,0.95,0.362,0.491,-8.936,0.045,191.954,1.0,11.0,0.05,4.0,66.0,1752843.0,0
+Mana Ho Tum Behad Haseen,K J Yesudas,/artist/k-j-yesudas,06:21,Hindi,05-04-2013,0.33,0.16,0.255,0.629,-8.376,0.062,176.496,1.0,1.0,0.038,4.0,65.0,1501665.0,4
+Saagar Jaisi Aankhonwali,Kishore Kumar,/artist/kishore-kumar,05:03,Hindi,11-02-2012,0.97,0.45,0.789,0.535,-9.013,0.009,108.985,1.0,5.0,0.02,4.0,82.0,10481128.0,2
+Zeehale Muskin,Lata Mangeshkar|Shabbir Kumar,/artist/lata-mangeshkar|/artist/shabbir-kumar,07:26,Hindi,03-05-2019,0.01,0.394,0.532,0.279,-8.339,0.03,198.096,0.0,4.0,0.0546,4.0,94.0,2910202.0,4
+Agar Tum Na Hote (Male Version),R. D. Burman|Kishore Kumar,/artist/r-d-burman|/artist/kishore-kumar,04:09,Hindi,04-04-2011,0.04,0.57,0.492,0.102,-4.378,0.01,196.486,1.0,9.0,0.01,4.0,81.0,9828268.0,4
+Diwana Kar Ke Chhodoge,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,05:55,Hindi,02-04-2007,0.96,0.432,0.284,0.813,-2.043,0.049,134.979,1.0,10.0,0.0996,4.0,85.0,5165035.0,2
+Log Kahte Hain,Mohammad Aziz|Sadhana Sargam,/artist/mohammad-aziz|/artist/sadhana-sargam-1,06:53,Hindi,10-11-2018,0.87,0.859,0.116,0.161,-13.906,0.081,180.068,0.0,11.0,0.0654,4.0,96.0,6669821.0,3
+Mere Ghar Aai Ek Nanhi Pari,Lata Mangeshkar,/artist/lata-mangeshkar,02:33,Hindi,02-01-2014,0.36,0.251,1.0,0.795,-3.836,0.0685,180.559,0.0,2.0,0.053,4.0,72.0,4935979.0,3
+Yahoo Chahe Mujhe Koi Junglee Kahen,Mohammed Rafi,/artist/mohammad-rafi,04:56,Hindi,06-02-2013,0.14,0.52,0.305,0.119,-13.689,0.055,116.947,1.0,8.0,0.05,4.0,96.0,850217.0,1
+Bheed Mein,Udit Narayan|Shreya Ghoshal,/artist/udit-narayan|/artist/shreya-ghoshal,06:01,Hindi,12-02-2003,0.84,0.64,0.058,0.847,-8.712,0.083,184.148,1.0,6.0,0.0869,4.0,42.0,3468760.0,0
+Gussa Itna Haseen Hai To,Kishore Kumar,/artist/kishore-kumar,03:44,Hindi,01-12-2010,0.26,0.963,0.708,0.1,-8.248,0.049,179.108,1.0,1.0,0.03,4.0,89.0,8049142.0,0
+Chanda Hai Tu Mera Suraj Hai Tu,Lata Mangeshkar,/artist/lata-mangeshkar,04:02,Hindi,01-10-2019,0.43,0.433,0.589,0.218,-12.766,0.03,202.736,1.0,1.0,0.02,4.0,75.0,9617065.0,0
+Hum Kisi Se Kum Nahin,Asha Bhosle|Mohammed Rafi,/artist/asha-bhosle-1|/artist/mohammad-rafi,04:51,Hindi,11-07-2009,0.28,0.37,0.837,0.233,-9.139,0.09,208.006,1.0,0.0,0.077,4.0,83.0,1331705.0,3
+Likha Hai Teri Ankhon Mein,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,04:15,Hindi,10-04-2020,0.98,0.43,0.898,0.447,-5.949,0.0453,108.038,1.0,7.0,0.0554,4.0,37.0,767430.0,2
+Koi Haseena,Kishore Kumar,/artist/kishore-kumar,04:02,Hindi,10-01-2009,0.84,0.44,0.755,0.957,-10.564,0.01,179.9,1.0,9.0,0.1,4.0,79.0,8595950.0,0
+Na Moonh Chhupa Ke Jiyo,Mahendra Kapoor,/artist/mahendra-kapoor,06:04,Hindi,04-03-2008,0.91,0.719,0.999,0.663,-7.27,0.078,196.944,0.0,1.0,0.09,4.0,40.0,4878537.0,3
+Kora Kagaz Tha Yeh Man Mera,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,05:39,Hindi,12-02-2020,0.47,0.467,0.034,0.112,-10.064,0.08,147.943,1.0,2.0,0.002,4.0,30.0,2065640.0,1
+I Love You (Gujarati Mein),Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,06:19,Hindi,01-07-2018,0.76,0.77,0.012,0.107,-3.951,0.0494,126.012,1.0,9.0,0.052,4.0,57.0,9562855.0,2
+Jeena Yahan Marna Yahan - With Dialogue,Mukesh,/artist/mukesh,04:30,Hindi,04-04-2021,0.08,0.06,0.468,0.945,-10.71,0.0699,188.018,0.0,4.0,0.042,4.0,37.0,10030019.0,4
+Lo Aa Gayi Unki Yaad,Lata Mangeshkar,/artist/lata-mangeshkar,04:46,Hindi,05-12-2016,0.61,0.75,0.557,0.996,-4.773,0.025,133.974,1.0,2.0,0.016,4.0,54.0,4510680.0,2
+Koi Hamdam Na Raha,Kishore Kumar,/artist/kishore-kumar,03:25,Hindi,08-03-2016,0.58,0.56,0.992,0.502,-3.2,0.01,162.324,1.0,6.0,0.006,4.0,44.0,2636931.0,0
+Pukarta Chala Hoon Main,Mohammed Rafi,/artist/mohammad-rafi,03:51,Hindi,07-03-2011,0.98,0.59,0.919,0.118,-6.385,0.0933,134.88,1.0,2.0,0.004,4.0,82.0,9108245.0,3
+Koi Yeh Kaise Bataye,Jagjit Singh,/artist/jagjeet-singh-1,03:17,Hindi,07-06-2005,1.0,0.318,0.133,0.689,-10.841,0.094,115.099,0.0,9.0,0.083,4.0,28.0,9606309.0,2
+Tum Yaad Na Aaya Karo - Ii And Iii,Lata Mangeshkar|Shabbir Kumar,/artist/lata-mangeshkar|/artist/shabbir-kumar,05:32,Hindi,07-01-2012,0.59,0.047,0.914,0.681,-12.691,0.041,113.84,1.0,1.0,0.0665,4.0,39.0,6902703.0,2
+Dil Jo Na Keh Saka (Male),Mohammed Rafi,/artist/mohammad-rafi,04:22,Hindi,11-01-2019,0.83,0.41,0.894,0.093,-11.71,0.081,153.82,0.0,2.0,0.018,4.0,85.0,956465.0,3
+Aaj Ki Raat Koi Aane Ko Hai,Asha Bhosle,/artist/asha-bhosle-1,06:19,Hindi,03-02-2003,0.23,0.04,0.706,0.054,-6.415,0.1,174.624,0.0,10.0,0.0972,4.0,33.0,5973184.0,3
+Khilte Hain Gul Yahan,Kishore Kumar,/artist/kishore-kumar,04:02,Hindi,09-09-2016,0.07,0.47,0.176,0.923,-8.825,0.0,189.656,1.0,0.0,0.06,4.0,85.0,587154.0,4
+Bekhudi Mein Sanam,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,05:31,Hindi,05-07-2008,0.47,0.75,0.839,0.532,-2.766,0.0067,184.086,1.0,5.0,0.0994,4.0,48.0,8229434.0,0
+Teri Galiyon Mein,Mohammed Rafi,/artist/mohammad-rafi,04:43,Hindi,06-05-2002,0.37,0.96,0.29,0.993,-8.961,0.0,103.992,0.0,6.0,0.03,4.0,68.0,3161430.0,2
+Rote Rote Hansna Seekho (Male),Kishore Kumar,/artist/kishore-kumar,06:12,Hindi,09-10-2022,0.43,0.32,0.369,0.89,-2.098,0.0927,185.956,0.0,1.0,0.1,4.0,44.0,10027426.0,3
+Aate Jate Khoobsurat Awara,Kishore Kumar,/artist/kishore-kumar,05:53,Hindi,11-06-2006,0.86,0.11,0.693,0.838,-10.49,0.01,165.95,0.0,3.0,0.0131,4.0,76.0,217987.0,4
+Tum Jo Mil Gaye Ho,Mohammed Rafi|Lata Mangeshkar,/artist/mohammad-rafi|/artist/lata-mangeshkar,08:09,Hindi,10-08-2012,0.69,0.464,0.091,0.881,-6.895,0.071,114.06,0.0,10.0,0.0,4.0,25.0,10735472.0,2
+Aap Ke Kamre Mein (Dil Mil Gaye),Asha Bhosle|Kishore Kumar|R. D. Burman,/artist/asha-bhosle-1|/artist/kishore-kumar|/artist/r-d-burman,08:45,Hindi,07-06-2019,0.32,0.769,0.737,0.495,-5.517,0.032,183.842,1.0,9.0,0.084,4.0,85.0,3703564.0,0
+Chandni O Meri Chandni,Sridevi|Jolly Mukherjee,/artist/sridevi|/artist/jolly-mukherjee-1,04:42,Hindi,04-08-2017,0.46,0.76,0.606,0.816,-9.714,0.025,179.984,1.0,5.0,0.08,4.0,26.0,3079253.0,0
+O Mere Sanam,Lata Mangeshkar|Mukesh,/artist/lata-mangeshkar|/artist/mukesh,04:28,Hindi,05-04-2022,0.38,0.86,0.801,0.096,-9.013,0.01,155.983,0.0,1.0,0.0344,4.0,85.0,5065278.0,0
+Main Zindagi Ka Saath Nibhata Chala Gaya,Mohammed Rafi,/artist/mohammad-rafi,03:51,Hindi,09-12-2018,0.66,0.86,0.509,0.446,-9.738,0.01,210.072,0.0,11.0,0.0359,4.0,64.0,5199689.0,0
+Yeh Dil Na Hota Bechara,Kishore Kumar,/artist/kishore-kumar,04:28,Hindi,03-05-2014,0.06,0.907,0.841,0.69,-6.463,0.09,112.026,1.0,8.0,0.06,4.0,70.0,1391319.0,1
+Ae Phoolon Ki Rani,Mohammed Rafi,/artist/mohammad-rafi,04:19,Hindi,07-12-2020,0.01,0.407,0.199,0.884,-5.718,0.02,131.931,1.0,4.0,0.072,4.0,89.0,8391778.0,4
+Jaane Do Jaane Do Mujhe Jaana Hai,Lata Mangeshkar|Mohammad Aziz,/artist/lata-mangeshkar|/artist/mohammad-aziz,06:26,Hindi,08-11-2015,0.5,0.785,0.343,0.417,-2.972,0.0,133.954,1.0,11.0,0.0413,4.0,67.0,6463987.0,2
+Yeh Duniya Yeh Mehfil,Mohammed Rafi,/artist/mohammad-rafi,07:06,Hindi,07-09-2009,0.53,0.928,0.311,0.949,-6.675,0.084,204.044,0.0,11.0,0.0981,4.0,29.0,748749.0,0
+Pal Pal Dil Ke Paas,Kishore Kumar,/artist/kishore-kumar,05:30,Hindi,09-02-2000,0.36,0.58,0.008,0.221,-8.965,0.0,139.938,0.0,0.0,0.05,4.0,45.0,11029624.0,2
+Holi Ke Din,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,05:42,Hindi,05-07-2020,0.83,0.5,0.327,0.253,-10.964,0.09,177.71,1.0,7.0,0.0502,4.0,29.0,3686581.0,3
+Dushman Na Kare Dost Ne Wo Kaam Kiya Hai,Lata Mangeshkar|Amit Kumar,/artist/lata-mangeshkar|/artist/amit-kumar,06:04,Hindi,03-02-2012,0.7,0.92,0.306,0.92,-4.824,0.09,130.014,1.0,0.0,0.0837,4.0,39.0,2108518.0,1
+Diwane Hai Diwanon Ko,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,04:33,Hindi,07-12-2004,0.23,0.692,0.001,0.193,-4.445,0.085,198.858,1.0,0.0,0.025,4.0,55.0,5782779.0,1
+Tere Mere Milan Ki Yeh Raina,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,04:55,Hindi,08-06-2020,0.36,0.987,0.939,0.34,-9.756,0.008,155.97,1.0,9.0,0.0995,4.0,45.0,232023.0,0
+Jhuki Jhuki Si Nazar,Jagjit Singh,/artist/jagjeet-singh-1,05:02,Hindi,05-01-2019,0.07,0.157,0.384,0.769,-6.503,0.0282,135.128,0.0,5.0,0.0356,4.0,67.0,3040506.0,4
+Yun Rootho Na Haseena,Mohammed Rafi,/artist/mohammad-rafi,03:32,Hindi,04-06-2006,0.99,0.981,0.604,0.515,-11.27,0.04,115.04,1.0,7.0,0.0613,4.0,62.0,5483453.0,2
+Aasman Ke Neeche,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,03:57,Hindi,02-08-2014,0.29,0.017,0.104,0.275,-7.673,0.0988,201.914,1.0,1.0,0.016,4.0,30.0,7962091.0,3
+Dil Ki Yeh Arzoo Thi,Mahendra Kapoor|Salma Agha,/artist/mahendra-kapoor|/artist/salma-agha,05:42,Hindi,10-03-2009,0.22,0.901,0.062,0.265,-7.511,0.03,180.964,1.0,0.0,0.06,4.0,25.0,11137852.0,0
+Aye Sanam Tere Liye,Dilip Kumar|Kavita Krishnamurthy|Mohammad Aziz,/artist/dilip-kumar|/artist/kavita-subramaniam|/artist/mohammad-aziz,05:16,Hindi,10-09-2018,0.8,0.74,0.975,0.208,-9.345,0.0,136.041,1.0,7.0,0.046,4.0,81.0,3151995.0,2
+Hamne Sanam Ko Khat Likha,Lata Mangeshkar,/artist/lata-mangeshkar,05:31,Hindi,09-01-2009,0.97,0.034,0.798,0.468,-4.719,0.087,184.044,1.0,4.0,0.0279,4.0,27.0,3699860.0,3
+Yeh Tera Ghar Yeh Mera Ghar,Chitra Singh|Jagjit Singh,/artist/chitra-singh|/artist/jagjeet-singh-1,05:14,Hindi,05-04-2022,0.59,0.83,0.986,0.526,-10.637,0.005,185.886,1.0,10.0,0.03,4.0,84.0,564813.0,0
+Ab Aan Milo Sajna,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,06:31,Hindi,04-04-2016,0.38,0.862,0.683,0.803,-9.078,0.02,180.102,0.0,11.0,0.0892,4.0,91.0,6447414.0,0
+Teetar Ke Do Aage Teetar,Asha Bhosle|Mukesh|Simi Garewal,/artist/asha-bhosle-1|/artist/mukesh|/artist/simi-garewal,03:47,Hindi,04-10-2023,0.37,0.134,0.641,0.739,-9.452,0.0319,104.536,0.0,4.0,0.0733,4.0,37.0,4745153.0,2
+Sun Sahiba Sun,Lata Mangeshkar,/artist/lata-mangeshkar,05:15,Hindi,03-07-2005,0.5,0.465,0.561,0.181,-10.248,0.009,122.028,0.0,8.0,0.017,4.0,89.0,2150524.0,2
+Prem Rog Part 1,Various,/artist/various,28:56:00,Hindi,10-11-2016,0.11,0.325,0.053,0.203,-2.962,0.02,193.826,0.0,6.0,0.043,4.0,78.0,4176572.0,4
+Sara Pyar Tumhara,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,03:52,Hindi,09-03-2012,0.82,0.835,0.003,0.805,-2.877,0.03,195.878,0.0,11.0,0.05,4.0,57.0,8811088.0,0
+Dhal Gaya Din Ho Gayi Sham,Asha Bhosle|Mohammed Rafi,/artist/asha-bhosle-1|/artist/mohammad-rafi,04:55,Hindi,12-02-2007,0.44,0.53,0.728,0.006,-11.862,0.073,174.004,1.0,6.0,0.08,4.0,78.0,6215931.0,3
+Teri Meherbaniyan,Shabbir Kumar,/artist/shabbir-kumar,07:01,Hindi,03-05-2011,0.67,0.46,0.058,0.024,-9.185,0.0104,168.96,1.0,1.0,0.0035,4.0,89.0,4239759.0,0
+Ae Mere Humsafar,Udit Narayan|Alka Yagnik,/artist/udit-narayan|/artist/alka-yagnik,05:56,Hindi,02-06-2018,0.74,0.105,0.53,0.73,-9.075,0.0415,120.958,0.0,5.0,0.0677,4.0,41.0,2014121.0,2
+Dheere Dheere Bol Koi Sun Na Le,Lata Mangeshkar|Mukesh,/artist/lata-mangeshkar|/artist/mukesh,04:58,Hindi,06-07-2022,0.27,0.044,0.847,0.1,-4.961,0.07,124.751,0.0,8.0,0.1,4.0,42.0,1378138.0,3
+Tauba Tauba Kya Hoga,Asha Bhosle,/artist/asha-bhosle-1,04:17,Hindi,03-05-2011,0.01,0.31,0.409,0.003,-11.212,0.0895,160.46,0.0,11.0,0.085,4.0,46.0,9823037.0,1
+Teri Aankhon Ke Siva (Male),Mohammed Rafi,/artist/mohammad-rafi,04:12,Hindi,07-12-2019,0.18,0.019,0.558,0.047,-12.132,0.004,170.16,0.0,11.0,0.014,4.0,100.0,182702.0,4
+Ae Bhai Zara Dekh Ke Chalo,Manna Dey,/artist/manna-dey,06:02,Hindi,03-07-2022,0.79,0.721,0.955,0.015,-12.863,0.06,126.326,1.0,8.0,0.1,4.0,74.0,9935216.0,2
+Yun Zindagi Ki Raah Mein,Chitra Singh|Jagjit Singh,/artist/chitra-singh|/artist/jagjeet-singh-1,04:49,Hindi,11-04-2007,0.94,0.36,0.724,0.465,-6.491,0.0837,161.992,1.0,7.0,0.0437,4.0,63.0,3129999.0,3
+Aawargi Yeh Dil Yeh Pagal Dil Mera,Asha Bhosle,/artist/asha-bhosle-1,07:21,Hindi,10-08-2011,0.43,0.456,0.557,0.935,-10.419,0.042,116.84,1.0,6.0,0.068,4.0,64.0,9903123.0,2
+Chitthi Aai Hai,Pankaj Udhas,/artist/pankaj-udhas,07:14,Hindi,06-11-2008,0.16,0.59,0.628,0.971,-7.928,0.0056,139.0,0.0,1.0,0.0519,4.0,83.0,6605585.0,4
+Jimmy Jimmy Jimmy Aaja,Parvati Khan,/artist/parvati-khan,03:05,Hindi,01-09-2018,0.77,0.08,0.683,0.674,-9.05,0.05,148.194,0.0,9.0,0.096,4.0,59.0,9416498.0,3
+Ankhon Men Humne Aapke Sapne (Male),Kishore Kumar,/artist/kishore-kumar,04:38,Hindi,01-03-2013,0.68,0.57,0.283,0.505,-3.643,0.024,184.914,0.0,0.0,0.0,4.0,96.0,3882559.0,0
+Jaiye Aap Kahan Jayenge,Asha Bhosle,/artist/asha-bhosle-1,06:23,Hindi,07-10-2016,0.17,0.272,0.337,0.924,-13.644,0.074,119.928,0.0,0.0,0.0553,4.0,69.0,1936241.0,1
+Janam Janam Ka Saath Hai,Mohammed Rafi,/artist/mohammad-rafi,05:05,Hindi,01-10-2001,0.68,0.29,0.697,0.776,-7.417,0.058,184.214,0.0,1.0,0.02,4.0,27.0,11118791.0,3
+Chalo Sajna Jhahan Tak,Lata Mangeshkar,/artist/lata-mangeshkar,04:56,Hindi,05-04-2012,0.44,0.384,0.842,0.701,-6.648,0.093,176.034,1.0,2.0,0.0395,4.0,36.0,1345309.0,3
+Ek Ladki Ko Dekha,Kumar Sanu,/artist/kumar-sanu,04:35,Hindi,06-03-2005,0.54,0.178,0.707,0.396,-9.476,0.096,125.252,1.0,1.0,0.09,4.0,36.0,6127609.0,3
+Mujhe Ishq Hai Tujhi Se,Mohammed Rafi,/artist/mohammad-rafi,03:22,Hindi,06-09-2002,0.25,0.709,0.055,0.893,-3.225,0.098,105.932,1.0,6.0,0.083,4.0,96.0,1696349.0,1
+Dil Mein Ek Laher Si Uthi Hai Abhi - Album - The Latest Best Ghazals - Ghulam Ali,Ghulam Ali,/artist/ghulam-ali,06:12,Hindi,01-01-2004,0.82,0.08,0.223,0.306,-12.094,0.0398,200.028,0.0,10.0,0.08,4.0,29.0,6189037.0,3
+Jab Bhi Koi Haseena,K.K.,/artist/kk,06:42,Hindi,01-0,0.5026026026026026,0.500132132132132,0.48852452452452455,0.5061121121121122,,0.04946136136136137,159.32023423423425,,,,,,,0
+Dafli Wale Dafli Baja,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,05:17,Hindi,07-01-2003,0.3,0.34,0.284,0.78,-12.894,0.08,203.986,1.0,2.0,0.059,4.0,84.0,6486305.0,4
+Mere Angne Men (Male),Amitabh Bachchan,/artist/amitabh-bachchan,04:56,Hindi,05-05-2012,0.39,0.433,0.512,0.625,-6.217,0.03,201.884,1.0,1.0,0.0728,4.0,37.0,1150126.0,0
+Jis Desh Men Ganga Behti Hai,Mukesh,/artist/mukesh,04:23,Hindi,02-05-2007,0.56,0.83,0.335,0.859,-9.851,0.043,198.142,1.0,10.0,0.0838,4.0,93.0,9523313.0,0
+Rang Barse Bheege Chunarwali,Amitabh Bachchan,/artist/amitabh-bachchan,06:06,Hindi,02-02-2004,0.26,0.11,0.009,0.278,-10.714,0.01,124.071,0.0,7.0,0.014,4.0,89.0,896219.0,4
+Hum Tumse Juda Hoke,Mohammed Rafi,/artist/mohammad-rafi,05:12,Hindi,06-03-2018,0.7,0.468,0.707,0.077,-9.35,0.0824,188.01,1.0,1.0,0.07,4.0,68.0,8628184.0,3
+Yaar Ki Khabar Mil Gai,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,08:27,Hindi,08-07-2009,0.5,0.34,0.165,0.414,-2.791,0.0565,127.97,1.0,8.0,0.0883,4.0,81.0,5481231.0,2
+Salame Ishq Meri Jaan,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,05:51,Hindi,06-02-2017,0.66,0.414,0.013,0.408,-8.776,0.01,181.974,0.0,6.0,0.0626,4.0,28.0,5797425.0,0
+Ek Do Teen Char,Alka Yagnik,/artist/alka-yagnik,07:37,Hindi,01-01-2010,0.12,0.39,0.296,0.444,-4.018,0.041,157.996,1.0,7.0,0.0471,4.0,95.0,3990585.0,4
+Parbat Ke Peechhe,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,03:54,Hindi,09-11-2002,0.17,0.02,0.877,0.804,-5.348,0.04,183.294,1.0,1.0,0.077,4.0,62.0,10007704.0,4
+Raat Akeli Hai Bujh Gaye Die,Asha Bhosle,/artist/asha-bhosle-1,05:17,Hindi,07-03-2008,0.68,0.3,0.548,0.148,-2.044,0.02,167.6,0.0,2.0,0.097,4.0,40.0,11088743.0,3
+Zindagi Ek Safar Hai Suhana (Female),Asha Bhosle,/artist/asha-bhosle-1,02:28,Hindi,07-09-2021,0.63,0.52,0.747,0.237,-12.948,0.0954,182.078,0.0,11.0,0.01,4.0,89.0,9629292.0,3
+Mere Dil Mein Aaj Kya Hai,Kishore Kumar,/artist/kishore-kumar,04:17,Hindi,10-07-2012,0.92,0.676,0.299,0.587,-10.649,0.0283,130.009,1.0,5.0,0.004,4.0,82.0,10896008.0,2
+Bechara Dil Kya Kare,Asha Bhosle,/artist/asha-bhosle-1,03:01,Hindi,04-06-2012,0.79,0.462,0.199,0.073,-2.634,0.09,191.512,0.0,1.0,0.0,4.0,100.0,6935482.0,3
+Tujhe Jeevan Ki Dor Se,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,03:21,Hindi,07-05-2009,0.75,0.42,0.027,0.383,-10.914,0.0908,127.99,0.0,1.0,0.09,4.0,61.0,4905268.0,1
+Wadiyan Mera Daman (Male),Mohammed Rafi,/artist/mohammad-rafi,03:39,Hindi,12-10-2019,0.21,0.79,0.376,0.431,-7.307,0.088,157.964,0.0,3.0,0.03,4.0,99.0,6312611.0,1
+Na Jane Kahan Se,Amit Kumar|Kavita Krishnamurthy,/artist/amit-kumar|/artist/kavita-subramaniam,06:08,Hindi,03-05-2000,0.02,0.027,0.803,0.779,-13.726,0.05,201.944,0.0,9.0,0.013,4.0,95.0,1963168.0,4
+Dil Tera Diwana Hai Sanam,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,05:58,Hindi,06-07-2000,0.55,0.496,0.371,0.647,-9.411,0.057,184.448,1.0,1.0,0.068,4.0,48.0,5309369.0,0
+Aaja Tujhko Pukare Mera Pyar,Mohammed Rafi,/artist/mohammad-rafi,05:28,Hindi,12-02-2001,0.26,0.73,0.014,0.908,-13.95,0.019,185.458,1.0,6.0,0.02,4.0,78.0,2195654.0,0
+Mere Samnewali Khidki Mein,Kishore Kumar,/artist/kishore-kumar,02:52,Hindi,06-09-2008,0.09,0.23,0.153,1.0,-8.422,0.023,124.932,0.0,5.0,0.07,4.0,41.0,9453439.0,4
+Auva Auva Koi Yahan Nache,Usha Uthup|Bappi Lahiri,/artist/usha-uthup|/artist/bappi-lahiri,05:31,Hindi,12-07-2009,0.37,0.349,0.27,0.93,-4.95,0.01,160.02,1.0,0.0,0.0137,4.0,36.0,389661.0,4
+Kaun Disha Mein Leke Chala,Hemlata|Jaspal Singh,/artist/hemlata|/artist/jaspal-singh,06:52,Hindi,12-07-2015,0.58,0.23,0.349,0.148,-3.643,0.02,152.386,0.0,9.0,0.06,4.0,91.0,8328226.0,4
+Bheegi Bheegi Raaton Mein,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,03:54,Hindi,05-03-2001,0.19,0.98,0.701,0.257,-12.08,0.0116,141.966,1.0,1.0,0.05,4.0,29.0,9777634.0,0
+Main Ek Chor Tu Meri Rani,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,04:51,Hindi,12-04-2002,0.55,0.2,0.815,0.919,-11.208,0.0587,195.878,1.0,0.0,0.025,4.0,43.0,1338797.0,3
+Sawan Ko Aane Do,Jaspal Singh|Kalyani Mitra,/artist/jaspal-singh|/artist/kalyani-mitra,04:00,Hindi,04-08-2002,0.93,0.028,0.934,0.98,-6.523,0.0648,159.686,0.0,6.0,0.02,4.0,59.0,4396117.0,3
+O Mungada Mungada,Usha Mangeshkar,/artist/usha-mangeshkar-2,03:11,Hindi,11-04-2005,0.11,0.315,0.492,0.173,-6.607,0.069,191.954,0.0,6.0,0.08,4.0,58.0,827446.0,4
+Mere Mehboob Qayamat Hogi (Part 2),Kishore Kumar,/artist/kishore-kumar,02:05,Hindi,02-07-2012,0.78,0.24,0.771,0.434,-9.401,0.0757,173.78,0.0,10.0,0.054,4.0,93.0,1744559.0,3
+Aaj Subah Jab Main Jaga,Lata Mangeshkar|Mohammad Aziz,/artist/lata-mangeshkar|/artist/mohammad-aziz,07:43,Hindi,07-08-2008,0.08,0.89,0.482,0.194,-8.858,0.02,151.901,1.0,6.0,0.051,4.0,98.0,986623.0,0
+Achha To Hum Chalte Hain,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,04:58,Hindi,08-07-2011,0.73,0.14,0.351,0.849,-11.106,0.0421,207.934,1.0,10.0,0.01,4.0,52.0,5939910.0,3
+Ajnabi Kaun Ho Tum,Lata Mangeshkar,/artist/lata-mangeshkar,05:02,Hindi,02-08-2012,0.31,1.0,0.239,0.453,-13.964,0.0769,113.958,0.0,10.0,0.0034,4.0,70.0,2444713.0,1
+Chalte Chalte Yun Hi Koi,Lata Mangeshkar,/artist/lata-mangeshkar,05:53,Hindi,06-09-2003,0.87,0.414,0.704,0.368,-10.216,0.01,209.984,0.0,4.0,0.035,4.0,48.0,5592229.0,0
+Jawani O Diwani Tu Zindabad,Kishore Kumar,/artist/kishore-kumar,04:48,Hindi,03-02-2007,0.39,0.59,0.626,0.781,-8.391,0.0027,189.39,0.0,5.0,0.026,4.0,70.0,11115663.0,0
+Main Tere Ishq Mein,Lata Mangeshkar,/artist/lata-mangeshkar,04:46,Hindi,12-03-2016,0.66,0.95,0.849,0.696,-8.183,0.0428,185.532,0.0,10.0,0.037,4.0,34.0,5715969.0,0
+Hum Aap Ki Ankhon Mein,Geeta Dutt|Mohammed Rafi,/artist/geeta-dutt|/artist/mohammad-rafi,04:04,Hindi,03-06-2023,0.64,0.36,0.694,0.625,-5.606,0.03,142.019,0.0,5.0,0.03,4.0,48.0,2505981.0,2
+Kabhi Bekasi Ne Mara,Kishore Kumar,/artist/kishore-kumar,07:05,Hindi,07-04-2008,0.0,0.43,0.585,0.151,-10.808,0.0768,152.704,1.0,1.0,0.016,4.0,48.0,3744200.0,1
+I Am A Disco Dancer,Vijay Benedict,/artist/vijay-benedict,07:48,Hindi,01-02-2019,0.88,0.867,0.689,0.296,-7.171,0.02,192.0,1.0,7.0,0.0867,4.0,94.0,1619528.0,0
+I Am In Love Aashiq Hoon Baharon Ka,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,07:10,Hindi,07-08-2009,0.44,0.35,0.143,0.548,-8.521,0.04,174.558,1.0,1.0,0.0,4.0,91.0,10759303.0,4
+Megha Chhaye Aadhi Raat,Lata Mangeshkar,/artist/lata-mangeshkar,04:14,Hindi,10-05-2016,0.62,0.495,0.86,0.296,-12.349,0.087,183.104,1.0,2.0,0.036,4.0,46.0,1938733.0,3
+Intaha Ho Gai Intezar Ki,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,08:49,Hindi,04-04-2007,0.52,0.794,0.667,0.181,-7.496,0.093,122.021,0.0,6.0,0.025,4.0,37.0,629316.0,1
+Dard-E-Dil Dard-E-Jigar,Mohammed Rafi,/artist/mohammad-rafi,06:57,Hindi,04-08-2020,0.7,0.357,0.22,0.668,-9.881,0.0695,174.163,1.0,1.0,0.1,4.0,52.0,3874529.0,3
+Agar Tum Mil Jao,Shreya Ghoshal,/artist/shreya-ghoshal,06:00,Hindi,06-04-2008,1.0,0.145,0.251,0.029,-10.264,0.05,191.012,0.0,9.0,0.01,4.0,57.0,8754103.0,3
+Ek Rasta Do Rahi,Kishore Kumar|Mohammed Rafi,/artist/kishore-kumar|/artist/mohammad-rafi,05:29,Hindi,07-09-2006,0.48,0.18,0.674,0.784,-3.389,0.073,127.956,1.0,7.0,0.0988,4.0,81.0,4952862.0,2
+Mere Desh Ki Dharti,Mahendra Kapoor,/artist/mahendra-kapoor,07:09,Hindi,10-09-2015,0.38,0.683,0.794,0.752,-10.338,0.0036,138.842,1.0,9.0,0.03,4.0,47.0,311713.0,2
+Chupke Chupke Raat Din,Ghulam Ali,/artist/ghulam-ali,07:49,Hindi,07-02-2001,0.02,0.59,0.883,0.555,-13.096,0.088,125.011,0.0,11.0,0.0832,4.0,39.0,5472.0,1
+Mera Pyar Bhi Tu Hai,Mukesh|Suman Kalyanpur,/artist/mukesh|/artist/suman-kalyanpur,04:22,Hindi,12-01-2006,0.9,0.66,0.006,0.062,-5.696,0.04,199.286,0.0,1.0,0.01,4.0,48.0,6629825.0,0
+Goriya Re Goriya,Lata Mangeshkar|Jolly Mukherjee,/artist/lata-mangeshkar|/artist/jolly-mukherjee-1,04:55,Hindi,08-08-2001,0.6,0.219,0.971,0.075,-9.08,0.03,107.545,0.0,4.0,0.0737,4.0,66.0,5297470.0,2
+Ham Tere Pyar Mein,Lata Mangeshkar,/artist/lata-mangeshkar,04:47,Hindi,04-01-2021,0.16,0.51,0.329,0.051,-4.552,0.073,166.31,1.0,0.0,0.069,4.0,82.0,4394692.0,1
+Holi Ayee Re,Lata Mangeshkar|Kishore Kumar|Mahendra Kapoor,/artist/lata-mangeshkar|/artist/kishore-kumar|/artist/mahendra-kapoor,05:31,Hindi,11-04-2009,0.14,0.007,0.497,0.72,-3.03,0.023,178.394,1.0,7.0,0.047,4.0,99.0,9521857.0,4
+Tu Is Tarah Se,Hemlata,/artist/hemlata,07:34,Hindi,06-01-2006,0.88,0.329,0.558,0.052,-3.532,0.0938,108.97,0.0,10.0,0.043,4.0,48.0,4621917.0,2
+Zindagi Pyar Ka Geet Hai (Female),Lata Mangeshkar,/artist/lata-mangeshkar,05:32,Hindi,11-04-2016,0.66,0.59,0.709,0.277,-8.183,0.1,185.92,1.0,11.0,0.092,4.0,25.0,4205034.0,3
+Liya Liya Chura Liya (Part 1) Recreated,Anousha Manchandani,/artist/anousha-manchandani-3,03:35,Hindi,02-07-2020,0.78,0.64,0.995,0.419,-13.423,0.0181,174.558,0.0,10.0,0.036,4.0,67.0,2932257.0,0
+Tumne Mujhe Dekha Hokar Meherban,Mohammed Rafi,/artist/mohammad-rafi,04:38,Hindi,03-03-2002,0.69,0.11,0.03,0.878,-4.306,0.033,125.968,1.0,1.0,0.007,4.0,27.0,6574292.0,2
+Jhuki Jhuki Si Nazar,Jagjit Singh,/artist/jagjeet-singh-1,05:02,Hindi,05-08-2013,0.29,0.7,0.975,0.348,-11.427,0.044,173.994,0.0,5.0,0.0793,4.0,63.0,110661.0,0
+Gazar Ne Kiya Hai Ishara,Alka Yagnik|Sadhana Sargam|Sapna Mukherjee,/artist/alka-yagnik|/artist/sadhana-sargam-1|/artist/sapna-mukherjee,06:39,Hindi,12-06-2020,0.49,0.08,0.498,0.875,-12.308,0.05,187.882,0.0,11.0,0.0693,4.0,31.0,9391712.0,4
+Phir Wohi Raat Hai Khwab Ki,Kishore Kumar,/artist/kishore-kumar,04:28,Hindi,01-01-2011,0.32,0.294,0.284,0.803,-12.162,0.015,115.98,1.0,0.0,0.062,4.0,26.0,1472225.0,4
+Hum To Tere Aashiq Hain,Lata Mangeshkar|Mukesh,/artist/lata-mangeshkar|/artist/mukesh,06:03,Hindi,10-08-2010,0.18,0.34,0.136,0.224,-12.395,0.0191,189.02,0.0,11.0,0.054,4.0,61.0,4703831.0,4
+Meri Sanson Mein,Udit Narayan,/artist/udit-narayan,07:39,Hindi,11-02-2016,0.93,0.179,0.72,0.239,-3.613,0.02,123.055,0.0,1.0,0.0252,4.0,25.0,4957895.0,2
+Main Teri Hoon Janam,Sadhana Sargam,/artist/sadhana-sargam-1,04:50,Hindi,07-01-2011,0.17,0.92,0.501,0.233,-6.13,0.002,187.24,0.0,7.0,0.066,4.0,61.0,7528753.0,0
+Dil Kya Kare,Kishore Kumar,/artist/kishore-kumar,06:48,Hindi,03-10-2018,0.36,0.612,0.752,0.179,-11.563,0.0624,120.003,1.0,11.0,0.0229,4.0,50.0,2461808.0,1
+Rimjhim Gire Sawan (Female),Lata Mangeshkar,/artist/lata-mangeshkar,03:13,Hindi,02-02-2005,0.53,0.01,0.855,0.289,-2.705,0.029,171.898,1.0,1.0,0.0619,4.0,77.0,1192349.0,4
+Din Sara Guzara Tore Angana,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,03:29,Hindi,11-08-2018,0.45,0.98,0.922,0.792,-12.527,0.0057,189.649,1.0,9.0,0.07,4.0,63.0,8155855.0,0
+Chandni Raat Mein,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,05:32,Hindi,08-03-2013,0.55,0.95,0.374,0.593,-2.898,0.06,192.252,1.0,1.0,0.026,4.0,64.0,5626385.0,0
+Na Mangun Sona Chandi,Manna Dey|Shailender Singh,/artist/manna-dey|/artist/shailender-singh,04:38,Hindi,05-04-2022,0.42,0.095,0.287,0.344,-8.964,0.028,200.046,1.0,7.0,0.034,4.0,90.0,6226538.0,4
+Aajkal Paon Zaamin Par Nahin Padte,Lata Mangeshkar,/artist/lata-mangeshkar,05:29,Hindi,02-12-2002,0.21,0.653,0.674,0.349,-4.31,0.0209,145.139,0.0,11.0,0.08,4.0,43.0,680328.0,4
+Teri Hai Zameen Tera Aasman,Padmini Kolhapure|Sushma Shrestha,/artist/padmini-kolhapure|/artist/sushma-shrestha,05:05,Hindi,12-01-2006,0.37,0.532,0.767,0.929,-11.416,0.086,186.734,1.0,7.0,0.0054,4.0,31.0,1508215.0,3
+Neela Aasman So Gaya,Amitabh Bachchan,/artist/amitabh-bachchan,04:34,Hindi,10-04-2023,0.45,0.664,0.236,0.851,-13.655,0.05,202.038,1.0,1.0,0.06,4.0,61.0,5836305.0,0
+Kya Ghazab Karte Ho Ji,Asha Bhosle,/artist/asha-bhosle-1,03:25,Hindi,01-09-2020,0.24,0.29,0.836,0.537,-7.984,0.02,119.002,0.0,0.0,0.05,4.0,48.0,4555961.0,4
+Ho Gayi Hai Mohabbat,Aslam,/artist/aslam,04:06,Hindi,06-05-2012,0.54,0.2,0.631,0.198,-7.646,0.086,127.975,1.0,0.0,0.057,4.0,64.0,9065388.0,3
+Khilona Jan Kar Tum To,Mohammed Rafi,/artist/mohammad-rafi,04:09,Hindi,10-09-2018,0.8,0.81,0.472,0.881,-4.842,0.0638,179.128,1.0,1.0,0.08,4.0,87.0,6894915.0,0
+De De Pyar De (Male),Kishore Kumar,/artist/kishore-kumar,05:47,Hindi,08-02-2022,0.1,0.76,0.027,0.947,-9.108,0.06,161.988,0.0,2.0,0.0939,4.0,63.0,686717.0,1
+Tum Roothi Raho,Lata Mangeshkar|Mukesh,/artist/lata-mangeshkar|/artist/mukesh,04:43,Hindi,11-05-2016,0.47,0.03,0.405,0.166,-4.895,0.021,180.002,0.0,11.0,0.07,4.0,61.0,8716864.0,4
+Sachchai Chhup Nahin Sakti,Kishore Kumar,/artist/kishore-kumar,04:35,Hindi,10-12-2015,0.97,0.607,0.476,0.698,-8.742,0.0333,173.922,1.0,8.0,0.08,4.0,67.0,3738939.0,0
+Ek Din Bik Jayega Mati Ke Mol (Happy),Mukesh,/artist/mukesh,05:38,Hindi,06-04-2010,0.8,0.802,0.566,0.607,-10.037,0.051,129.059,0.0,4.0,0.0793,4.0,81.0,5945241.0,2
+Panna Ki Tamanna Hai,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,05:49,Hindi,03-02-2002,0.99,0.332,0.155,0.843,-8.042,0.016,209.994,1.0,8.0,0.02,4.0,39.0,1804355.0,0
+Aap Ke Aa Jane Se,Mohammad Aziz|Sadhana Sargam,/artist/mohammad-aziz|/artist/sadhana-sargam-1,07:13,Hindi,03-09-2012,0.43,0.72,0.475,0.193,-12.366,0.057,163.996,0.0,11.0,0.085,4.0,68.0,7359315.0,1
+Itna Na Mujhse Tu Pyar Badha,Lata Mangeshkar|Talat Mahmood,/artist/lata-mangeshkar|/artist/talat-mahmood,03:55,Hindi,01-10-2004,0.82,0.15,0.66,0.348,-7.699,0.014,181.13,1.0,8.0,0.07,4.0,96.0,3577469.0,3
+Main Pyar Ka Rahi Hoon,Asha Bhosle|Mohammed Rafi,/artist/asha-bhosle-1|/artist/mohammad-rafi,03:18,Hindi,01-04-2019,0.93,0.36,0.041,0.795,-7.009,0.05,133.107,0.0,4.0,0.03,4.0,78.0,165987.0,2
+Aankhon Mein Tum Ho,Kumar Sanu|Alka Yagnik,/artist/kumar-sanu|/artist/alka-yagnik,04:56,Hindi,01-05-2018,0.94,0.305,0.653,0.478,-10.782,0.097,168.131,0.0,10.0,0.04,4.0,71.0,5640774.0,3
+Yeh Dil Aur Unki Nigahon Ke Saye,Lata Mangeshkar,/artist/lata-mangeshkar,06:15,Hindi,03-01-2012,0.64,0.87,0.433,0.546,-5.602,0.071,180.722,1.0,11.0,0.066,4.0,44.0,10199258.0,0
+Tu Mere Sapnon Ki Rani Banegi,Mohammed Rafi,/artist/mohammad-rafi,05:42,Hindi,11-08-2013,0.58,0.725,0.466,0.355,-7.702,0.04,206.01,0.0,4.0,0.08,4.0,97.0,10683419.0,0
+Dost Dost Na Raha Pyar Pyar Na Raha,Mukesh,/artist/mukesh,05:46,Hindi,06-01-2007,0.39,0.759,0.09,0.586,-7.456,0.083,147.997,0.0,11.0,0.046,4.0,53.0,8279026.0,1
+Yeh Jeevan Hai,Kishore Kumar,/artist/kishore-kumar,03:54,Hindi,08-06-2004,0.19,0.28,0.098,0.801,-13.836,0.07,136.041,1.0,4.0,0.07,4.0,100.0,2165581.0,1
+Ankhon Men Humne Aapke Sapne (Duet),Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,04:47,Hindi,08-04-2006,0.08,0.2,0.863,0.618,-13.553,0.0505,159.994,1.0,6.0,0.053,4.0,69.0,9456909.0,4
+Yeh Dil Diwana Hai,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,04:45,Hindi,10-09-2015,0.4,0.113,0.591,0.264,-3.241,0.005,153.954,0.0,6.0,0.09,4.0,30.0,5516906.0,4
+Dance Dance,Salma Agha,/artist/salma-agha,05:39,Hindi,08-07-2023,0.11,0.645,0.514,0.338,-11.248,0.001,144.047,0.0,9.0,0.0495,4.0,41.0,6126360.0,4
+Mora Gora Ang Laile,Lata Mangeshkar,/artist/lata-mangeshkar,03:17,Hindi,11-07-2010,0.91,0.586,0.351,0.776,-13.931,0.09,169.852,0.0,8.0,0.02,4.0,57.0,7393419.0,3
+Pyar Mein Kabhi Kabhi,Lata Mangeshkar|Shailendra Singh,/artist/lata-mangeshkar|/artist/shailendra-singh,05:21,Hindi,11-02-2024,0.36,0.07,0.944,0.364,-4.223,0.0868,116.371,1.0,9.0,0.04,4.0,45.0,8215350.0,3
+Aur Is Dil Mein (Female),Asha Bhosle,/artist/asha-bhosle-1,05:51,Hindi,12-02-2022,0.75,0.81,0.101,0.936,-4.967,0.069,169.977,1.0,2.0,0.03,4.0,37.0,4910439.0,0
+Aane Se Uske Aaye Bahar (Part 1),Mohammed Rafi,/artist/mohammad-rafi,04:07,Hindi,10-01-2016,0.88,0.32,0.572,0.119,-2.674,0.0002,160.058,0.0,10.0,0.02,4.0,72.0,5794920.0,2
+Tu Bhi Beqaraar,Asha Bhosle|Mohammad Aziz,/artist/asha-bhosle-1|/artist/mohammad-aziz,06:35,Hindi,05-10-2014,0.8,0.61,0.814,0.905,-7.276,0.09,157.032,1.0,2.0,0.07,4.0,87.0,5702040.0,3
+Tera Mera Pyar Amar,Lata Mangeshkar,/artist/lata-mangeshkar,03:12,Hindi,08-02-2019,0.17,0.308,0.344,0.127,-11.709,0.001,208.098,1.0,5.0,0.046,4.0,93.0,9122006.0,4
+Mere Hathon Men Nau Nau Churiyan,Lata Mangeshkar,/artist/lata-mangeshkar,05:46,Hindi,01-01-2012,0.92,0.98,0.856,0.076,-9.871,0.07,110.0,0.0,6.0,0.0502,4.0,93.0,10390378.0,2
+Yaad Aa Raha Hai,Bappi Lahiri,/artist/bappi-lahiri,06:23,Hindi,12-08-2020,0.54,0.12,0.393,0.386,-8.914,0.06,127.894,1.0,10.0,0.0974,4.0,43.0,10647583.0,2
+Aa Ab Laut Chalen,Lata Mangeshkar|Mukesh,/artist/lata-mangeshkar|/artist/mukesh,04:27,Hindi,04-02-2022,0.6,0.157,0.235,0.863,-11.439,0.02,190.836,1.0,1.0,0.089,4.0,38.0,120925.0,4
+Mat Poochh Mere Mehboob,Kumar Sanu|Sadhana Sargam|Mukul Agarwal,/artist/kumar-sanu|/artist/sadhana-sargam-1|/artist/mukul-agarwal,08:36,Hindi,06-02-2017,0.65,0.585,0.181,0.234,-3.097,0.037,186.057,1.0,1.0,0.0288,4.0,76.0,5250159.0,0
+Sajan Re Jhoot Mat Bolo,Mukesh,/artist/mukesh,03:43,Hindi,10-01-2020,0.69,0.28,0.495,0.89,-13.346,0.01,205.954,0.0,4.0,0.0072,4.0,88.0,8480791.0,0
+Bahut Door Mujhe Chale Jana Hai,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,04:41,Hindi,02-08-2009,0.7,0.09,0.447,0.074,-6.982,0.09,144.005,0.0,6.0,0.013,4.0,67.0,3026227.0,3
+Aye Bekhabar,K.K.,/artist/kk,05:43,Hindi,06-10-2015,0.23,0.048,0.238,0.452,-2.354,0.06,180.438,1.0,7.0,0.087,4.0,27.0,9253291.0,4
+Loote Koi Man Ka Nagar,Lata Mangeshkar|Manhar Udhas,/artist/lata-mangeshkar|/artist/manhar-udhas,04:35,Hindi,04-07-2013,0.02,0.15,0.402,0.874,-6.811,0.002,149.937,0.0,9.0,0.0369,4.0,42.0,6012641.0,4
+Hum Dono Do Premi,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,05:08,Hindi,05-04-2002,0.4,0.44,0.407,0.088,-8.655,0.083,165.774,1.0,6.0,0.0718,4.0,46.0,1109705.0,3
+O Ghata Sanwari,Lata Mangeshkar,/artist/lata-mangeshkar,05:49,Hindi,09-09-2005,0.49,0.11,0.183,0.339,-3.334,0.01,151.913,1.0,2.0,0.033,4.0,44.0,2822122.0,4
+Duniya Mein Logon Ko,Asha Bhosle|R. D. Burman,/artist/asha-bhosle-1|/artist/r-d-burman,05:54,Hindi,01-04-2016,0.6,0.53,0.996,0.235,-6.28,0.0194,175.98,1.0,0.0,0.03,4.0,92.0,11181950.0,0
+Tasveer Teri Dil Mein,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,04:26,Hindi,01-10-2018,0.57,0.965,0.11,0.623,-5.184,0.019,172.824,0.0,10.0,0.1,4.0,25.0,9357831.0,0
+Aanewala Pal Janewala Hai,Kishore Kumar,/artist/kishore-kumar,04:42,Hindi,12-02-2023,1.0,0.278,0.072,0.255,-5.456,0.023,107.853,1.0,1.0,0.014,4.0,61.0,876068.0,2
+Hum Bewafa Hargiz Na Thay (Happy),Kishore Kumar,/artist/kishore-kumar,02:08,Hindi,05-07-2002,0.3,0.92,0.104,0.08,-6.942,0.058,131.092,0.0,6.0,0.1,4.0,95.0,6461941.0,1
+Hui Sham Unka Khayal Aa Gaya,Mohammed Rafi,/artist/mohammad-rafi,04:36,Hindi,04-11-2021,0.44,0.516,0.85,0.948,-11.049,0.0224,196.762,1.0,6.0,0.023,4.0,49.0,160734.0,0
+Kate Nahin Kat Te,Kishore Kumar|Alisha Chinai,/artist/kishore-kumar|/artist/alisha-chinai,06:37,Hindi,11-10-2012,0.44,0.65,0.465,0.86,-7.138,0.0846,196.036,0.0,11.0,0.0047,4.0,58.0,3469840.0,0
+Koi Yeh Kaise Bataye,Jagjit Singh,/artist/jagjeet-singh-1,03:17,Hindi,11-07-2022,0.92,0.17,0.464,0.076,-8.459,0.0637,180.964,1.0,11.0,0.0671,4.0,58.0,7422724.0,3
+Wada Karo,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,05:14,Hindi,01-07-2000,0.11,0.37,0.031,0.374,-5.096,0.0008,190.02,0.0,4.0,0.027,4.0,64.0,3660548.0,4
+Yeh Mera Prem Patra,Mohammed Rafi,/artist/mohammad-rafi,04:25,Hindi,02-01-2024,0.42,0.649,0.099,0.578,-12.115,0.0058,106.923,1.0,0.0,0.029,4.0,29.0,2553847.0,2
+Main Teri Dushman Dushman Tu,Lata Mangeshkar,/artist/lata-mangeshkar,07:01,Hindi,01-03-2019,0.47,0.692,0.095,0.488,-8.057,0.0682,165.854,0.0,10.0,0.05,4.0,46.0,3102080.0,1
+O Maria,Asha Bhosle|S. P. Balasubrahmanyam,/artist/asha-bhosle-1|/artist/s-p-balasubrahamanyam,06:34,Hindi,05-09-2005,0.45,0.462,0.629,0.18,-3.225,0.087,198.084,0.0,9.0,0.04,4.0,88.0,9691086.0,3
+Main Chali Main Chali,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,03:05,Hindi,05-10-2020,0.67,0.43,0.223,0.543,-4.566,0.098,104.961,0.0,7.0,0.097,4.0,46.0,1702772.0,1
+Kahin Na Kahin Dil Lagana Padega,Mohammed Rafi,/artist/mohammad-rafi,04:56,Hindi,08-01-2010,0.2,0.93,0.684,0.824,-5.673,0.019,199.838,0.0,10.0,0.0956,4.0,30.0,8995586.0,0
+Kajra Lagake Gajra Sajake,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,04:46,Hindi,07-02-2021,0.46,0.515,0.764,0.35,-6.991,0.08,177.87,0.0,1.0,0.0968,4.0,27.0,4503901.0,3
+Har Ek Muskurahat,Alka Yagnik,/artist/alka-yagnik,05:41,Hindi,09-08-2012,0.51,0.59,0.294,0.802,-12.841,0.034,187.45,0.0,11.0,0.06,4.0,61.0,3982250.0,0
+Zindagi Imtihan Leti Hai,Dr.Kamlesh Avastathi|Anwar|Suman Kalyanpur,/artist/drkamlesh-avastathi|/artist/anwar|/artist/suman-kalyanpur,06:05,Hindi,04-04-2011,0.25,0.68,0.851,0.624,-9.155,0.025,199.736,1.0,2.0,0.07,4.0,47.0,3169178.0,0
+Surmayee Ankhiyon Mein (Happy Version),K J Yesudas|Ilaiyaraaja,/artist/k-j-yesudas|/artist/iiaiyaraaja,04:36,Hindi,06-12-2008,0.17,0.84,0.64,0.73,-2.287,0.048,184.064,0.0,8.0,0.0562,4.0,41.0,9228404.0,0
+Tum Bin Jaoon Kahan (Part 2),Kishore Kumar,/artist/kishore-kumar,03:31,Hindi,04-03-2022,0.88,0.675,0.617,0.621,-7.363,0.1,181.978,0.0,11.0,0.08,4.0,91.0,43279.0,3
+Uff Umma,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,03:31,Hindi,05-11-2015,0.08,0.0,0.027,0.845,-6.343,0.01,179.318,0.0,11.0,0.015,4.0,86.0,7831992.0,4
+Paan Khaye Saiyan Hamarao,Asha Bhosle,/artist/asha-bhosle-1,04:43,Hindi,07-04-2013,0.91,0.03,0.513,0.948,-4.025,0.0033,127.872,1.0,1.0,0.01,4.0,86.0,7454242.0,2
+Sarakti Jaye Hai Rukh Se Naqab Aahista Aahista,Jagjit Singh,/artist/jagjeet-singh-1,08:39,Hindi,11-09-2010,0.35,0.835,0.782,0.772,-11.219,0.1,144.032,0.0,1.0,0.07,4.0,48.0,8722360.0,1
+Deewana Mujhsa Nahin,Mohammed Rafi,/artist/mohammad-rafi,03:22,Hindi,11-03-2000,0.96,0.07,0.525,0.97,-4.957,0.009,182.038,0.0,9.0,0.0886,4.0,87.0,8444085.0,4
+Karvaten Badalte Rahe,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,05:11,Hindi,11-02-2007,0.34,0.31,0.882,0.325,-4.273,0.057,185.582,1.0,5.0,0.096,4.0,60.0,9797179.0,3
+Poochho Na Kaise Maine,Manna Dey,/artist/manna-dey,03:21,Hindi,01-05-2015,0.56,0.114,0.572,0.301,-5.874,0.1,129.972,0.0,0.0,0.006,4.0,35.0,2538371.0,3
+Nafrat Ki Duniya Ko Chhod Ke,Mohammed Rafi,/artist/mohammad-rafi,04:21,Hindi,09-06-2022,0.89,0.224,0.816,0.209,-9.236,0.06,174.0,1.0,1.0,0.06,4.0,96.0,5716098.0,3
+Raina Beeti Jaye,Lata Mangeshkar,/artist/lata-mangeshkar,05:36,Hindi,11-01-2010,0.64,0.81,0.076,0.78,-9.65,0.03,107.016,0.0,7.0,0.0797,4.0,57.0,10228243.0,2
+Ham Intezar Karenge,Mohammed Rafi,/artist/mohammad-rafi,03:27,Hindi,11-03-2001,0.11,0.59,0.165,0.876,-4.681,0.06,111.782,1.0,11.0,0.03,4.0,38.0,6824148.0,1
+Pardah Hai Pardah,Mohammed Rafi,/artist/mohammad-rafi,07:59,Hindi,12-01-2014,0.83,0.61,0.466,0.03,-10.823,0.051,173.414,0.0,6.0,0.06,4.0,78.0,5967323.0,3
+Aap Ki Nazron Ne Samjha,Lata Mangeshkar,/artist/lata-mangeshkar,03:56,Hindi,07-03-2020,0.15,0.52,0.169,0.68,-11.902,0.0437,139.978,1.0,5.0,0.09,4.0,47.0,2902574.0,1
+Na Tum Hamen Jano,Hemant Kumar,/artist/hemanta-mukherjee,03:22,Hindi,07-12-2008,0.66,0.732,0.438,0.952,-8.597,0.017,202.17,1.0,0.0,0.05,4.0,87.0,7629781.0,0
+Mere Sang Sang Aaya Teri Yaadon Ka Mela (2),Kishore Kumar,/artist/kishore-kumar,01:39,Hindi,07-09-2016,0.4,0.671,0.286,0.042,-11.717,0.011,113.204,1.0,9.0,0.097,4.0,57.0,9111215.0,2
+Lamha Lamha,Abhijeet Bhattacharya,/artist/abhijeet-1,05:24,Hindi,01-12-2021,0.61,0.95,0.991,0.165,-7.374,0.06,143.052,0.0,10.0,0.0752,4.0,27.0,6411274.0,2
+Pal Bhar Ke Liye,Kishore Kumar|Usha Khanna,/artist/kishore-kumar|/artist/usha-khanna,04:48,Hindi,02-02-2001,0.2,0.56,0.275,0.672,-6.322,0.012,191.848,0.0,5.0,0.01,4.0,92.0,8361235.0,0
+Jaate Ho Pardesh Piya,Suraj Jagan|KAVITA KAPOOR|Amita Nangia|ARCHANA PURAN SINGH,/artist/suraj-jagan|/artist/kavita-kapoor-5|/artist/amita-nangia|/artist/archana-puran-singh-6,06:47,Hindi,07-06-2009,0.73,0.397,0.053,0.263,-5.633,0.05,139.913,0.0,4.0,0.09,4.0,96.0,91008.0,2
+Lakhon Hain Yahan Dilwale,Mahendra Kapoor,/artist/mahendra-kapoor,04:14,Hindi,12-08-2003,0.14,0.79,0.302,0.613,-3.6,0.03,108.17,1.0,1.0,0.0634,4.0,50.0,2081188.0,1
+Aa Ja Re Aa Zara Aa,Mohammed Rafi,/artist/mohammad-rafi,04:55,Hindi,03-05-2012,0.79,0.226,0.071,0.563,-9.058,0.006,122.295,1.0,8.0,0.05,4.0,51.0,5606748.0,2
+Na Ja Kahin Ab Na Ja,Mohammed Rafi,/artist/mohammad-rafi,06:27,Hindi,11-09-2015,0.08,0.43,0.817,0.332,-9.115,0.04,153.993,0.0,10.0,0.02,4.0,76.0,1267860.0,4
+Kahan Tak Yeh Man Ko Andhere,Kishore Kumar,/artist/kishore-kumar,03:41,Hindi,02-11-2020,0.79,0.521,0.275,0.62,-3.717,0.003,184.08,0.0,11.0,0.01,4.0,76.0,8985361.0,0
+Abhi Na Jao Chhod Kar,Asha Bhosle|Mohammed Rafi,/artist/asha-bhosle-1|/artist/mohammad-rafi,04:18,Hindi,04-06-2001,0.74,0.311,0.583,0.877,-2.581,0.02,174.986,1.0,9.0,0.0704,4.0,89.0,6944719.0,0
+Thodisi Jo Pee Lee Hai,Kishore Kumar,/artist/kishore-kumar,06:51,Hindi,07-10-2016,0.34,0.75,0.671,0.616,-4.619,0.05,140.042,1.0,9.0,0.0022,4.0,59.0,2286685.0,1
+Tera Mujhse,Kishore Kumar|sushama shreshtha,/artist/kishore-kumar|/artist/sushama-shreshtha,04:14,Hindi,02-01-2022,0.09,0.274,0.449,0.64,-7.879,0.0591,109.622,1.0,0.0,0.07,4.0,66.0,3563241.0,1
+Bangle Ke Peechhe,Lata Mangeshkar,/artist/lata-mangeshkar,05:39,Hindi,01-04-2006,0.8,0.447,0.382,0.291,-13.864,0.0898,168.091,1.0,8.0,0.0148,4.0,75.0,10871873.0,3
+Chaudhvin Ka Chand Ho,Mohammed Rafi,/artist/mohammad-rafi,03:44,Hindi,05-01-2003,0.36,0.49,0.378,0.035,-9.791,0.04,116.073,1.0,10.0,0.046,4.0,29.0,3547907.0,2
+Mann Ki Lagan,Rahat Fateh Ali Khan,/artist/rahat-fateh-ali-khan,04:53,Hindi,01-08-2019,0.58,0.949,0.68,0.182,-12.07,0.09,108.05,1.0,8.0,0.0926,4.0,54.0,6465862.0,1
+Mujhe Kuchh Kahna Hai,Lata Mangeshkar|Shailender Singh,/artist/lata-mangeshkar|/artist/shailender-singh,06:02,Hindi,11-03-2023,0.96,0.43,0.762,0.166,-4.868,0.0148,195.932,0.0,10.0,0.027,4.0,45.0,5758752.0,3
+Ram Teri Ganga Maili,Suresh Wadkar,/artist/suresh-wadkar,05:55,Hindi,04-03-2020,0.15,0.67,0.069,0.298,-8.625,0.0034,198.33,1.0,1.0,0.04,4.0,73.0,4173121.0,0
+Ankhon Mein Kajal Hai,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,03:52,Hindi,12-10-2012,0.35,0.456,0.371,0.044,-12.546,0.095,127.457,0.0,9.0,0.0532,4.0,31.0,1275620.0,1
+Aake Seedhi Lage Dil Pe Jaise,Kishore Kumar,/artist/kishore-kumar,03:41,Hindi,05-04-2007,0.24,0.02,0.037,0.723,-11.903,0.0511,153.778,0.0,10.0,0.08,4.0,34.0,3341996.0,4
+Beeti Na Bitai Raina,Bhupinder Singh|Lata Mangeshkar,/artist/bhupinder-singh|/artist/lata-mangeshkar,03:13,Hindi,06-01-2005,0.06,0.7,0.283,0.921,-11.467,0.09,116.971,1.0,1.0,0.07,4.0,94.0,9658163.0,1
+My Name Is Anthony Gonsalves,Amitabh Bachchan|Kishore Kumar,/artist/amitabh-bachchan|/artist/kishore-kumar,05:32,Hindi,08-05-2021,0.14,0.43,0.398,0.189,-10.007,0.08,190.322,1.0,0.0,0.04,4.0,75.0,10230595.0,1
+Ye Mulaqat Ek Bahana Hai,Lata Mangeshkar,/artist/lata-mangeshkar,04:40,Hindi,09-02-2017,0.73,0.55,0.079,0.087,-7.113,0.07,153.067,0.0,11.0,0.051,4.0,68.0,2605063.0,3
+Khushiyan Hi Khushiyan,Hemlata|K J Yesudas|Banasree Sengupta,/artist/hemlata|/artist/k-j-yesudas|/artist/banasree-sengupta,04:55,Hindi,12-09-2005,0.56,0.24,0.873,0.158,-13.898,0.062,120.064,1.0,2.0,0.03,4.0,54.0,10217477.0,2
+Yeh Reshmi Zulfen,Mohammed Rafi,/artist/mohammad-rafi,05:21,Hindi,12-03-2000,0.76,0.42,0.058,0.042,-2.02,0.049,138.964,1.0,7.0,0.08,4.0,91.0,11128680.0,2
+Kitni Haseen Hain Nasheeli,Asha Bhosle,/artist/asha-bhosle-1,05:28,Hindi,09-02-2014,0.41,0.699,0.508,0.978,-6.214,0.096,184.122,0.0,10.0,0.0563,4.0,92.0,670073.0,1
+Dil Mein Aag Lagaye,Lata Mangeshkar|Kishore Kumar,/artist/lata-mangeshkar|/artist/kishore-kumar,06:40,Hindi,02-08-2019,0.52,1.0,0.328,0.991,-5.42,0.0417,160.03,1.0,1.0,0.09,4.0,72.0,8338786.0,0
+Faza Bhi Hai Jawan (Part 1 And 2),Salma Agha,/artist/salma-agha,05:08,Hindi,06-11-2001,0.32,0.39,0.581,0.994,-5.388,0.045,201.684,0.0,4.0,0.092,4.0,67.0,9654845.0,4
+Le Jayenge Le Jayenge,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,03:59,Hindi,12-08-2011,1.0,0.527,0.027,0.75,-3.882,0.0444,193.67,1.0,6.0,0.0816,4.0,38.0,8095330.0,0
+Ae Yaar Sun Yaari Teri,Asha Bhosle|Mohammed Rafi|Shailender Singh,/artist/asha-bhosle-1|/artist/mohammad-rafi|/artist/shailender-singh,06:05,Hindi,07-05-2006,0.44,0.76,0.475,0.317,-8.147,0.053,185.454,1.0,2.0,0.066,4.0,59.0,1977319.0,0
+Zindagi Ke Safar Mein,Kishore Kumar,/artist/kishore-kumar,06:38,Hindi,03-01-2015,0.23,0.422,0.672,0.434,-11.221,0.03,200.016,1.0,9.0,0.034,4.0,80.0,4565022.0,4
+Pardesia,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,04:52,Hindi,09-03-2006,0.95,0.747,0.785,0.956,-12.732,0.0279,123.829,1.0,7.0,0.08,4.0,75.0,1589515.0,2
+Dekha Ek Khwaab,Lata Mangeshkar|Kishore Kumar,/artist/lata-mangeshkar|/artist/kishore-kumar,05:21,Hindi,01-07-2021,0.82,0.485,0.129,0.428,-8.538,0.0832,170.962,0.0,7.0,0.0714,4.0,30.0,5194815.0,3
+Jiska Koi Nahin,Manna Dey,/artist/manna-dey,03:15,Hindi,05-07-2009,0.08,0.286,0.834,0.796,-2.66,0.07,184.18,0.0,10.0,0.02,4.0,60.0,2799023.0,4
+Raah Pe Rahte Hain,Kishore Kumar,/artist/kishore-kumar,06:07,Hindi,11-01-2006,0.59,0.21,0.174,0.81,-13.999,0.09,196.014,1.0,4.0,0.08,4.0,52.0,6109138.0,3
+Milo Na Tum To Ham Ghabraye,Lata Mangeshkar,/artist/lata-mangeshkar,04:58,Hindi,08-08-2021,0.24,0.957,0.677,0.221,-7.668,0.0444,114.328,0.0,4.0,0.081,4.0,86.0,9034389.0,1
+Is Rang Badalti Duniya Mein,Mohammed Rafi,/artist/mohammad-rafi,04:33,Hindi,05-09-2022,0.77,0.445,0.428,0.456,-2.608,0.05,190.59,1.0,2.0,0.0097,4.0,79.0,5804019.0,3
+Haan Pahli Bar,Kishore Kumar,/artist/kishore-kumar,05:54,Hindi,04-03-2020,0.65,0.12,0.688,0.367,-7.907,0.0376,135.11,1.0,8.0,0.08,4.0,74.0,4728645.0,2
+Dikhai Diye Yun,Lata Mangeshkar,/artist/lata-mangeshkar,04:21,Hindi,09-02-2015,0.51,0.64,0.855,0.018,-6.817,0.06,160.05,1.0,0.0,0.08,4.0,59.0,6316340.0,3
+Ab Tere Dil Mein To,Alka Yagnik|Kumar Sanu,/artist/alka-yagnik|/artist/kumar-sanu,08:21,Hindi,01-04-2003,0.16,0.922,0.875,0.145,-2.087,0.06,172.016,0.0,11.0,0.04,4.0,100.0,6366807.0,1
+Roop Tera Mastana,Kishore Kumar,/artist/kishore-kumar,03:46,Hindi,08-03-2016,0.6,0.381,0.188,0.452,-4.818,0.0075,148.998,1.0,1.0,0.03,4.0,47.0,10848933.0,2
+Teri Rab Ne Bana Di Jodi,Asha Bhosle|Mohammed Rafi|Shailender Singh,/artist/asha-bhosle-1|/artist/mohammad-rafi|/artist/shailender-singh,05:31,Hindi,08-05-2016,0.5,0.136,0.804,0.199,-7.515,0.098,191.86,0.0,0.0,0.09,4.0,59.0,2213383.0,3
+Kehdoon Tumhen,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,03:42,Hindi,07-03-2018,0.34,0.8,0.508,0.863,-12.954,0.0706,157.99,1.0,11.0,0.09,4.0,90.0,2962527.0,1
+Ek Radha Ek Meera,Lata Mangeshkar,/artist/lata-mangeshkar,05:00,Hindi,01-12-2004,0.93,0.1,0.058,0.609,-11.372,0.066,130.027,1.0,0.0,0.0228,4.0,75.0,10176055.0,2
+Jab Tak Pure Na Ho Phere Saat,Hemlata,/artist/hemlata,02:04,Hindi,02-09-2017,0.86,0.459,0.505,0.347,-3.892,0.08,181.752,1.0,7.0,0.0179,4.0,27.0,627162.0,3
+Bahon Mein Bottle,Kishore Kumar|Asha Bhosle,/artist/kishore-kumar|/artist/asha-bhosle-1,07:04,Hindi,02-03-2014,0.64,0.012,0.071,0.742,-10.306,0.079,186.068,0.0,6.0,0.0486,4.0,75.0,4867943.0,3
+Jane Na Nazar Pehchane Jigar,Lata Mangeshkar|Mukesh,/artist/lata-mangeshkar|/artist/mukesh,03:57,Hindi,05-12-2001,0.84,0.044,0.027,0.147,-13.07,0.0023,121.002,1.0,9.0,0.0323,4.0,51.0,5890543.0,2
+O Mehbooba,Mukesh,/artist/mukesh,05:04,Hindi,01-06-2001,0.19,0.8,0.468,0.808,-11.172,0.0484,179.58,1.0,7.0,0.029,4.0,92.0,1053270.0,0
+Chadhti Jawani Meri Chaal Mastani,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,04:31,Hindi,11-07-2009,0.1,0.1,0.513,0.843,-4.328,0.021,208.002,1.0,6.0,0.032,4.0,54.0,6024532.0,4
+Kehna Hai Kehna Hai,Kishore Kumar,/artist/kishore-kumar,03:41,Hindi,12-02-2011,0.05,0.918,0.447,0.927,-11.817,0.07,178.765,0.0,5.0,0.0501,4.0,30.0,4905903.0,1
+Nazron Se Kah Do,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,05:28,Hindi,04-12-2018,0.58,0.885,0.597,0.383,-3.911,0.1,173.596,1.0,7.0,0.067,4.0,47.0,10029142.0,1
+Sawan Ka Mahina,Lata Mangeshkar|Mukesh,/artist/lata-mangeshkar|/artist/mukesh,05:28,Hindi,05-06-2002,0.97,0.352,0.335,0.952,-6.913,0.0672,160.114,1.0,0.0,0.0148,4.0,86.0,6521898.0,3
+Jo Wada Kiya Woh Nibhana Padega (Sad),Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,03:13,Hindi,02-01-2009,0.25,0.722,0.091,0.34,-12.402,0.0464,143.994,0.0,10.0,0.075,4.0,99.0,8250508.0,1
+Ek Tha Gul Aur Ek Thi Bulbul,Mohammed Rafi|Nanda,/artist/mohammad-rafi|/artist/nanda,07:27,Hindi,12-06-2013,0.37,0.73,0.084,0.424,-7.367,0.0758,150.0,1.0,10.0,0.011,4.0,81.0,8466694.0,1
+Kisi Nazar Ko Tera Intezar,Asha Bhosle|Bhupinder Singh,/artist/asha-bhosle-1|/artist/bhupinder-singh,06:44,Hindi,08-10-2010,0.26,0.802,0.24,0.13,-12.398,0.08,127.922,0.0,9.0,0.01,4.0,58.0,3850953.0,1
+Woh Sham Kuchh Ajeeb Thi,Kishore Kumar,/artist/kishore-kumar,04:46,Hindi,11-06-2013,0.37,0.297,0.921,0.385,-10.508,0.081,164.924,0.0,3.0,0.0163,4.0,97.0,7644702.0,3
+Isharon Isharon Men Dil Lenewale,Asha Bhosle|Mohammed Rafi,/artist/asha-bhosle-1|/artist/mohammad-rafi,05:06,Hindi,08-09-2009,0.33,0.91,0.749,0.197,-12.038,0.054,128.12,0.0,7.0,0.05,4.0,37.0,556132.0,1
+Dhol Bajne Laga,Udit Narayan|Kavita Krishnamurthy,/artist/udit-narayan|/artist/kavita-subramaniam,07:02,Hindi,06-12-2010,0.56,0.076,0.454,0.932,-13.304,0.0781,190.21,0.0,6.0,0.025,4.0,28.0,2513028.0,3
+Mohabbat Hai Kya Cheez,Lata Mangeshkar|Suresh Wadkar,/artist/lata-mangeshkar|/artist/suresh-wadkar,07:14,Hindi,01-03-2006,0.49,0.9,0.004,0.948,-13.945,0.08,203.867,0.0,1.0,0.079,4.0,67.0,3577067.0,0
+Rang Aur Noor Ki Barat,Mohammed Rafi,/artist/mohammad-rafi,06:18,Hindi,06-03-2004,0.5,0.86,0.933,0.227,-9.216,0.06,146.941,1.0,7.0,0.026,4.0,29.0,3155167.0,1
+Dil To Hai Dil,Lata Mangeshkar,/artist/lata-mangeshkar,04:11,Hindi,12-01-2009,0.49,0.213,0.738,0.459,-6.614,0.07,159.931,0.0,8.0,0.0267,4.0,35.0,1994858.0,3
+Phool Gulab Ka,Anuradha Paudwal|Mohammad Aziz,/artist/anuradha-paudwal-2|/artist/mohammad-aziz,06:08,Hindi,05-08-2008,0.62,0.31,0.403,0.841,-11.622,0.07,120.003,1.0,9.0,0.1,4.0,98.0,7612214.0,2
+Zindagi Har Kadam Ek Nai Jung Hai,Lata Mangeshkar|Nitin Mukesh,/artist/lata-mangeshkar|/artist/nitin-mukesh,06:54,Hindi,05-06-2017,0.65,0.01,0.9,0.681,-13.117,0.0816,119.893,0.0,5.0,0.064,4.0,54.0,6637174.0,3
+Sheesha Ho Ya Dil Ho,Lata Mangeshkar,/artist/lata-mangeshkar,05:47,Hindi,10-07-2020,0.73,0.108,0.17,0.938,-4.316,0.0195,109.012,1.0,5.0,0.089,4.0,64.0,378390.0,2
+Bachna Ae Hasinon Lo Main Aa Gaya,Kishore Kumar,/artist/kishore-kumar,06:24,Hindi,01-02-2019,1.0,0.483,0.081,0.008,-5.227,0.035,175.166,0.0,7.0,0.019,4.0,83.0,5461437.0,3
+Saathi Tere Naam,Asha Bhosle|Bhupinder Singh,/artist/asha-bhosle-1|/artist/bhupinder-singh,05:41,Hindi,09-09-2023,0.38,0.87,0.867,0.728,-8.294,0.0464,186.862,1.0,2.0,0.0014,4.0,46.0,2993273.0,0
+Geet Gata Hoon Main,Kishore Kumar,/artist/kishore-kumar,03:34,Hindi,01-12-2013,0.48,0.8,0.645,0.269,-4.317,0.0426,174.59,0.0,10.0,0.021,4.0,54.0,9642645.0,0
+Thandi Hawa Yeh Chandni Suhani,Kishore Kumar,/artist/kishore-kumar,05:24,Hindi,03-08-2010,0.09,0.1,0.06,0.543,-2.612,0.02,197.988,0.0,5.0,0.07,4.0,90.0,7745109.0,4
+Kaan Men Jhumka Chaal Men Thumka,Mohammed Rafi,/artist/mohammad-rafi,03:31,Hindi,07-01-2000,0.83,0.117,0.296,0.546,-9.052,0.07,167.986,0.0,9.0,0.04,4.0,44.0,5396064.0,3
+Aao Na Gale Lag Jao Na,Asha Bhosle,/artist/asha-bhosle-1,04:56,Hindi,03-02-2005,0.56,0.65,0.58,0.242,-7.082,0.084,115.03,0.0,7.0,0.0383,4.0,59.0,8103410.0,1
+Phool Tumhe Bheja Hai Khat Mein,Lata Mangeshkar|Mukesh,/artist/lata-mangeshkar|/artist/mukesh,04:46,Hindi,07-02-2021,0.4,0.72,0.227,0.535,-4.341,0.01,184.988,1.0,0.0,0.06,4.0,87.0,10652800.0,0
+Jis Gali Mein Tera Ghar,Mukesh,/artist/mukesh,04:03,Hindi,06-09-2002,0.43,0.14,0.597,0.585,-7.379,0.0097,127.985,0.0,10.0,0.0689,4.0,38.0,2086643.0,4
+Khilte Hain Gul Yahan,Lata Mangeshkar,/artist/lata-mangeshkar,04:05,Hindi,11-06-2006,0.23,0.882,0.393,0.519,-3.378,0.03,134.064,0.0,11.0,0.0441,4.0,49.0,1637947.0,1
+Hay Mohabbat,Lata Mangeshkar|Suresh Wadkar,/artist/lata-mangeshkar|/artist/suresh-wadkar,08:13,Hindi,11-01-2005,0.77,0.43,0.158,0.214,-11.974,0.0699,171.78,1.0,2.0,0.01,4.0,37.0,217693.0,3
+Maine Tujhe Manga,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,03:37,Hindi,12-03-2002,0.52,0.499,0.498,0.586,-7.987,0.046,113.0,0.0,8.0,0.01,4.0,95.0,147816.0,2
+Tere Mere Sapne Ab Ek Rang Hai,Mohammed Rafi,/artist/mohammad-rafi,04:22,Hindi,12-11-2010,0.57,0.496,0.741,0.296,-8.15,0.007,110.019,0.0,4.0,0.01,4.0,88.0,5204629.0,2
+Tumne Kisi Se Kabhi Pyar Kiya Hai,Kanchan|Mukesh,/artist/kanchan|/artist/mukesh,03:38,Hindi,03-02-2008,0.42,0.867,0.016,0.859,-5.292,0.078,125.966,1.0,7.0,0.03,4.0,82.0,1416047.0,1
+Jab Jab Teri Surat Dekhun (Jane Jana),Sapna Awasthi,/artist/sapna-awasthi,05:28,Hindi,08-01-2004,0.97,0.3,0.769,0.637,-5.448,0.0642,117.493,1.0,2.0,0.092,4.0,40.0,4579563.0,2
+Main Hoon Jhoom Jhoom Jhumroo,Kishore Kumar,/artist/kishore-kumar,03:24,Hindi,11-01-2018,0.83,0.05,0.27,0.155,-8.75,0.0663,181.424,0.0,1.0,0.04,4.0,31.0,6376959.0,3
+Chal Dariya Mein Doob Jayen,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,04:55,Hindi,04-02-2005,0.17,0.74,0.416,0.081,-3.175,0.05,186.562,0.0,8.0,0.063,4.0,57.0,7160582.0,0
+Ajnabi Tum Jane Pehchane Se,Kishore Kumar,/artist/kishore-kumar,03:32,Hindi,07-04-2018,0.03,0.023,0.24,0.544,-11.403,0.007,163.448,0.0,5.0,0.01,4.0,95.0,6616482.0,4
+Gunja Re,Hemlata|Suresh Wadkar,/artist/hemlata|/artist/suresh-wadkar,05:07,Hindi,04-07-2018,0.08,0.25,0.143,0.671,-12.477,0.05,105.972,1.0,7.0,0.038,4.0,95.0,2991857.0,1
+Garaj Baras,Ali Azmat,/artist/ali-azmat,04:51,Hindi,05-04-2021,0.96,0.403,0.563,0.51,-12.719,0.05,175.174,1.0,1.0,0.06,4.0,89.0,1634053.0,3
+Ek Pyar Ka Naghma Hai (Happy),Lata Mangeshkar|Mukesh,/artist/lata-mangeshkar|/artist/mukesh,06:06,Hindi,04-04-2014,0.98,0.59,0.571,0.14,-6.899,0.01,157.752,1.0,4.0,0.0479,4.0,30.0,3207864.0,2
+Kya Khoob Lagti Ho,Kanchan|Mukesh,/artist/kanchan|/artist/mukesh,03:59,Hindi,01-10-2004,0.69,0.36,0.318,0.995,-4.247,0.093,123.055,1.0,0.0,0.09,4.0,74.0,7754373.0,1
+Aaj Phir Tumpe,Pankaj Udhas|Anuradha Paudwal,/artist/pankaj-udhas|/artist/anuradha-paudwal-2,06:38,Hindi,09-04-2019,0.3,0.66,0.385,0.066,-10.859,0.06,144.926,1.0,6.0,0.01,4.0,42.0,8415273.0,1
+Mana Ho Tum Behad Haseen (Sad Version),K J Yesudas,/artist/k-j-yesudas,03:03,Hindi,09-12-2010,0.42,0.966,0.567,0.5,-8.934,0.0,204.108,0.0,10.0,0.026,4.0,62.0,10134404.0,0
+Ham The Jinke Sahare,Lata Mangeshkar,/artist/lata-mangeshkar,04:00,Hindi,09-10-2022,0.98,0.76,0.886,0.291,-12.971,0.0319,167.919,0.0,5.0,0.09,4.0,46.0,5150249.0,2
+Tera Bemar Mera Dil,Mohammad Aziz|Kavita Krishnamurthy,/artist/mohammad-aziz|/artist/kavita-subramaniam,07:10,Hindi,09-07-2017,0.54,0.829,0.275,0.248,-5.507,0.02,183.506,0.0,6.0,0.0398,4.0,83.0,9109432.0,0
+Bahon Mein Chale Aao,Lata Mangeshkar,/artist/lata-mangeshkar,04:02,Hindi,05-08-2010,0.67,0.66,0.286,0.224,-8.235,0.05,130.05,1.0,11.0,0.0729,4.0,96.0,4143499.0,2
+Kahe Sataye,Alka Yagnik,/artist/alka-yagnik,02:18,Hindi,10-07-2015,0.09,0.068,0.189,0.696,-12.393,0.0687,200.0,1.0,2.0,0.05,4.0,91.0,1888513.0,4
+Na Jaiyo Pardes,Kavita Krishnamurthy|Kishore Kumar,/artist/kavita-subramaniam|/artist/kishore-kumar,05:45,Hindi,08-01-2014,0.11,0.415,0.04,0.427,-12.056,0.048,162.582,0.0,9.0,0.09,4.0,60.0,1165482.0,4
+Papa Kehte Hain-sad,Udit Narayan,/artist/udit-narayan,03:58,Hindi,08-10-2016,0.6,0.82,0.72,0.891,-7.802,0.05,175.824,1.0,2.0,0.099,4.0,74.0,32164.0,0
+Husn Ki Vadiyon Mein,Lata Mangeshkar|Kishore Kumar|Chorus,/artist/lata-mangeshkar|/artist/kishore-kumar|/artist/chorus,07:30,Hindi,06-12-2003,1.0,0.176,0.371,0.289,-8.884,0.05,148.264,0.0,11.0,0.071,4.0,30.0,4669554.0,3
+Raahi Manwa Dukh Ki Chinta,Mohammed Rafi,/artist/mohammad-rafi,04:05,Hindi,08-02-2020,0.84,0.33,0.694,0.835,-13.872,0.0388,103.773,1.0,8.0,0.061,4.0,56.0,10711688.0,2
+Ye Samaa Samaa Hai Pyar Ka,Lata Mangeshkar,/artist/lata-mangeshkar,03:18,Hindi,08-08-2023,0.87,0.516,0.774,0.077,-12.888,0.014,176.115,1.0,2.0,0.01,4.0,27.0,3974488.0,3
+Kahe Toh Se Sajna,Sharda Sinha,/artist/sharda-sinha,05:54,Hindi,01-02-2003,0.43,0.787,0.377,0.728,-6.742,0.067,158.202,1.0,0.0,0.087,4.0,56.0,10107654.0,1
+Mera Saaya Saath Hoga,Lata Mangeshkar,/artist/lata-mangeshkar,06:03,Hindi,04-01-2009,0.6,0.194,0.3,0.501,-2.613,0.02,159.145,0.0,10.0,0.1,4.0,55.0,1218736.0,4
+Jiska Mujhe Tha Intezar,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,04:21,Hindi,09-11-2004,0.68,0.82,0.383,0.768,-9.48,0.03,189.962,1.0,8.0,0.06,4.0,94.0,8579248.0,0
+Tere Naina Mere Naino Se,Suresh Wadkar|Anuradha Paudwal,/artist/suresh-wadkar|/artist/anuradha-paudwal-2,07:18,Hindi,05-05-2004,0.01,0.609,0.928,0.878,-13.256,0.099,110.034,1.0,0.0,0.011,4.0,38.0,10330719.0,1
+Khoya Khoya Chand Khula Aasman,Mohammed Rafi,/artist/mohammad-rafi,04:41,Hindi,09-08-2004,0.62,0.98,0.896,0.736,-7.356,0.01,190.1,0.0,2.0,0.013,4.0,28.0,1185943.0,0
+Chanda Re Chanda Re,Hariharan|Sadhana Sargam,/artist/hariharan|/artist/sadhana-sargam-1,05:57,Hindi,04-02-2021,0.08,0.41,0.403,0.832,-5.034,0.09,172.118,0.0,6.0,0.007,4.0,97.0,7905817.0,1
+Yeh Hai Reshmi Zulfon Ka Andhera,Asha Bhosle,/artist/asha-bhosle-1,03:21,Hindi,09-01-2017,0.2,0.92,0.232,0.298,-5.626,0.0142,149.989,0.0,6.0,0.0418,4.0,27.0,2991096.0,0
+Naam Goom Jayega,Lata Mangeshkar|Bhupinder Singh,/artist/lata-mangeshkar|/artist/bhupinder-singh,05:12,Hindi,08-04-2013,0.17,0.629,0.606,0.152,-2.048,0.06,107.989,0.0,0.0,0.032,4.0,93.0,3558347.0,1
+Oh Hansini,Kishore Kumar,/artist/kishore-kumar,05:25,Hindi,03-11-2009,0.13,0.5,0.949,0.393,-6.675,0.03,185.76,1.0,9.0,0.067,4.0,49.0,7791359.0,4
+Tere Bina Zindagi Se,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,05:54,Hindi,09-11-2003,0.93,0.17,0.508,0.452,-7.861,0.0283,151.63,0.0,11.0,0.0726,4.0,26.0,926827.0,2
+Aa Ja Re Ab Mera Dil Pukare,Lata Mangeshkar|Mukesh,/artist/lata-mangeshkar|/artist/mukesh,03:18,Hindi,03-10-2014,0.93,0.767,0.026,0.739,-10.227,0.032,187.816,1.0,7.0,0.0059,4.0,38.0,3945876.0,0
+Tanhaiyan,Sonu Nigam,/artist/sonu-nigam-1,05:18,Hindi,02-09-2020,0.59,0.961,0.052,0.48,-12.549,0.094,133.615,0.0,10.0,0.03,4.0,72.0,9830068.0,1
+Gazab Ka Hai Din,Udit Narayan|Alka Yagnik,/artist/udit-narayan|/artist/alka-yagnik,04:26,Hindi,02-03-2015,0.71,0.98,0.005,0.473,-4.853,0.084,128.047,0.0,1.0,0.0142,4.0,74.0,940849.0,1
+Tere Mere Honthon Pe,Babla Mehta|Lata Mangeshkar,/artist/babla-mehta|/artist/lata-mangeshkar,05:33,Hindi,04-08-2008,0.15,0.263,0.734,0.288,-2.749,0.05,150.014,1.0,4.0,0.05,4.0,31.0,9940988.0,4
+Nadiya Kinare,Lata Mangeshkar,/artist/lata-mangeshkar,04:05,Hindi,04-08-2008,0.76,0.97,0.525,0.136,-8.635,0.0474,190.054,0.0,6.0,0.0974,4.0,68.0,36798.0,0
+Rajnigandha Phool Tumhare,Lata Mangeshkar,/artist/lata-mangeshkar,03:24,Hindi,04-05-2013,0.19,0.04,0.285,0.95,-10.171,0.0086,107.447,1.0,6.0,0.1,4.0,47.0,9731272.0,4
+Khwab Ho Tum Ya Koi Haqeeqat,Kishore Kumar,/artist/kishore-kumar,04:36,Hindi,12-10-2014,0.05,0.558,0.595,0.007,-12.581,0.05,176.246,0.0,11.0,0.098,4.0,94.0,5318264.0,4
+Is Mod Se Jate Hain (Male),Kishore Kumar,/artist/kishore-kumar,04:54,Hindi,12-08-2006,0.52,0.18,0.835,0.333,-12.006,0.0746,162.606,0.0,11.0,0.031,4.0,98.0,11337521.0,3
+Jab Pyar Kisi Se Hota Hai,Mohammed Rafi,/artist/mohammad-rafi,03:28,Hindi,08-10-2003,0.1,0.086,0.788,0.077,-11.776,0.053,138.02,0.0,6.0,0.063,4.0,65.0,9262809.0,4
+Chahe Lakh Toofan Ayen,Lata Mangeshkar|Shabbir Kumar,/artist/lata-mangeshkar|/artist/shabbir-kumar,06:22,Hindi,08-02-2023,0.19,0.576,0.986,0.567,-6.928,0.006,181.25,1.0,11.0,0.05,4.0,29.0,3875252.0,4
+Ek Nazar Mein Bhi,K.K.|Sunidhi Chauhan,/artist/kk|/artist/sunidhi-chauhan,04:39,Hindi,01-02-2002,0.45,0.51,0.038,0.495,-2.47,0.063,120.032,1.0,3.0,0.047,4.0,26.0,7081113.0,1
+Yamma Yamma,Mohammed Rafi|R. D. Burman,/artist/mohammad-rafi|/artist/r-d-burman,05:41,Hindi,09-06-2013,0.32,0.108,0.167,0.131,-7.543,0.0217,134.066,1.0,2.0,0.05,4.0,51.0,1805299.0,4
+Sach Mere Yaar Hai,S. P. Balasubrahmanyam,/artist/s-p-balasubrahamanyam,06:52,Hindi,08-09-2003,0.35,0.454,0.908,0.91,-2.714,0.0307,184.254,0.0,11.0,0.081,4.0,67.0,4798752.0,4
+Badal Yun Garaj Hai,Lata Mangeshkar|Shabbir Kumar,/artist/lata-mangeshkar|/artist/shabbir-kumar,05:38,Hindi,08-11-2019,0.2,0.622,0.519,0.316,-7.847,0.09,200.836,1.0,8.0,0.0952,4.0,34.0,11089462.0,1
+Jai Jai Shiv Shankar,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,05:37,Hindi,08-12-2016,0.02,0.966,0.257,0.686,-9.453,0.1,128.026,0.0,11.0,0.096,4.0,37.0,4843927.0,1
+Main Teri Mohabbat Mein (Part-i),Mohammad Aziz|Sadhana Sargam,/artist/mohammad-aziz|/artist/sadhana-sargam-1,04:53,Hindi,11-07-2006,0.93,0.97,0.259,0.316,-8.68,0.0416,119.964,0.0,5.0,0.0209,4.0,56.0,9810044.0,2
+Mohabbat Ab Tijarat Ban Gai Hai,Anwar Hussain,/artist/anwar-hussain,04:56,Hindi,02-10-2011,0.4,0.13,0.936,0.981,-13.806,0.06,180.858,1.0,3.0,0.09,4.0,45.0,9940599.0,4
+O Meri Sharmilee,Kishore Kumar,/artist/kishore-kumar,03:58,Hindi,08-12-2023,0.22,0.73,0.746,0.181,-7.553,0.0886,189.518,0.0,5.0,0.072,4.0,55.0,8452572.0,1
+Aaj Na Chhodenge,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,05:15,Hindi,04-02-2010,0.02,0.261,0.491,0.657,-2.163,0.0707,168.456,1.0,1.0,0.0719,4.0,36.0,3740350.0,4
+Jadoo Bhari,Udit Narayan,/artist/udit-narayan,05:05,Hindi,03-12-2005,0.19,0.95,0.789,0.552,-10.134,0.03,111.13,1.0,1.0,0.08,4.0,25.0,4031924.0,2
+Kya Hua Tera Vada,Mohammed Rafi|Sushma Shrestha,/artist/mohammad-rafi|/artist/sushma-shrestha,04:22,Hindi,03-10-2014,0.71,0.16,0.059,0.985,-13.956,0.0601,193.437,0.0,4.0,0.03,4.0,51.0,3844376.0,3
+Na Na Karte Pyar Tumhi Se,Mohammed Rafi|Suman Kalyanpur,/artist/mohammad-rafi|/artist/suman-kalyanpur,03:21,Hindi,07-03-2015,0.97,0.19,0.11,0.261,-9.504,0.0497,193.688,1.0,9.0,0.021,4.0,50.0,1012477.0,3
+Chalat Musafir,Manna Dey,/artist/manna-dey,03:06,Hindi,09-11-2020,0.23,0.05,0.73,0.86,-10.421,0.0919,196.188,1.0,1.0,0.043,4.0,60.0,9922490.0,4
+Paisa O Paisa,Kishore Kumar,/artist/kishore-kumar,05:07,Hindi,04-01-2013,0.67,0.559,0.603,0.637,-10.2,0.0459,146.277,0.0,6.0,0.04,4.0,34.0,5553949.0,2
+Dil Jo Na Keh Saka (Female),Lata Mangeshkar,/artist/lata-mangeshkar,04:31,Hindi,10-12-2008,0.2,0.34,0.565,0.806,-3.417,0.039,150.011,1.0,9.0,0.0736,4.0,36.0,11369980.0,4
+Ek Main Aur Ek Tu,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,04:51,Hindi,02-12-2007,0.69,0.37,0.574,0.531,-10.229,0.01,174.943,0.0,2.0,0.0,4.0,81.0,9026718.0,0
+Do Deewane Shaher Mein,Bhupinder Singh|Runa Laila,/artist/bhupinder-singh|/artist/runa-laila,04:25,Hindi,06-07-2018,0.85,0.1,0.875,0.383,-5.887,0.069,133.002,0.0,6.0,0.02,4.0,36.0,1892030.0,3
+Aap Yun Hi Agar Humse Milte Rahe,Asha Bhosle|Mohammed Rafi,/artist/asha-bhosle-1|/artist/mohammad-rafi,04:24,Hindi,02-01-2014,0.44,0.071,0.27,0.284,-8.46,0.0501,182.096,1.0,5.0,0.02,4.0,34.0,10467407.0,4
+Hazaron Khwahishen Aisi,Jagjit Singh,/artist/jagjeet-singh-1,05:40,Hindi,11-07-2009,0.41,0.927,0.567,0.145,-7.458,0.04,114.044,1.0,7.0,0.0255,4.0,88.0,788687.0,2
+Mere Jaisi Haseena,Bappi Lahiri|Sharon Prabhakar,/artist/bappi-lahiri|/artist/sharon-prabhakar,07:21,Hindi,09-10-2008,0.06,0.23,0.007,0.825,-5.052,0.04,177.711,0.0,6.0,0.01,4.0,60.0,4110776.0,4
+O Mere Dil Ke Chain,Kishore Kumar,/artist/kishore-kumar,04:36,Hindi,08-09-2013,0.32,0.63,0.442,0.843,-6.058,0.0199,194.526,0.0,11.0,0.025,4.0,54.0,7864411.0,0
+Say Na Say Na,Aneela Mirza|Johan Bejerholm|Robert Uhlmarash,/artist/aneela-mirza|/artist/johan-bejerholm|/artist/robert-uhlmarash,03:17,Hindi,12-06-2004,0.6,0.75,0.113,0.218,-3.608,0.0309,199.89,0.0,1.0,0.0984,4.0,71.0,200167.0,0
+Do Lafzon Ki Hai Dil Ki Kahani (Duet),Amitabh Bachchan|Asha Bhosle|Sharad Kumar,/artist/amitabh-bachchan|/artist/asha-bhosle-1|/artist/sharad-kumar,06:22,Hindi,10-05-2017,0.43,0.755,0.33,0.24,-5.593,0.01,124.028,1.0,2.0,0.0397,4.0,93.0,9009139.0,2
+Dhoop Mein Nikla Na Karo,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,04:39,Hindi,11-02-2023,0.47,0.93,0.436,0.315,-2.42,0.088,130.035,1.0,1.0,0.05,4.0,71.0,631291.0,1
+Gaata Rahe Mera Dil,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,04:54,Hindi,02-04-2023,0.45,0.753,0.407,0.449,-13.265,0.0752,132.032,0.0,2.0,0.0126,4.0,65.0,3917161.0,1
+Zindagi Ki Yahi Reet Hai -i,Kishore Kumar,/artist/kishore-kumar,01:29,Hindi,09-06-2007,0.37,0.95,0.313,0.778,-8.105,0.01,117.0,0.0,2.0,0.044,4.0,66.0,4434330.0,2
+Gairon Pe Karam,Lata Mangeshkar,/artist/lata-mangeshkar,05:31,Hindi,01-01-2014,0.04,0.054,0.13,0.109,-7.475,0.02,149.934,1.0,1.0,0.06,4.0,99.0,11185638.0,4
+Ankhiyon Ke Jharokhon Se (Part 1),Hemlata,/artist/hemlata,02:58,Hindi,05-01-2021,0.96,0.586,0.436,0.031,-2.255,0.04,110.962,1.0,8.0,0.08,4.0,58.0,5066505.0,2
+Bhali Bhali Si Ek Surat,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,04:48,Hindi,05-05-2013,0.15,0.754,0.097,0.16,-7.884,0.09,166.178,0.0,10.0,0.009,4.0,94.0,9767821.0,1
+Aao Tumhen Chand Pe Le Jayen,Lata Mangeshkar|Sushma Shrestha,/artist/lata-mangeshkar|/artist/sushma-shrestha,04:35,Hindi,10-10-2003,0.18,0.123,0.395,0.484,-13.788,0.073,202.05,1.0,1.0,0.0057,4.0,81.0,7307804.0,4
+Tujhe Bulayen Yeh Meri Bahen,Lata Mangeshkar,/artist/lata-mangeshkar,05:08,Hindi,10-06-2008,0.65,0.52,0.669,0.674,-3.683,0.0025,152.826,1.0,0.0,0.05,4.0,74.0,8865946.0,2
+Bagon Mein Kaise Ye Phool,Lata Mangeshkar|Mukesh,/artist/lata-mangeshkar|/artist/mukesh,04:32,Hindi,01-03-2013,0.14,0.886,0.873,0.696,-5.687,0.0176,199.87,0.0,10.0,0.0369,4.0,92.0,4796101.0,0
+Kal Ki Haseen Mulaqat Ke Liye,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,05:54,Hindi,03-12-2018,0.3,0.582,0.639,0.486,-3.683,0.0,177.476,1.0,11.0,0.07,4.0,28.0,8050573.0,0
+Kanchi Re Kanchi Re,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,04:58,Hindi,05-11-2020,0.34,0.77,0.051,0.99,-6.976,0.08,128.001,1.0,8.0,0.029,4.0,63.0,9065648.0,1
+Mehbooba Mehbooba,R. D. Burman,/artist/r-d-burman,03:56,Hindi,01-12-2011,0.28,0.63,0.662,0.572,-4.404,0.0599,189.868,0.0,0.0,0.06,4.0,43.0,8623081.0,0
+Neela Aasman So Gaya (Female),Lata Mangeshkar,/artist/lata-mangeshkar,05:28,Hindi,06-04-2010,0.97,0.951,0.331,0.541,-7.307,0.057,126.062,0.0,2.0,0.0351,4.0,81.0,11069281.0,2
+Mausam Pyar Ka,Kishore Kumar|Asha Bhosle,/artist/kishore-kumar|/artist/asha-bhosle-1,05:44,Hindi,08-12-2011,0.52,0.49,0.439,0.884,-9.086,0.011,160.704,1.0,7.0,0.0224,4.0,58.0,3896590.0,0
+Aap Aye Bahaar Ayee,Mohammed Rafi,/artist/mohammad-rafi,05:13,Hindi,06-05-2008,0.8,0.16,0.233,0.996,-5.054,0.08,111.686,1.0,1.0,0.0594,4.0,33.0,6443304.0,2
+Chhod De Sari Duniya,Lata Mangeshkar,/artist/lata-mangeshkar,03:28,Hindi,01-07-2003,0.01,0.543,0.728,0.491,-13.895,0.09,190.38,0.0,6.0,0.015,4.0,59.0,11240477.0,1
+Lag Ja Gale Se Phir,Lata Mangeshkar,/artist/lata-mangeshkar,04:18,Hindi,10-03-2003,0.26,0.35,0.985,0.362,-6.428,0.09,150.222,0.0,0.0,0.1,4.0,84.0,3214931.0,3
+Do Bechare Bin Sahare,Kishore Kumar|Mahendra Kapoor,/artist/kishore-kumar|/artist/mahendra-kapoor,04:46,Hindi,01-11-2017,0.88,0.76,0.472,0.522,-8.093,0.016,179.837,0.0,9.0,0.036,4.0,30.0,8360561.0,0
+Ramba Ho Ho Ho Samba Ho Ho Ho,Usha Uthup,/artist/usha-uthup,06:00,Hindi,12-12-2014,0.54,0.709,0.87,0.1,-7.363,0.01,191.598,0.0,6.0,0.067,4.0,26.0,8766208.0,0
+Baharo Phool Barsao,Mohammed Rafi,/artist/mohammad-rafi,04:29,Hindi,11-03-2005,0.02,0.83,0.658,0.15,-4.954,0.08,128.008,0.0,5.0,0.0066,4.0,91.0,7443734.0,1
+Seene Mein Jalan,Suresh Wadkar,/artist/suresh-wadkar,04:31,Hindi,01-01-2000,0.71,0.19,0.602,0.069,-2.639,0.0811,178.058,1.0,8.0,0.09,4.0,75.0,10660324.0,3
+Dum Maro Dum Mit Jaye Gham,Asha Bhosle,/artist/asha-bhosle-1,02:36,Hindi,08-04-2007,0.58,0.57,0.998,0.755,-7.056,0.057,132.05,1.0,11.0,0.09,4.0,43.0,1933287.0,2
+Yeh Naina Yeh Kaajal,Kishore Kumar,/artist/kishore-kumar,05:31,Hindi,07-09-2017,0.25,0.177,0.927,0.521,-8.174,0.067,164.068,0.0,7.0,0.1,4.0,46.0,9306644.0,4
+Hum Tum Dono Jab Mil Jayen,S. P. Balasubrahmanyam|Lata Mangeshkar,/artist/s-p-balasubrahamanyam|/artist/lata-mangeshkar,05:35,Hindi,09-07-2012,0.37,0.278,0.945,0.624,-3.331,0.08,142.024,1.0,1.0,0.09,4.0,99.0,10140988.0,3
+Jaan Hatheli Pe,Shabbir Kumar|Anuradha Paudwal,/artist/shabbir-kumar|/artist/anuradha-paudwal-2,08:01,Hindi,10-09-2011,0.83,0.41,0.29,0.441,-10.886,0.042,164.976,1.0,5.0,0.074,4.0,96.0,11136206.0,3
+Maine Rab Se Tujhe,Anuradha Paudwal|Manhar Udhas|Sukhwinder Singh,/artist/anuradha-paudwal-2|/artist/manhar-udhas|/artist/sukhwinder-singh,08:01,Hindi,03-02-2023,0.11,0.995,0.37,0.29,-6.113,0.009,124.008,1.0,1.0,0.07,4.0,57.0,2121362.0,1
+Koi Roko Na,Kishore Kumar,/artist/kishore-kumar,04:46,Hindi,02-11-2019,0.94,0.881,0.206,0.34,-5.581,0.0099,199.216,1.0,1.0,0.082,4.0,87.0,6197110.0,0
+Sunja Aa Thandi Hawa,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,05:47,Hindi,10-01-2002,0.27,0.911,0.135,0.482,-13.861,0.05,120.145,0.0,10.0,0.058,4.0,72.0,5887233.0,1
+Diwana Mastana Hua Dil,Asha Bhosle|Mohammed Rafi,/artist/asha-bhosle-1|/artist/mohammad-rafi,04:24,Hindi,10-02-2007,0.74,0.18,0.103,0.625,-5.995,0.007,185.944,1.0,1.0,0.0068,4.0,100.0,3480413.0,4
+Teri Mohabbat Meri Jawani,Salma Agha|Mohammad Aziz,/artist/salma-agha|/artist/mohammad-aziz,06:21,Hindi,09-02-2021,0.94,0.45,0.707,0.941,-10.465,0.0898,144.602,0.0,9.0,0.01,4.0,64.0,204806.0,3
+"Dil Lena Khel Hai Dildar Ka / Dialogue & Music : Laila , Majnu , Sheri , Farah (Zamaane Ko Dikhana Hai)",Various Artists,/artist/various-artists,08:00,Hindi,09-04-2021,0.31,0.5,0.528,0.143,-11.848,0.0732,163.1,0.0,10.0,0.003,4.0,99.0,4143014.0,1
+Yeh Sham Mastani,Kishore Kumar,/artist/kishore-kumar,04:37,Hindi,04-05-2018,0.22,0.217,0.593,0.631,-13.388,0.022,205.072,1.0,1.0,0.0524,4.0,77.0,5952294.0,4
+Huzur Is Kadar,Bhupinder Singh|Suresh Wadkar,/artist/bhupinder-singh|/artist/suresh-wadkar,03:53,Hindi,09-10-2012,0.53,0.526,0.259,0.874,-2.308,0.01,127.086,1.0,7.0,0.09,4.0,67.0,3143278.0,2
+Tera Phoolon Jaisa Rang,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,06:12,Hindi,09-09-2004,0.81,0.7,0.216,0.677,-4.822,0.087,179.898,1.0,1.0,0.075,4.0,78.0,8531965.0,3
+Tune Bechain Itna Ziada Kiya,Mohammad Aziz|Anuradha Paudwal,/artist/mohammad-aziz|/artist/anuradha-paudwal-2,05:36,Hindi,09-11-2002,0.47,0.145,0.321,0.481,-5.201,0.0794,149.882,1.0,0.0,0.0037,4.0,63.0,7775821.0,3
+Sun Rubia Tumse Pyar Ho Gaya,S. Janaki|Shabbir Kumar|Anu Malik|Amitabh Bachchan,/artist/s-janaki|/artist/shabbir-kumar|/artist/anu-malik|/artist/amitabh-bachchan,06:27,Hindi,07-07-2014,0.61,0.22,0.119,0.891,-4.387,0.0788,174.748,0.0,6.0,0.082,4.0,53.0,10676176.0,3
+Pyar Mujh Se Jo Kiya,Jagjit Singh,/artist/jagjeet-singh-1,04:36,Hindi,03-01-2014,0.5,0.789,0.505,0.954,-11.039,0.05,154.172,1.0,9.0,0.0919,4.0,28.0,8681559.0,0
+Jhilmil Sitaron Ka Angan Hoga,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,05:28,Hindi,10-02-2003,0.16,0.19,0.511,0.412,-13.257,0.06,205.846,0.0,0.0,0.0561,4.0,99.0,2672970.0,4
+Ham Bane Tum Bane,Lata Mangeshkar|S. P. Balasubrahmanyam,/artist/lata-mangeshkar|/artist/s-p-balasubrahamanyam,06:07,Hindi,05-02-2011,0.47,0.8,0.193,0.055,-3.254,0.01,129.971,1.0,9.0,0.0474,4.0,67.0,6381877.0,2
+Gham Uthane Ko,Mohammed Rafi,/artist/mohammad-rafi,05:08,Hindi,05-01-2003,0.57,0.458,0.18,0.354,-9.851,0.1,131.965,0.0,9.0,0.0589,4.0,33.0,7495568.0,1
+Chhod Kar Tere Pyar Ka Daman,Lata Mangeshkar|Mahendra Kapoor,/artist/lata-mangeshkar|/artist/mahendra-kapoor,04:16,Hindi,02-02-2023,0.06,0.282,0.718,0.871,-5.948,0.0277,192.298,0.0,8.0,0.0587,4.0,53.0,7473608.0,4
+Chahe Meri Jaan Tu Le Le,Jolly Mukherjee|Sapna Mukherjee,/artist/jolly-mukherjee-1|/artist/sapna-mukherjee,05:37,Hindi,03-02-2009,0.91,0.1,0.518,0.019,-8.509,0.018,199.97,0.0,6.0,0.04,4.0,52.0,8516476.0,3
+Badan Pe Sitare Lapete Huye,Mohammed Rafi,/artist/mohammad-rafi,04:48,Hindi,11-07-2005,0.44,0.92,0.873,0.114,-3.366,0.063,183.998,0.0,11.0,0.0407,4.0,29.0,645100.0,0
+Mere Naseeb Mein,Lata Mangeshkar,/artist/lata-mangeshkar,06:18,Hindi,06-08-2006,0.34,0.67,0.0,0.078,-7.431,0.066,127.999,1.0,9.0,0.0141,4.0,46.0,1057144.0,1
+Aage Bhi Jane Na Tu,Asha Bhosle,/artist/asha-bhosle-1,07:28,Hindi,12-06-2020,0.22,0.84,0.266,0.149,-10.915,0.05,166.028,1.0,2.0,0.0005,4.0,45.0,2788307.0,1
+Japle Hari Ka Naam Sanjh Sakare,Hari Om Sharan,/artist/hari-om-sharan,04:58,Hindi,02-06-2010,0.81,0.994,0.466,0.846,-13.665,0.02,166.729,1.0,1.0,0.034,4.0,50.0,6271663.0,0
+Kuchh Dil Ne Kaha Kuchh Bhi Nahin,Lata Mangeshkar,/artist/lata-mangeshkar,04:11,Hindi,07-11-2009,0.88,0.861,0.579,0.036,-13.725,0.1,184.636,0.0,0.0,0.0,4.0,41.0,1217579.0,3
+Chand Mera Dil Chandni Ho Tum - Medley,Mohammed Rafi,/artist/mohammad-rafi,10:30,Hindi,12-01-2009,0.07,0.589,0.305,0.718,-12.159,0.0025,136.019,0.0,11.0,0.06,4.0,75.0,7138595.0,4
+Ruk Jana Nahin (Part 2),Kishore Kumar,/artist/kishore-kumar,03:07,Hindi,01-01-2001,0.19,0.75,0.924,0.846,-6.6,0.0741,166.638,0.0,2.0,0.002,4.0,65.0,8954978.0,1
+Na Poochho Koi Hamen,Kishore Kumar,/artist/kishore-kumar,03:18,Hindi,11-03-2023,0.98,0.16,0.336,0.011,-13.91,0.0637,173.396,0.0,0.0,0.0358,4.0,68.0,5347465.0,3
+Aai Aai Aa Sukoo Sukoo,Mohammed Rafi,/artist/mohammad-rafi,03:18,Hindi,10-11-2003,0.16,0.043,0.294,0.456,-13.446,0.0581,166.022,0.0,5.0,0.067,4.0,96.0,1083771.0,4
+Ham Ne Tum Ko Dekha,Shailender Singh,/artist/shailender-singh,04:25,Hindi,07-04-2023,0.6,0.59,0.734,0.879,-2.078,0.099,117.089,1.0,6.0,0.073,4.0,62.0,2593874.0,1
+Saagar Jaisi Aankhonwali,Kishore Kumar,/artist/kishore-kumar,05:03,Hindi,12-04-2008,0.47,0.714,0.347,0.868,-9.197,0.08,206.038,1.0,0.0,0.09,4.0,81.0,6996275.0,0
+Jeevan Ke Har Mod Pe Mil Jayenge,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,06:39,Hindi,07-04-2001,0.96,0.85,0.033,0.63,-2.12,0.0693,182.06,0.0,10.0,0.08,4.0,63.0,1468704.0,0
+O Mere Sona Re Sona,Asha Bhosle|Mohammed Rafi,/artist/asha-bhosle-1|/artist/mohammad-rafi,05:01,Hindi,06-07-2012,0.22,0.534,0.911,0.295,-5.921,0.04,127.949,1.0,0.0,0.0079,4.0,51.0,1517453.0,2
+Tumse Milkar Na Jane (Female Version),Kavita Krishnamurthy,/artist/kavita-subramaniam,06:01,Hindi,12-04-2023,0.51,0.76,0.385,0.301,-7.501,0.042,164.766,1.0,2.0,0.08,4.0,69.0,9299939.0,0
+Ho Pardesia,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,04:52,Hindi,04-11-2004,0.68,0.054,0.784,0.809,-6.393,0.0714,120.97,0.0,8.0,0.013,4.0,84.0,7661031.0,2
+Tere Chehre Se Nazar Nahin,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,05:03,Hindi,08-06-2004,0.77,0.6,0.905,0.196,-10.568,0.0687,172.636,0.0,4.0,0.065,4.0,79.0,2890269.0,3
+Rote Hue Aate Hain Sab,Kishore Kumar,/artist/kishore-kumar,04:06,Hindi,04-02-2018,0.08,0.258,0.888,0.629,-13.585,0.0089,178.558,1.0,7.0,0.07,4.0,31.0,7372015.0,4
+Aise Na Mujhe,Kishore Kumar,/artist/kishore-kumar,04:25,Hindi,05-12-2014,0.53,0.78,0.367,0.503,-3.755,0.049,185.063,1.0,7.0,0.0942,4.0,72.0,3108109.0,0
+Na Jiya Lage Na,Lata Mangeshkar,/artist/lata-mangeshkar,03:22,Hindi,03-06-2011,0.6,0.53,0.163,0.56,-8.101,0.0395,109.891,1.0,4.0,0.0249,4.0,59.0,5179892.0,2
+Aa Meri Jaan,Lata Mangeshkar,/artist/lata-mangeshkar,04:32,Hindi,07-12-2019,0.54,0.8,0.051,0.676,-4.649,0.0418,183.878,1.0,9.0,0.0569,4.0,37.0,11031309.0,0
+Faza Bhi Hai Jawan (2),Salma Agha,/artist/salma-agha,04:02,Hindi,07-12-2023,0.42,0.904,0.217,0.616,-2.985,0.098,168.974,0.0,6.0,0.0962,4.0,48.0,7287806.0,1
+Lal Chhadi Maidan Khadi,Mohammed Rafi,/artist/mohammad-rafi,04:15,Hindi,10-06-2015,0.69,0.49,0.902,0.055,-2.48,0.09,164.712,0.0,10.0,0.0032,4.0,54.0,1038025.0,3
+Ek Pyar Ka Naghma Hai (Happy),Lata Mangeshkar|Mukesh,/artist/lata-mangeshkar|/artist/mukesh,06:06,Hindi,09-01-2022,0.22,0.864,0.345,0.723,-3.66,0.0492,193.628,1.0,11.0,0.05,4.0,38.0,2596927.0,0
+Main Sasural Nahin Jaoongi,Pamela Chopra,/artist/pamela-chopra,04:01,Hindi,05-12-2022,0.24,0.87,0.719,0.479,-9.332,0.0797,119.005,1.0,6.0,0.039,4.0,67.0,8668731.0,1
+Aye Gulbadan,Mohammed Rafi,/artist/mohammad-rafi,03:22,Hindi,03-02-2008,0.41,0.2,0.383,0.032,-7.948,0.0298,169.646,0.0,11.0,0.0241,4.0,91.0,599007.0,4
+Beqarar Karke Hamen Yun Na Jaiye,Hemant Kumar,/artist/hemanta-mukherjee,03:11,Hindi,12-01-2004,0.06,0.68,0.008,0.639,-11.625,0.0401,189.028,1.0,6.0,0.012,4.0,99.0,4904016.0,0
+Sa Re Ga Ma Pa,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,05:12,Hindi,08-12-2015,0.64,0.98,0.767,0.795,-9.74,0.036,191.734,0.0,10.0,0.0124,4.0,49.0,3232340.0,0
+Piya Tu Ab To Aaja,Asha Bhosle|R. D. Burman,/artist/asha-bhosle-1|/artist/r-d-burman,05:26,Hindi,08-11-2014,0.91,0.459,0.986,0.785,-11.243,0.041,189.988,1.0,9.0,0.03,4.0,71.0,2404634.0,3
+Dil Ki Kalam Se,Anuradha Paudwal|Hariharan,/artist/anuradha-paudwal-2|/artist/hariharan,05:55,Hindi,11-08-2016,0.65,0.15,0.7,0.808,-13.688,0.0435,159.841,1.0,7.0,0.057,4.0,44.0,125904.0,4
+Tumhein Yaad Karte Karte,Lata Mangeshkar,/artist/lata-mangeshkar,03:35,Hindi,05-08-2002,0.44,0.955,0.522,0.344,-6.741,0.0373,106.017,0.0,6.0,0.1,4.0,57.0,8990781.0,2
+Raat Bhar Jaam Se,Alisha Chinai,/artist/alisha-chinai,04:27,Hindi,09-04-2003,0.77,0.22,0.859,0.809,-8.379,0.094,170.98,1.0,1.0,0.0,4.0,75.0,978561.0,3
+Aaye Tum Yaad Mujhe,Kishore Kumar,/artist/kishore-kumar,04:41,Hindi,11-05-2005,0.56,0.336,0.043,0.948,-13.98,0.092,114.025,1.0,8.0,0.0202,4.0,50.0,11168724.0,1
+Dil Ka Bhanwar Kare Pukar,Mohammed Rafi,/artist/mohammad-rafi,03:20,Hindi,12-04-2011,0.66,0.16,0.561,0.651,-13.23,0.07,108.005,1.0,7.0,0.0076,4.0,56.0,9457552.0,2
+Zooby Zooby,Alisha Chinai,/artist/alisha-chinai,06:08,Hindi,02-02-2020,0.23,0.07,0.985,0.799,-5.992,0.035,132.615,0.0,4.0,0.048,4.0,64.0,7341632.0,4
+Dariya Mein Phenk Do Chabi,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,05:25,Hindi,01-01-2010,0.81,0.03,0.21,0.642,-4.49,0.08,107.059,1.0,6.0,0.0558,4.0,29.0,8836237.0,2
+Mere Sapnon Ki Rani,Kishore Kumar,/artist/kishore-kumar,05:00,Hindi,09-05-2001,0.59,0.406,0.501,0.541,-9.107,0.0033,185.954,1.0,9.0,0.067,4.0,61.0,2060547.0,0
+Woh Kagaz Ki Kashti (Part 1),Jagjit Singh,/artist/jagjeet-singh-1,04:01,Hindi,06-02-2019,0.22,0.218,0.023,0.73,-3.339,0.0755,167.964,0.0,5.0,0.1,4.0,63.0,7055334.0,4
+Pyar Karne Wale,Lata Mangeshkar|Manhar Udhas,/artist/lata-mangeshkar|/artist/manhar-udhas,05:56,Hindi,07-05-2021,0.44,0.54,0.887,0.294,-4.61,0.0515,130.028,1.0,11.0,0.037,4.0,32.0,2715356.0,2
+Uthe Sabke Kadam Dekho Ram Pam Pam,Amit Kumar|Lata Mangeshkar|Pearl Padamse,/artist/amit-kumar|/artist/lata-mangeshkar|/artist/pearl-padamse,04:23,Hindi,11-09-2019,0.35,0.645,0.016,0.563,-8.624,0.058,114.957,0.0,5.0,0.0547,4.0,27.0,3751022.0,1
+Chala Jata Hoon,Kishore Kumar,/artist/kishore-kumar,04:30,Hindi,01-10-2014,0.73,0.261,0.726,0.816,-7.233,0.019,123.907,0.0,10.0,0.087,4.0,62.0,2447551.0,2
+Baar Baar Din Ye Aaye Happy Birthday To You,Mohammed Rafi,/artist/mohammad-rafi,07:07,Hindi,05-08-2014,0.13,0.078,0.468,0.694,-6.81,0.059,148.034,1.0,8.0,0.07,4.0,75.0,8027862.0,4
+Zuban Pe Dard Bhari Dastan,Mukesh,/artist/mukesh,04:14,Hindi,07-07-2011,0.74,0.15,0.478,0.524,-3.712,0.057,199.896,1.0,0.0,0.032,4.0,95.0,11194940.0,3
+Dil Aesa Kisine Mera Toda,Kishore Kumar,/artist/kishore-kumar,05:00,Hindi,10-09-2008,0.15,0.26,0.167,0.866,-11.336,0.04,107.788,0.0,11.0,0.0324,4.0,87.0,72887.0,4
+Jane Kyon Log Mohabbat Kiya,Lata Mangeshkar,/artist/lata-mangeshkar,04:59,Hindi,10-06-2005,0.24,0.01,0.606,0.251,-13.896,0.045,124.484,1.0,8.0,0.078,4.0,42.0,1303559.0,4
+Patthar Ke Sanam,Mohammed Rafi,/artist/mohammad-rafi,04:57,Hindi,01-01-2014,0.86,0.443,0.12,0.222,-12.074,0.06,200.03,0.0,10.0,0.074,4.0,80.0,1441525.0,3
+Jane Kya Sochkar,Kishore Kumar,/artist/kishore-kumar,03:32,Hindi,01-11-2004,0.56,0.8,0.664,0.017,-2.629,0.0997,193.324,1.0,9.0,0.03,4.0,61.0,5525752.0,3
+Main Hoon Khushrang Henna,Lata Mangeshkar|Mohammad Aziz,/artist/lata-mangeshkar|/artist/mohammad-aziz,04:38,Hindi,07-05-2014,0.03,0.153,0.483,0.087,-9.002,0.002,193.453,1.0,4.0,0.04,4.0,74.0,5844884.0,4
+Chandan Sa Badan Chanchal Chitwan (Male),Mukesh,/artist/mukesh,04:00,Hindi,07-01-2020,0.16,0.171,0.952,0.974,-13.55,0.038,199.974,1.0,7.0,0.003,4.0,54.0,7012986.0,4
+Mere Rang Mein Rangne Wali,S. P. Balasubrahmanyam,/artist/s-p-balasubrahamanyam,06:54,Hindi,01-02-2000,0.77,0.02,0.167,0.751,-7.416,0.017,126.937,0.0,0.0,0.08,4.0,68.0,8270106.0,2
+Goom Hai Kisi Ke Pyar Mein,Hariharan|Kavita Krishnamurthy,/artist/hariharan|/artist/kavita-subramaniam,05:49,Hindi,11-09-2001,0.39,0.006,0.752,0.092,-12.077,0.09,167.976,1.0,11.0,0.044,4.0,75.0,5089671.0,3
+Sajna Saath Nibhana,Asha Bhosle|Mohammed Rafi,/artist/asha-bhosle-1|/artist/mohammad-rafi,05:44,Hindi,08-09-2018,0.86,0.2,0.174,0.419,-5.8,0.05,125.223,0.0,6.0,0.076,4.0,27.0,6148085.0,2
+Pag Ghunghroo Baandh,Kishore Kumar,/artist/kishore-kumar,08:00,Hindi,12-12-2021,0.07,0.14,0.644,0.304,-3.814,0.016,160.05,1.0,11.0,0.1,4.0,67.0,8659980.0,4
+Teri Pyari Pyari Soorat Ko,Mohammed Rafi,/artist/mohammad-rafi,03:19,Hindi,05-08-2008,0.48,0.463,0.198,0.972,-10.773,0.052,172.247,0.0,6.0,0.039,4.0,31.0,4977402.0,0
+Pyar Bantte Chalo,Kishore Kumar,/artist/kishore-kumar,06:01,Hindi,04-11-2018,0.1,0.164,0.463,0.095,-13.988,0.085,148.016,1.0,2.0,0.0359,4.0,51.0,6873065.0,1
+Sare Shaher Men Aap Sa Koi Nahin,Asha Bhosle|Mohammed Rafi,/artist/asha-bhosle-1|/artist/mohammad-rafi,04:59,Hindi,04-12-2008,0.8,0.67,0.782,0.649,-8.904,0.0819,180.218,1.0,7.0,0.047,4.0,90.0,7911565.0,3
+Hamsafar Banke Ham,Jagjit Singh,/artist/jagjeet-singh-1,07:32,Hindi,10-04-2016,0.62,0.719,0.427,0.436,-3.993,0.0475,169.444,1.0,1.0,0.01,4.0,50.0,5263539.0,0
+Mausam Hai Gaane Ka,Bappi Lahiri,/artist/bappi-lahiri,05:14,Hindi,07-01-2008,0.84,0.419,0.775,0.59,-8.652,0.06,192.504,1.0,3.0,0.016,4.0,96.0,3773426.0,3
+Chhupa Lo Yun Dil Men,Lata Mangeshkar|Hemant Kumar,/artist/lata-mangeshkar|/artist/hemanta-mukherjee,03:11,Hindi,01-06-2019,0.53,0.85,0.497,0.322,-9.18,0.0522,184.724,0.0,1.0,0.05,4.0,41.0,987424.0,0
+O Manchali Kahan Chali,Kishore Kumar,/artist/kishore-kumar,05:33,Hindi,03-10-2019,0.86,0.87,0.027,0.664,-2.272,0.01,191.758,1.0,7.0,0.0007,4.0,44.0,9998896.0,0
+Main Pyar Ki Pujaran,Sapna Mukherjee|Mohammad Aziz,/artist/sapna-mukherjee|/artist/mohammad-aziz,07:01,Hindi,08-03-2002,0.58,0.192,0.521,0.048,-6.774,0.0366,121.434,0.0,1.0,0.03,4.0,97.0,3464742.0,2
+Zindagi Ek Safar Hai Suhana (Male),Kishore Kumar,/artist/kishore-kumar,04:27,Hindi,10-10-2004,0.6,0.65,0.876,0.286,-5.074,0.1,160.054,0.0,1.0,0.02,4.0,94.0,527996.0,3
+Yeh Lal Rang,Kishore Kumar,/artist/kishore-kumar,04:11,Hindi,03-08-2022,0.59,0.577,0.333,0.111,-12.795,0.0,199.946,0.0,7.0,0.0417,4.0,42.0,3094155.0,0
+Mil Gaya Humko Saathi Mil Gaya,Kishore Kumar|Asha Bhosle,/artist/kishore-kumar|/artist/asha-bhosle-1,03:52,Hindi,05-03-2013,0.18,0.91,0.15,0.282,-8.741,0.0982,159.958,1.0,3.0,0.0,4.0,41.0,10861217.0,1
+Sare Shikve Gile,Anuradha Paudwal|Mohammad Aziz,/artist/anuradha-paudwal-2|/artist/mohammad-aziz,06:08,Hindi,08-02-2018,0.2,0.97,0.932,0.948,-4.84,0.043,119.04,0.0,9.0,0.023,4.0,56.0,6145495.0,1
+Jo Tumko Ho Pasand Wohi Baat Karenge,Mukesh,/artist/mukesh,04:41,Hindi,11-02-2020,0.35,0.87,0.41,0.65,-13.811,0.0933,111.921,1.0,9.0,0.055,4.0,74.0,8042205.0,1
+In Ankhon Ki Masti,Asha Bhosle,/artist/asha-bhosle-1,05:43,Hindi,12-04-2009,0.41,0.64,0.234,0.357,-8.639,0.0459,189.83,0.0,10.0,0.0603,4.0,100.0,10175898.0,0
+Tujh Sa Haseen,Kishore Kumar,/artist/kishore-kumar,05:21,Hindi,10-03-2013,0.2,0.277,0.811,0.49,-13.562,0.06,159.984,1.0,11.0,0.021,4.0,48.0,10550940.0,4
+Tumhen Ho Na Ho,Runa Laila,/artist/runa-laila,05:13,Hindi,05-08-2020,0.65,0.735,0.047,0.88,-3.509,0.04,166.043,1.0,0.0,0.09,4.0,90.0,614738.0,0
+Betaab Dil Ki Tamanna Yehi Hai,Lata Mangeshkar,/artist/lata-mangeshkar,05:33,Hindi,12-02-2007,0.6,0.333,0.745,0.573,-6.859,0.0589,190.402,1.0,1.0,0.0,4.0,64.0,6770067.0,3
+Jaane Ja Jane Ja,Udit Narayan|Shreya Ghoshal,/artist/udit-narayan|/artist/shreya-ghoshal,06:37,Hindi,05-12-2015,0.63,0.133,0.349,0.124,-7.778,0.0,190.46,1.0,0.0,0.034,4.0,26.0,7357842.0,4
+Ankhiyon Ke Jharokhon Se (Part 2),Hemlata,/artist/hemlata,07:33,Hindi,04-08-2018,0.29,0.86,0.649,0.107,-8.92,0.0473,194.088,1.0,1.0,0.091,4.0,92.0,8161345.0,0
+Resham Ka Romal,Ila Arun,/artist/ila-arun,04:33,Hindi,08-08-2009,0.38,0.72,0.779,0.742,-8.555,0.0712,204.022,1.0,11.0,0.07,4.0,78.0,4854507.0,0
+Chand Raat Tum Ho Saath,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,04:03,Hindi,08-04-2016,0.74,0.18,0.164,0.919,-9.491,0.01,190.064,0.0,7.0,0.06,4.0,40.0,8123455.0,4
+Zindagi Ka Safar,Kishore Kumar,/artist/kishore-kumar,03:59,Hindi,09-01-2018,0.55,0.61,0.145,0.971,-11.105,0.057,136.245,0.0,11.0,0.056,4.0,86.0,7092753.0,1
+Dilbar Mere,Kishore Kumar|Anette,/artist/kishore-kumar|/artist/anette,04:47,Hindi,08-03-2013,0.19,0.829,0.637,0.501,-7.766,0.047,109.806,1.0,7.0,0.018,4.0,43.0,2960880.0,1
+Tum Mile Pyar Se,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,03:47,Hindi,08-02-2012,0.71,0.62,0.72,0.724,-5.807,0.088,182.024,1.0,8.0,0.074,4.0,82.0,6068802.0,3
+Thodasa Pagla,Asha Bhosle,/artist/asha-bhosle-1,05:34,Hindi,10-05-2016,0.41,0.431,0.444,0.225,-12.78,0.099,110.616,1.0,1.0,0.068,4.0,96.0,2138250.0,1
+Ye Jawani Hai Diwani,Kishore Kumar,/artist/kishore-kumar,04:26,Hindi,12-09-2003,0.62,0.672,0.316,0.237,-5.054,0.033,191.944,1.0,1.0,0.09,4.0,39.0,1774890.0,0
+Tum Saath Ho Jab Apne,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,04:42,Hindi,09-07-2022,0.31,0.03,0.419,0.76,-12.295,0.024,161.92,1.0,9.0,0.05,4.0,87.0,4493306.0,4
+Yeh Hai Bambai Nagaria,Kishore Kumar,/artist/kishore-kumar,05:53,Hindi,01-04-2014,0.34,0.37,0.575,0.286,-10.5,0.0308,151.071,0.0,4.0,0.037,4.0,100.0,5193435.0,4
+Tera Saath Hai To,Lata Mangeshkar,/artist/lata-mangeshkar,05:34,Hindi,10-10-2015,0.99,0.381,0.543,0.631,-5.325,0.0,179.84,1.0,0.0,0.039,4.0,53.0,5572292.0,0
+Chup Gaye Sare Nazare,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,05:29,Hindi,08-01-2002,0.72,0.349,0.054,0.213,-3.773,0.07,122.244,1.0,5.0,0.08,4.0,33.0,1752356.0,2
+Boom Boom,Nazia Hassan,/artist/nazia-hassan,05:18,Hindi,07-04-2011,0.23,0.27,0.822,0.493,-6.823,0.038,123.056,1.0,5.0,0.01,4.0,69.0,2963855.0,4
+Pyar Diwana Hota Hain,Kishore Kumar,/artist/kishore-kumar,03:19,Hindi,04-02-2002,0.9,0.941,0.608,0.255,-13.504,0.0002,110.067,1.0,5.0,0.0904,4.0,72.0,3613663.0,2
+Hanste Hanste Kat Jaye Raaste- 2,Sadhana Sargam|Sonali|Chorus,/artist/sadhana-sargam-1|/artist/sonali|/artist/chorus,04:04,Hindi,06-02-2016,0.63,0.65,0.933,0.225,-9.988,0.045,104.485,0.0,10.0,0.0328,4.0,29.0,2526021.0,2
+Yaadon Ki Baaraat (Female Version),Lata Mangeshkar|Padmini Kolhapure|Shivangi Kolhapure,/artist/lata-mangeshkar|/artist/padmini-kolhapure|/artist/shivangi-kolhapure,03:51,Hindi,12-03-2014,0.47,0.1,0.142,0.625,-8.384,0.037,169.171,0.0,1.0,0.0665,4.0,80.0,11267144.0,4
+Suno Sajna Papihe Ne Kaha,Lata Mangeshkar,/artist/lata-mangeshkar,05:26,Hindi,07-03-2021,0.22,0.87,0.423,0.605,-2.16,0.022,116.012,1.0,1.0,0.068,4.0,25.0,9535498.0,2
+Jeena Yahan Marna Yahan - With Dialogue,Mukesh,/artist/mukesh,04:28,Hindi,05-01-2012,0.39,0.301,0.236,0.961,-12.078,0.06,192.038,0.0,8.0,0.065,4.0,33.0,2121703.0,4
+Kasme Wade Pyar Wafa,Manna Dey,/artist/manna-dey,03:30,Hindi,11-05-2000,0.72,0.86,0.084,0.23,-7.565,0.027,171.392,0.0,5.0,0.0289,4.0,92.0,3178275.0,0
+Mere Mehboob Qayamat Hogi (Part 1),Kishore Kumar,/artist/kishore-kumar,03:48,Hindi,12-11-2005,0.42,0.873,0.58,0.111,-12.502,0.042,160.009,0.0,2.0,0.1,4.0,84.0,2655907.0,0
+Tum Itna Jo Muskura Rahe Ho,Jagjit Singh,/artist/jagjeet-singh-1,05:21,Hindi,05-08-2023,0.46,0.924,0.249,0.374,-10.806,0.091,122.017,1.0,0.0,0.0185,4.0,54.0,1713359.0,1
+Shokhiyon Mein Ghola Jaye,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,05:06,Hindi,02-01-2004,0.59,0.032,0.974,0.012,-10.623,0.08,120.032,0.0,11.0,0.06,4.0,60.0,9199897.0,3
+Dooriyan Nazdikiyan Ban Gayi,Kishore Kumar|Asha Bhosle,/artist/kishore-kumar|/artist/asha-bhosle-1,05:12,Hindi,08-07-2017,0.87,0.64,0.401,0.425,-11.116,0.083,196.156,1.0,4.0,0.06,4.0,71.0,4896396.0,3
+Jaane Do Naa,Asha Bhosle|Shailendra Singh,/artist/asha-bhosle-1|/artist/shailendra-singh,05:03,Hindi,04-09-2010,0.65,0.11,0.77,0.76,-5.085,0.0485,103.98,1.0,9.0,0.0934,4.0,31.0,2748805.0,2
+Mujhe Teri Mohabbat Ka Sahara,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,06:21,Hindi,04-04-2020,0.57,0.198,0.027,0.993,-11.736,0.01,174.038,1.0,4.0,0.09,4.0,45.0,8632303.0,4
+Pardesiyon Se Na Ankhiyan Milana Revival,Mohammed Rafi,/artist/mohammad-rafi,03:18,Hindi,06-04-2008,0.72,0.83,0.132,0.646,-5.894,0.008,171.447,0.0,10.0,0.088,4.0,92.0,1484252.0,0
+Bol Radha Bol,Mukesh|Vyjayanthimala,/artist/mukesh|/artist/vyjayanthimala,04:22,Hindi,07-10-2011,0.58,0.84,0.569,0.523,-6.161,0.0229,103.974,0.0,5.0,0.0966,4.0,46.0,2860332.0,2
+Dil Ne Dil Ko Pukara (Part 1),Mohammed Rafi|Lata Mangeshkar,/artist/mohammad-rafi|/artist/lata-mangeshkar,05:29,Hindi,05-09-2001,0.37,0.581,0.114,0.448,-13.83,0.0258,103.89,1.0,0.0,0.05,4.0,46.0,8157005.0,2
+Dum Maro Dum,Asha Bhosle,/artist/asha-bhosle-1,03:39,Hindi,09-07-2014,0.71,0.27,0.052,0.654,-9.063,0.06,123.878,0.0,10.0,0.07,4.0,94.0,11331788.0,2
+Ek Ajnabee Haseena Se,Kishore Kumar,/artist/kishore-kumar,04:27,Hindi,09-11-2012,0.97,0.14,0.891,0.334,-11.231,0.01,120.014,1.0,5.0,0.0044,4.0,62.0,78064.0,2
+Raat Baaqi Baat Baaqi,Asha Bhosle|Bappi Lahiri|Shashi Kapoor,/artist/asha-bhosle-1|/artist/bappi-lahiri|/artist/shashi-kapoor,06:19,Hindi,03-02-2022,0.25,0.169,0.535,0.835,-9.63,0.06,119.961,1.0,7.0,0.06,4.0,70.0,7260899.0,4
+Diwana Hua Badal,Asha Bhosle|Mohammed Rafi,/artist/asha-bhosle-1|/artist/mohammad-rafi,05:58,Hindi,02-03-2014,0.06,0.33,0.887,0.298,-7.544,0.0309,117.005,0.0,3.0,0.086,4.0,31.0,11009197.0,4
+Ye Zamin Gaa Rahi Hai,Amit Kumar,/artist/amit-kumar,05:25,Hindi,06-12-2002,0.22,0.78,0.169,0.475,-2.368,0.01,173.861,1.0,11.0,0.02,4.0,75.0,8319829.0,0
+Bharat Ka Rahnewala Hoon,Mahendra Kapoor,/artist/mahendra-kapoor,05:31,Hindi,11-04-2005,0.76,0.241,0.333,0.623,-3.053,0.0598,157.74,0.0,5.0,0.0871,4.0,64.0,2728128.0,3
+Gali Gali Mein,Manhar Udhas|Alka Yagnik,/artist/manhar-udhas|/artist/alka-yagnik,05:40,Hindi,09-01-2003,0.44,0.717,0.162,0.997,-6.706,0.0098,110.007,0.0,3.0,0.03,4.0,61.0,8239731.0,2
+Jeevan Se Bhari Teri Ankhen,Kishore Kumar,/artist/kishore-kumar,03:27,Hindi,07-02-2004,0.9,0.07,0.69,0.626,-9.277,0.01,126.023,1.0,5.0,0.04,4.0,85.0,5188294.0,2
+Super Dancer,Bappi Lahiri|Alisha Chinai,/artist/bappi-lahiri|/artist/alisha-chinai,06:34,Hindi,09-08-2021,0.82,0.12,0.316,0.604,-13.955,0.099,170.136,1.0,4.0,0.0997,4.0,28.0,9365013.0,3
+Nani Teri Morni Ko,Ranu Mukherjee,/artist/ranu-mukherjee,03:05,Hindi,11-11-2006,0.77,0.38,0.99,0.453,-10.931,0.06,169.966,1.0,6.0,0.0448,4.0,36.0,978784.0,3
+Maine Tujhse Pyar Kiya Hai,Mohammad Aziz|Anuradha Paudwal,/artist/mohammad-aziz|/artist/anuradha-paudwal-2,05:29,Hindi,01-09-2012,0.28,0.13,0.052,0.998,-7.012,0.0647,188.186,1.0,6.0,0.07,4.0,71.0,1270506.0,4
+Dil Pukare Aare Aare (with Dialogue),Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,07:02,Hindi,01-12-2005,0.99,0.246,0.238,0.741,-6.08,0.1,125.04,1.0,1.0,0.0,4.0,90.0,40851.0,3
+Bhole O Bhole,Kishore Kumar,/artist/kishore-kumar,03:55,Hindi,02-08-2000,0.95,0.657,0.399,0.724,-8.129,0.06,187.558,0.0,4.0,0.02,4.0,98.0,5861108.0,0
+Bahoot Khoobsoorat Ek Ladki,Kishore Kumar,/artist/kishore-kumar,04:38,Hindi,09-08-2022,0.56,0.76,0.126,0.983,-8.273,0.052,180.335,1.0,1.0,0.08,4.0,84.0,11216306.0,0
+Neend Churake Raaton Mein,Asha Bhosle|Kishore Kumar,/artist/asha-bhosle-1|/artist/kishore-kumar,04:51,Hindi,12-02-2024,0.27,0.4,0.222,0.016,-9.186,0.0086,170.51,0.0,10.0,0.05,4.0,93.0,6797950.0,4
+Akele Hain Chale Aao,Mohammed Rafi,/artist/mohammad-rafi,03:35,Hindi,01-01-2022,0.37,0.64,0.335,0.479,-6.059,0.09,176.241,0.0,11.0,0.05,4.0,54.0,7777790.0,1
+Pyar Hamara Amar Rahega,Asha Bhosle|Mohammad Aziz,/artist/asha-bhosle-1|/artist/mohammad-aziz,06:34,Hindi,03-01-2018,0.46,0.44,0.783,0.989,-7.839,0.0945,154.961,1.0,5.0,0.0203,4.0,85.0,1611966.0,1
+Thare Rahiyo O Banke Yaar,Lata Mangeshkar,/artist/lata-mangeshkar,05:53,Hindi,05-08-2015,0.24,0.0,0.042,0.556,-5.888,0.034,199.98,1.0,0.0,0.0029,4.0,67.0,9483749.0,4
+Ankhiyon Ke Jharokhon Se (Part 3),Hemlata,/artist/hemlata,05:48,Hindi,07-12-2008,0.35,0.173,0.97,0.747,-9.469,0.008,159.803,1.0,7.0,0.0253,4.0,37.0,10359064.0,4
+Aa Ab Laut Chalen,Alka Yagnik|Udit Narayan,/artist/alka-yagnik|/artist/udit-narayan,05:04,Hindi,10-07-2017,0.17,0.66,0.773,0.471,-9.26,0.01,179.954,1.0,2.0,0.0336,4.0,80.0,7744739.0,0
+Dil Dhundta Hai,Bhupinder Singh|Lata Mangeshkar,/artist/bhupinder-singh|/artist/lata-mangeshkar,08:18,Hindi,04-01-2018,0.36,0.01,0.879,0.498,-11.109,0.038,125.906,0.0,4.0,0.0622,4.0,78.0,8558706.0,4
+Dil Mein Kisi Ke Pyar Ka,Lata Mangeshkar,/artist/lata-mangeshkar,03:16,Hindi,09-03-2005,0.81,0.696,0.79,0.358,-10.01,0.03,186.562,1.0,7.0,0.08,4.0,36.0,10516296.0,0
+O Saathi Re (Female),Asha Bhosle,/artist/asha-bhosle-1,05:22,Hindi,01-04-2003,0.04,0.37,0.896,0.482,-2.984,0.025,199.89,1.0,0.0,0.02,4.0,41.0,2304195.0,4
+Mere Sanam Tere Sar Ki Kasam,Mohammad Aziz|Anuradha Paudwal,/artist/mohammad-aziz|/artist/anuradha-paudwal-2,05:16,Hindi,05-01-2009,0.82,0.37,0.966,0.807,-13.526,0.0836,205.696,0.0,8.0,0.08,4.0,63.0,3211205.0,3
+Gore Rang Pe Itna Gumaan Na Kar,Kishore Kumar|Lata Mangeshkar,/artist/kishore-kumar|/artist/lata-mangeshkar,04:51,Hindi,01-09-2023,0.56,0.58,0.398,0.161,-2.892,0.0159,133.993,0.0,11.0,0.072,4.0,97.0,1585059.0,2
+Woh Hai Zara Khafa Khafa,Lata Mangeshkar|Mohammed Rafi,/artist/lata-mangeshkar|/artist/mohammad-rafi,05:53,Hindi,09-03-2015,0.61,0.03,0.57,0.253,-7.877,0.013,138.953,0.0,10.0,0.02,4.0,62.0,5706504.0,4
+Har Kisiko Nahin Milta Yahan Pyar,Sadhna Sargam,/artist/sadhna-sargam-1,03:20,Hindi,01-03-2005,0.59,0.459,0.979,0.061,-13.074,0.045,141.099,0.0,4.0,0.059,4.0,32.0,3910603.0,2
+Wada Na Tod,Lata Mangeshkar,/artist/lata-mangeshkar,05:57,Hindi,06-12-2016,0.26,0.132,0.109,0.811,-12.496,0.0158,179.142,1.0,2.0,0.0601,4.0,49.0,7107908.0,4
+Mausam Mastana,Asha Bhosle|Dilraj Kaur,/artist/asha-bhosle-1|/artist/dilraj-kaur,04:37,Hindi,06-04-2002,0.4,0.63,0.608,0.713,-8.391,0.07,188.728,1.0,9.0,0.0349,4.0,55.0,1826725.0,0
+Mann Ki Lagan,Rahat Fateh Ali Khan,/artist/rahat-fateh-ali-khan,04:51,Hindi,06-06-2020,0.43,0.79,0.879,0.59,-13.411,0.0743,124.003,0.0,3.0,0.0663,4.0,95.0,9682061.0,1
+Mere Angne Mein - Amitabh Bachchan,Amitabh Bachchan,/artist/amitabh-bachchan,05:17,Hindi,09-09-2001,0.43,0.656,0.457,0.749,-9.333,0.08,171.755,0.0,1.0,0.02,4.0,81.0,5326489.0,1
+Ankhon Mein Qayamat Ke Kajal,Mahendra Kapoor,/artist/mahendra-kapoor,04:24,Hindi,01-03-2001,0.3,0.74,0.403,0.301,-3.944,0.05,155.582,0.0,4.0,0.05,4.0,82.0,9930346.0,1
+Maine Pyar Kiya,Lata Mangeshkar|S. P. Balasubrahmanyam,/artist/lata-mangeshkar|/artist/s-p-balasubrahamanyam,06:51,Hindi,07-10-2002,0.71,0.56,0.116,0.288,-8.991,0.004,138.015,1.0,7.0,0.062,4.0,35.0,9893945.0,2
+Lahron Ki Tarah Yaaden,Kishore Kumar,/artist/kishore-kumar,05:31,Hindi,11-02-2006,0.06,0.291,0.795,0.486,-2.126,0.02,197.12,0.0,10.0,0.08,4.0,69.0,10603696.0,4
+Naina Barse Rimjhim Rimjhim,Lata Mangeshkar,/artist/lata-mangeshkar,05:55,Hindi,09-03-2010,0.82,0.42,0.053,0.977,-12.774,0.053,183.384,0.0,10.0,0.081,4.0,28.0,10267862.0,0
+Ghata Chha Gayee Hai,Lata Mangeshkar|Suresh Wadkar,/artist/lata-mangeshkar|/artist/suresh-wadkar,06:00,Hindi,12-03-2018,0.89,0.04,0.881,0.343,-4.117,0.078,190.032,1.0,2.0,0.0414,4.0,71.0,1447773.0,3
+Yeh Kya Hua,Kishore Kumar,/artist/kishore-kumar,04:33,Hindi,10-06-2002,0.98,0.455,0.328,0.027,-11.377,0.05,107.949,1.0,6.0,0.052,4.0,91.0,7689173.0,2
+Muqaddar Ka Sikandar,Kishore Kumar,/artist/kishore-kumar,05:22,Hindi,11-04-2018,0.19,0.65,0.057,0.214,-13.274,0.04,110.003,1.0,0.0,0.044,4.0,27.0,1443913.0,1
+Yeh Lal Rang,Kishore Kumar,/artist/kishore-kumar,04:11,Hindi,11-11-2021,0.73,0.7,0.501,0.786,-9.63,0.04,125.795,1.0,0.0,0.0396,4.0,80.0,2894799.0,2
+Likhne Wale Ne Likh Dale,Lata Mangeshkar|Suresh Wadkar,/artist/lata-mangeshkar|/artist/suresh-wadkar,07:46,Hindi,01-11-2002,0.26,0.09,0.938,0.074,-3.191,0.1,190.53,1.0,0.0,0.01,4.0,98.0,1894037.0,3
