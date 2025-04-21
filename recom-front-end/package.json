@@ -15,7 +15,8 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "swiper": "^11.2.4",
-    "swiper.js": "^1.0.0"
+    "swiper.js": "^1.0.0",
+    "vite-plugin-svgr": "^4.3.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",

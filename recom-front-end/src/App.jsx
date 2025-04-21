@@ -2,9 +2,10 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import "./App.css";
 
-import Background from "./assets/background.webp";
+import background from "./assets/backgroundmusic.jpg"
 import bg from "./assets/bg.webp";
 import SongCard from "./Card";
+import Search from "./assets/magnifying-glass-solid (1).svg?react"
 
 const App = () => {
   const [songName, setSongName] = useState("");
@@ -29,6 +30,7 @@ const App = () => {
         const response = await axios.get(
           `http://127.0.0.1:5000/search?query=${encodeURIComponent(songName)}`
         );
+        console.log(response.data.songs)
         setSuggestions(response.data.songs);
         setShowDropdown(true);
       } catch (error) {
@@ -63,10 +65,10 @@ const App = () => {
   return (
     <div className="App">
       <div className="image-container">
-        <img src={bg} />
+        <img src={background} />
       </div>
       <div className="Window" style={{ padding: "20px", fontFamily: "Arial" }}>
-        <h1>🎵 Hindi Song Recommender</h1>
+        <h1> Hindi Song Recommender</h1>
 
         <div className="input-bar">
           <input
@@ -74,21 +76,13 @@ const App = () => {
             placeholder="Enter song name"
             onChange={(e) => setSongName(e.target.value)}
             value={songName}
-            style={{}}
             className="input-field"
           />
           <button
             onClick={fetchRecommendations}
-            style={{
-              padding: "10px",
-              borderRadius: "30px",
-              backgroundColor: "white",
-              backdropFilter: "blur(10px)",
-              border: "none",
-              cursor: "pointer",
-            }}
+            className="search-button"
           >
-            🔍
+            <Search style ={{height: "30px"}}/>
           </button>
         </div>
 
