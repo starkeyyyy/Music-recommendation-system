@@ -3,6 +3,10 @@ from flask_cors import CORS
 import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
+import requests
+import base64
+from dotenv import load_dotenv
+import os
 
 app = Flask(__name__)
 CORS(app)  # Allow requests from frontend
@@ -66,17 +70,78 @@ def recommend_songs(song_name, num_recommendations=5):
 
     return {"message": "Recommendations found!", "recommendations": recommendations}
 
+SPOTIFY_CLIENT_ID = os.getenv("SPOTIFY_CLIENT_ID")
+SPOTIFY_CLIENT_SECRET = os.getenv("SPOTIFY_CLIENT_SECRET")
+
+def get_spotify_token():
+    auth_str = f"{SPOTIFY_CLIENT_ID}:{SPOTIFY_CLIENT_SECRET}"
+    b64_auth_str = base64.b64encode(auth_str.encode()).decode()
+
+    headers = {
+        "Authorization": f"Basic {b64_auth_str}",
+    }
+    data = {
+        "grant_type": "client_credentials",
+    }
+
+    resp = requests.post("https://accounts.spotify.com/api/token", headers=headers, data=data)
+    return resp.json().get("access_token")
+
+def get_spotify_song_data(song_name, token):
+    headers = {
+        "Authorization": f"Bearer {token}"
+    }
+
+    params = {
+        "q": song_name,
+        "type": "track",
+        "limit": 1
+    }
+
+    resp = requests.get("https://api.spotify.com/v1/search", headers=headers, params=params)
+    items = resp.json().get("tracks", {}).get("items", [])
+
+    if not items:
+        return None
+
+    track = items[0]
+
+    return {
+        "title": track["name"],
+        "artist": track["artists"][0]["name"],
+        "album": track["album"]["name"],
+        "cover_url": track["album"]["images"][0]["url"],
+        "release_date": track["album"]["release_date"],
+        "spotify_url": track["external_urls"]["spotify"],
+        "duration_ms": track["duration_ms"]
+    }
+
+
 @app.route("/recommend", methods=["POST"])
 def recommend():
-    """POST endpoint to get song recommendations."""
     data = request.json
     song_name = data.get("song_name", "").strip()
 
     if not song_name:
         return jsonify({"error": "Song name is required"}), 400
 
-    result = recommend_songs(song_name)
-    return jsonify(result)
+    # Get song recommendations (your existing logic)
+    recommended_songs = recommend_songs(song_name)
+
+    # Get Spotify token
+    token = get_spotify_token()
+
+    # Attach Spotify info to each recommended song
+    enriched = []
+    songs = [rec["song_name"] for rec in recommended_songs["recommendations"]]
+    for rec in songs:
+        spotify_data = get_spotify_song_data(rec, token)
+        print(recommended_songs["message"])
+        if spotify_data:
+             enriched.append(spotify_data)
+
+    return jsonify({"songs" :enriched , 'message' : recommended_songs["message"]})
+
 
 @app.route("/random", methods=["GET"])
 

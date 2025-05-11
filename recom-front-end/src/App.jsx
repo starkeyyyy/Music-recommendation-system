@@ -1,11 +1,13 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import "./App.css";
+import Spotify from "./assets/spotify-brands-solid.svg";
 
 import background from "./assets/backgroundmusic.jpg"
 import bg from "./assets/bg.webp";
 import SongCard from "./Card";
 import Search from "./assets/magnifying-glass-solid (1).svg?react"
+import Loader from "./loader";
 
 const App = () => {
   const [songName, setSongName] = useState("");
@@ -13,12 +15,13 @@ const App = () => {
   const [message, setMessage] = useState("");
   const [suggestions, setSuggestions] = useState([]);
   const [showDropdown, setShowDropdown] = useState(true);
+  const [showLoader , setShowLoader] = useState(false);
 
   useEffect(() => {
     if (showDropdown === false && songName !== "") {
       fetchRecommendations();
     }
-  }, [songName]);
+  }, [songName , recommendations]);
 
   useEffect(() => {
     if (songName.length < 2) {
@@ -26,6 +29,7 @@ const App = () => {
       return;
     }
     const fetchSuggestions = async () => {
+      if (!showDropdown && songName !== '') return;
       try {
         const response = await axios.get(
           `http://127.0.0.1:5000/search?query=${encodeURIComponent(songName)}`
@@ -50,12 +54,16 @@ const App = () => {
     }
 
     try {
+      setShowLoader(true);
       const response = await axios.post("http://127.0.0.1:5000/recommend", {
         song_name: songName,
       });
 
-      setRecommendations(response.data.recommendations);
-      setMessage(response.data.message);
+      setRecommendations(response.data.songs); 
+      console.log(response.data)
+    setMessage(response.data.message);
+    setShowLoader(false);
+    setShowDropdown(true)
     } catch (error) {
       console.error("Error fetching recommendations:", error);
       setMessage("Error fetching recommendations.");
@@ -65,12 +73,13 @@ const App = () => {
   return (
     <div className="App">
       <div className="image-container">
-        <img src={background} />
+        <img className = 'bg-image' src={background} />
       </div>
       <div className="Window" style={{ padding: "20px", fontFamily: "Arial" }}>
-        <h1> Hindi Song Recommender</h1>
+        <div className="heading" ><img src={Spotify} style={{height: '90px' , fill: "white"}}/><h1> Hindi Song Recommender</h1></div>
 
-        <div className="input-bar">
+        <div className="search" >
+          <div className="input-bar">
           <input
             type="text"
             placeholder="Enter song name"
@@ -87,7 +96,7 @@ const App = () => {
         </div>
 
         <div className="dropdown">
-          {showDropdown && suggestions.length > 1 && (
+          {showDropdown && suggestions.length > 0 && (
             <div className="button">
               {suggestions.map((song, index) => (
                 <button
@@ -110,13 +119,15 @@ const App = () => {
             </div>
           )}
         </div>
+        </div>
         <div className="recoms">
         {message && (
           <p>
             <strong>{message}</strong>
           </p>
         )}
-        <SongCard data={recommendations} />
+        {recommendations && <SongCard data={recommendations} />}
+        {showLoader && <Loader/>}
         </div>
 
       </div>
