@@ -1,0 +1,14 @@
+# render.yaml
+services:
+  - type: web
+    name: flask-backend
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    envVars:
+      - key: SPOTIFY_CLIENT_ID
+        sync: false
+      - key: SPOTIFY_CLIENT_SECRET
+        sync: false
+    plan: free
+    rootDir: python-model
