@@ -18,12 +18,11 @@ html, body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 90%;
+  width: 100%;
   height: 90vh; /* Full screen */
-  backdrop-filter: blur(5px);
-  border-radius: 50px;
-  border: solid 2px black;
-  background: rgba(70, 70, 70, 0.4); /* Increase transparency */
+
+  
+  
 }
 
 .image-container {
@@ -42,20 +41,17 @@ html, body {
   object-position: top ; /* Moves the image down slightly while keeping the top part visible */
 }
 
-h2{
-  margin-left: 40px;
-}
+
 
 
 
 h1{
   font-family: poppins;
-  font-size: 90px;
-  color: rgba(238, 235, 235, 0.73);
-  letter-spacing: 0px;
-  word-spacing: 0px;;
+  font-size: 55px;
+  color: rgb(7, 0, 0);
   font-weight: 300;
-  margin-left: 30px
+  margin-left: 30px;
+  padding: 0px;
 }
 
 .dropdown{
@@ -63,9 +59,11 @@ h1{
   backdrop-filter: blur(5px);
   background-color: #1914147e; 
   z-index: 3;
-  width: 52.5rem;
+  width: 40.5rem;
   border-bottom-left-radius: 30px; 
   border-bottom-right-radius: 30px;
+  position: absolute;
+  top: 8rem
 }
 
 .button{
@@ -79,15 +77,13 @@ h1{
 
 .input-field{
   padding: 5px 20px 5px 20px;
-  width: 100%;
-
- 
+  width: 100%; 
   backdrop-filter: blur(10px);
   background-color: rgba(25, 20, 20, 0);
   border-bottom: 1px solid black;
-
   height: 40px;
   font-size: 25px;
+  margin-top: 10px;
 }
 
 input{
@@ -102,7 +98,7 @@ input{
 .input-bar{
   display :flex;
   align-items: center;
-  width: 52.5rem;
+  width: 40.5rem;
 
 }
 
@@ -113,22 +109,20 @@ input{
   align-items: center;
 
 }
-.recoms{
-  margin-top: 50px;
-}
+
 p strong{
   position: absolute;
-  top: 15rem;
   font-family: poppins;
   font-weight: 400;
-  font-size: 3rem;
-  left: 4rem;
+  font-size: 1rem;
+  left: 50%;
+  transform: translateX(-50%);
 }
 .search-button{
   all: unset;
   position:absolute;
-  right: 30rem;
-  top: 12rem;
+  right: 29rem;
+  top: 5.55rem;
   
 }
 
@@ -148,24 +142,30 @@ body {
 
   transition: transform 0.3s ease-in-out;
   display: flex;
-
-  top: 50%;
-  left: 50%;
-  transform: translate(-50% , -35%);
-  position: absolute;
+  position: relative;
   justify-content: center;
   align-items: center;
-  width: 100%;
-  height: 100vh;
-  padding: 1.5rem;
-  z-index: -1;
+  width: 80%;
+  padding: 1rem;
+  margin-left: 8.5rem;
+  margin-top: 0px;
 }
 
+.no-recommendations{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 1.5rem;
+  text-align: center;
+  font-family: Poppins;
+}
 
 
 /* Card styles */
 .spotify-card {
-  width: 20rem;
+  width: 18rem;
   background-color: rgba(0, 0, 0, 0.6);
   backdrop-filter: blur(10px);
   border-radius: 0.75rem;
@@ -174,7 +174,6 @@ body {
   border: 1px solid #1a1a1a;
   transform: translateY(0);
   transition: all 0.3s ease;
-  margin: 1rem;
 }
 
 .spotify-card:hover {
@@ -198,7 +197,6 @@ body {
   width: 100%;
   height: auto;
   object-fit: cover;
-  filter: grayscale(0%);
   transition: filter 0.5s ease;
 }
 
@@ -314,11 +312,9 @@ body {
 .heading{
   display:flex;
 width: 100%;
-height: 120px;
+height: 80px;
 justify-content: center;
 align-items: center;
-margin: 10px;
-margin-top: 2rem;
 }
 
 .link{
@@ -340,5 +336,6 @@ margin-top: 2rem;
   display:flex;
   flex-direction: column;
   align-items: center;
+  z-index: 1000;
 
 }

@@ -1,17 +1,20 @@
 import React from "react";
-import loading from './assets/loader.gif'
+
 import loading2 from './assets/loader2.gif'
+
 
 const Loader = () => {
   return (
     <div className="loader">
       <img 
-        src={loading}
+        src={loading2}
         alt="Loading..." 
         className="loading"
-        style={{width: '500px' , height: '500px'}}
+        style={{width: '200px',  height: 'auto', zIndex: 1000}}
+        
+        
       />
-      <div>loading....</div>
+      <div style={{color:"black" , fontSize: "25px" , fontFamily: "Poppins" , fontWeight:"bold"}}>Loading...</div>
     </div>
   );
 };
