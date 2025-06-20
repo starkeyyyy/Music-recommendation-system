@@ -1,9 +1,7 @@
-# render.yaml
 services:
   - type: web
     name: flask-backend
     env: python
-    buildCommand: pip install --prefer-binary --no-cache-dir -r requirements.txt
     startCommand: gunicorn app:app
     envVars:
       - key: SPOTIFY_CLIENT_ID
@@ -12,5 +10,3 @@ services:
         sync: false
     plan: free
     rootDir: python-model
-    build:
-      context: ./python-model
