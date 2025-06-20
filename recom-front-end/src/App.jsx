@@ -32,7 +32,7 @@ const App = () => {
       if (!showDropdown && songName !== '') return;
       try {
         const response = await axios.get(
-          `http://127.0.0.1:5000/search?query=${encodeURIComponent(songName)}`
+          `https://music-recommendation-system-4d2f.onrender.com/search?query=${encodeURIComponent(songName)}`
         );
         console.log(response.data.songs)
         setSuggestions(response.data.songs);
@@ -55,7 +55,7 @@ const App = () => {
 
     try {
       setShowLoader(true);
-      const response = await axios.post("http://127.0.0.1:5000/recommend", {
+      const response = await axios.post("https://music-recommendation-system-4d2f.onrender.com/recommend", {
         song_name: songName,
       });
 
