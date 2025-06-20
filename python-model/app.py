@@ -162,9 +162,10 @@ def search_songs():
         return jsonify({"songs": []})  # Return empty if no query
     
     # Filter songs that contain the query (case insensitive)
-    matched_songs = df[df["song_name"].str.lower().str.contains(query, na=False)]
-    
-    return jsonify({"songs": matched_songs["song_name"].head(10).tolist()})  # Return top 1
+    top_songs = df.head(197)
+    matched_songs = top_songs[top_songs["song_name"].str.lower().str.contains(query, na=False)]
+
+    return jsonify({"songs": matched_songs["song_name"].head(10).tolist()})  # Return top 10
 
 
 if __name__ == "__main__":
