@@ -12,3 +12,5 @@ services:
         sync: false
     plan: free
     rootDir: python-model
+    build:
+      context: ./python-model
